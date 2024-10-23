@@ -26,6 +26,14 @@ You can raise new issues [here](https://github.com/Argual/Satisfactory-ArgualFlu
 - Pressurized and Compressed fluids have the same icons as their normal variants.
 >No plans to change this for now.
 
+### Translations
+
+You can submit translations as [new issues](https://github.com/Argual/Satisfactory-ArgualFluidPressurizer/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen). Make sure to follow the [example](https://github.com/Argual/Satisfactory-ArgualFluidPressurizer/issues/1) by correctly labeling the issue. Translations must be in Json format with only the values edited.  
+
+Supported languages:
+- English
+- German
+
 ### Screenshots  
 
 The screenshots below show a 100% efficient conversion of 1200m³/min water to 120m³/min compressed water. The images also demonstrate that the final result (compressed water) does not need pumps to flow into the elevated buffer.
