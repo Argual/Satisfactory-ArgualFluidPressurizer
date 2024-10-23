@@ -18,6 +18,8 @@ Allow fewer pipes to be built over long range at the cost of complexity. As comp
 
 ### Known issues  
 
+You can raise new issues [here](https://github.com/Argual/Satisfactory-ArgualFluidPressurizer/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen).  
+
 - Upon unlocking the pressure modulator, ADA forgets to unmute the mic, so the pioneers can only read the subtitles.
 >Waiting for better audio modding utilities, the sound is made, but I cannot make it play for now.
 
