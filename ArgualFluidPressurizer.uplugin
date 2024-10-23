@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.1",
 	"FriendlyName": "Pressure Modulator",
-	"Description": "Adds a new factory building to compress/decompress fluids, making long range transport through pipes require fewer pipelines and trans be able to transport more fluids effectively.",
+	"Description": "Adds a new factory building to compress/decompress fluids, making long range transport through pipes require fewer pipelines and trains be able to transport more fluids effectively.",
 	"Category": "Modding",
 	"CreatedBy": "Argual",
 	"CreatedByURL": "",
@@ -21,7 +21,7 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.0.1",
 	"GameVersion": ">=365306",
 	"LocalizationTargets": [
 		{
