@@ -6,7 +6,7 @@ The pressure modulator can pressurize fluids in a 5:1 ratio. The pressurized flu
 Pressurized and compressed fluids cannot be packaged (due to the high pressure).
 
 One pressure modulator can process normal fluids into pressurized fluids at 240m³/min (into 48m³/min).  
-One pressure modulator can process normal fluids into compressed fluids at 120m³/min (into 24m³/min).  
+One pressure modulator can process normal fluids into compressed fluids at 120m³/min (into 12m³/min).  
 One pressure modulator can process pressurized fluids into compressed fluids at 240m³/min (into 120m³/min).  
 
 The pressure modulator can be overclocked up to 250%, but cannot duplicate (boost) fluids using Somersloops.
