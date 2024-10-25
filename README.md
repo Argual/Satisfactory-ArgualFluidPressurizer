@@ -33,6 +33,7 @@ You can submit translations as [new issues](https://github.com/Argual/Satisfacto
 Supported languages:
 - English
 - German
+- Hungarian
 - Korean (translations by [bpforest](https://github.com/bpforest))
 
 ### Screenshots  
