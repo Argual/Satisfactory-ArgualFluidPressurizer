@@ -1,0 +1,953 @@
+﻿# ru Russian translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"POT-Creation-Date: 2024-11-06 07:35\n"
+"PO-Revision-Date: 2024-11-06 07:35\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key:	1AFA28D641ABDF9B793FDE94865C28EB
+#. SourceLocation:	/ArgualFluidPressurizer/Buildables/PressureModulator/Build_PressureModulator.Default__Build_PressureModulator_C.mDescription
+#: /ArgualFluidPressurizer/Buildables/PressureModulator/Build_PressureModulator.Default__Build_PressureModulator_C.mDescription
+msgctxt ",1AFA28D641ABDF9B793FDE94865C28EB"
+msgid "Pressurizes and depressurizes fluids.\r\nHead Lift: 10 m\r\n(Allows fluids to be transported 10 meters upwards.)"
+msgstr "Создает и сбрасывает давление жидкостей.\r\nМаксимальная высота подачи: 10  метров."
+
+#. Key:	D633856C4E3D3E8D816E97BC8AB5EAF9
+#. SourceLocation:	/ArgualFluidPressurizer/Buildables/PressureModulator/Build_PressureModulator.Default__Build_PressureModulator_C.mDisplayName
+#: /ArgualFluidPressurizer/Buildables/PressureModulator/Build_PressureModulator.Default__Build_PressureModulator_C.mDisplayName
+msgctxt ",D633856C4E3D3E8D816E97BC8AB5EAF9"
+msgid "Pressure Modulator"
+msgstr "Модуль давления"
+
+#. Key:	FD02771A409403E21A4974AB63C75E48
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_Compressing.Default__Cat_Compressing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_Compressing.Default__Cat_Compressing_C.mDisplayName
+msgctxt ",FD02771A409403E21A4974AB63C75E48"
+msgid "Compressing"
+msgstr "Сжатие"
+
+#. Key:	7A3A58904A4986F111EB45BE0E9A24D1
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_Decompressing.Default__Cat_Decompressing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_Decompressing.Default__Cat_Decompressing_C.mDisplayName
+msgctxt ",7A3A58904A4986F111EB45BE0E9A24D1"
+msgid "Decompressing"
+msgstr "Разжатие"
+
+#. Key:	D293FD874191C05DCE788B8CE4A1E504
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_Depressurizing.Default__Cat_Depressurizing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_Depressurizing.Default__Cat_Depressurizing_C.mDisplayName
+msgctxt ",D293FD874191C05DCE788B8CE4A1E504"
+msgid "Depressurizing"
+msgstr "Сброс давления"
+
+#. Key:	F6D68AC44C906A7138833C9F2257F8FA
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_Pressurizing.Default__Cat_Pressurizing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_Pressurizing.Default__Cat_Pressurizing_C.mDisplayName
+msgctxt ",F6D68AC44C906A7138833C9F2257F8FA"
+msgid "Pressurizing"
+msgstr "Создание давления"
+
+#. Key:	0FA046A04292FF7CBACFEA81D7CB4691
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_QuickCompressing.Default__Cat_QuickCompressing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_QuickCompressing.Default__Cat_QuickCompressing_C.mDisplayName
+msgctxt ",0FA046A04292FF7CBACFEA81D7CB4691"
+msgid "Quick Compressing"
+msgstr "Быстрое сжатие"
+
+#. Key:	33AFBE3C4AD9769DE5786CB9486FEC56
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_QuickDecompressing.Default__Cat_QuickDecompressing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_QuickDecompressing.Default__Cat_QuickDecompressing_C.mDisplayName
+msgctxt ",33AFBE3C4AD9769DE5786CB9486FEC56"
+msgid "Quick Decompressing"
+msgstr "Быстрое разжатие"
+
+#. Key:	8AC113D34B39D6CE1798A484EEB9C13E
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mMessage
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mMessage
+msgctxt ",8AC113D34B39D6CE1798A484EEB9C13E"
+msgid "Milestone reached. Pressure modulator unlocked.\r\n\r\nFluids can now be pressurized for streamlined long-distance transport.\r\n\r\nNote: Although extreme pressure can eliminate the need for pumps, most machines are incompatible with pressurized fluids.\r\n\r\nEnsure proper depressurization before processing to avoid damage to fixit property."
+msgstr "Цель достигнута. Модуль давления разблокирован.\r\n\r\nТеперь жидкости могут подвергаться давлению для упрощенной транспортировки на большие расстояния.\r\n\r\nПримечание: хотя экстремальное давление может устранить потребность в насосах, большинство машин несовместимы с жидкостями под давлением.\r\n\r\nПеред обработкой обеспечьте правильный сброс давления, чтобы избежать повреждений собственности FICSIT."
+
+#. Key:	AFB5E10E4EF0229EC85F2C84B33ADC33
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(0).mSubtitles.Subtitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(0).mSubtitles.Subtitle
+msgctxt ",AFB5E10E4EF0229EC85F2C84B33ADC33"
+msgid "Milestone reached. Pressure modulator unlocked."
+msgstr "Цель достигнута. Модуль давления разблокирован."
+
+#. Key:	B0B922AD4CA6050FAB8E79A0FEA2B1DE
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(1).mSubtitles.Subtitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(1).mSubtitles.Subtitle
+msgctxt ",B0B922AD4CA6050FAB8E79A0FEA2B1DE"
+msgid "Fluids can now be pressurized for streamlined long-distance transport."
+msgstr "Теперь жидкости могут подвергаться давлению для упрощенной транспортировки на большие расстояния."
+
+#. Key:	CDE7DF3345DB15ACF51E77825A398F7A
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(2).mSubtitles.Subtitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(2).mSubtitles.Subtitle
+msgctxt ",CDE7DF3345DB15ACF51E77825A398F7A"
+msgid "Note: Although extreme pressure can eliminate the need for pumps, most machines are incompatible with pressurized fluids."
+msgstr "Примечание: хотя экстремальное давление может устранить потребность в насосах, большинство машин несовместимы с жидкостями под давлением."
+
+#. Key:	795CF15C4D2426B69ED2A8B2CD3A3A5C
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(3).mSubtitles.Subtitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(3).mSubtitles.Subtitle
+msgctxt ",795CF15C4D2426B69ED2A8B2CD3A3A5C"
+msgid "Ensure proper depressurization before processing to avoid damage to FICSIT property."
+msgstr "Перед обработкой обеспечьте правильный сброс давления, чтобы избежать повреждений собственности FICSIT."
+
+#. Key:	C3DA03ED4DCE37154926098BF5330694
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mTitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mTitle
+msgctxt ",C3DA03ED4DCE37154926098BF5330694"
+msgid "Pressure Modulation"
+msgstr "Модуляция давления"
+
+#. Key:	Compressed Alumina Solution
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Alumina Solution"
+msgid "▼DMR"
+msgstr "▼Раствор глинозема"
+
+#. Key:	AC475D9E42E665E84FB78595B7502AF2
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mDescription
+msgctxt ",AC475D9E42E665E84FB78595B7502AF2"
+msgid "It's compressed alumina solution. Transporting does not require pumps due to extreme pressure."
+msgstr "Это сжатый раствор глинозема. Транспортировка не требует насосов из-за высокого давления."
+
+#. Key:	A84162F843A14E7C88D647A504D44F99
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mDisplayName
+msgctxt ",A84162F843A14E7C88D647A504D44F99"
+msgid "Compressed Alumina Solution"
+msgstr "Сжатый раствор глинозема"
+
+#. Key:	Pressurized Alumina Solution
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Alumina Solution"
+msgid "▽DMR"
+msgstr "▽Раствор глинозема"
+
+#. Key:	5D14156948DF196D327C22A4E3EC733E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mDescription
+msgctxt ",5D14156948DF196D327C22A4E3EC733E"
+msgid "It's pressurized alumina solution."
+msgstr "Это раствор глинозема под давлением."
+
+#. Key:	3C05BCB2479D6141ACBC61B41C2A820E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mDisplayName
+msgctxt ",3C05BCB2479D6141ACBC61B41C2A820E"
+msgid "Pressurized Alumina Solution"
+msgstr "Раствор глинозема под давлением"
+
+#. Key:	EE3E03974B37C9E3DB9A6DAC0FCF8702
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_DecompressedAluminaSolution.Default__Recipe_DecompressedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_DecompressedAluminaSolution.Default__Recipe_DecompressedAluminaSolution_C.mDisplayName
+msgctxt ",EE3E03974B37C9E3DB9A6DAC0FCF8702"
+msgid "Decompressed Alumina Solution"
+msgstr "Разжатый раствор глинозема"
+
+#. Key:	4937C63942A2865F7EB8548892AD28F0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_DepressurizedAluminaSolution.Default__Recipe_DepressurizedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_DepressurizedAluminaSolution.Default__Recipe_DepressurizedAluminaSolution_C.mDisplayName
+msgctxt ",4937C63942A2865F7EB8548892AD28F0"
+msgid "Depressurized Alumina Solution"
+msgstr "Раствор глинозема с пониженным давлением"
+
+#. Key:	6C5EF6534AB8CB57A143BEB728C25630
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_QuickCompressedAluminaSolution.Default__Recipe_QuickCompressedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_QuickCompressedAluminaSolution.Default__Recipe_QuickCompressedAluminaSolution_C.mDisplayName
+msgctxt ",6C5EF6534AB8CB57A143BEB728C25630"
+msgid "Quick Compressed Alumina Solution"
+msgstr "Быстро сжатый раствор глинозема"
+
+#. Key:	21D612684C0236A7C17CD485898C434C
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_QuickDecompressedAluminaSolution.Default__Recipe_QuickDecompressedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_QuickDecompressedAluminaSolution.Default__Recipe_QuickDecompressedAluminaSolution_C.mDisplayName
+msgctxt ",21D612684C0236A7C17CD485898C434C"
+msgid "Quick Decompressed Alumina Solution"
+msgstr "Быстро разжатый раствор глинозема"
+
+#. Key:	Compressed Crude Oil
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Crude Oil"
+msgid "▼Oil"
+msgstr "▼Нефть"
+
+#. Key:	02530A344A21941E31DB81836C4A7CE9
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mDescription
+msgctxt ",02530A344A21941E31DB81836C4A7CE9"
+msgid "It's compressed crude oil. Transporting does not require pumps due to extreme pressure."
+msgstr "Это сжатая сырая нефть. Транспортировка не требует насосов из-за высокого давления."
+
+#. Key:	0457EE0A45248B32DAF3F29CA03E8EE2
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mDisplayName
+msgctxt ",0457EE0A45248B32DAF3F29CA03E8EE2"
+msgid "Compressed Crude Oil"
+msgstr "Сжатая сырая нефть"
+
+#. Key:	Pressurized Crude Oil
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Crude Oil"
+msgid "▽Oil"
+msgstr "▽Нефть"
+
+#. Key:	B7241FAF4B3C9CE36BE3B7856B48977A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mDescription
+msgctxt ",B7241FAF4B3C9CE36BE3B7856B48977A"
+msgid "It's pressurized crude oil."
+msgstr "Это сырая нефть под давлением."
+
+#. Key:	1684B320466CEE76517A49BDD9D3C65B
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mDisplayName
+msgctxt ",1684B320466CEE76517A49BDD9D3C65B"
+msgid "Pressurized Crude Oil"
+msgstr "Сырая нефть под давлением"
+
+#. Key:	F1B614204551443480CF4AB3BA33A122
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_DecompressedCrudeOil.Default__Recipe_DecompressedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_DecompressedCrudeOil.Default__Recipe_DecompressedCrudeOil_C.mDisplayName
+msgctxt ",F1B614204551443480CF4AB3BA33A122"
+msgid "Decompressed Crude Oil"
+msgstr "Разжатая сырая нефть"
+
+#. Key:	619C1B004E83153FF7453B81483A6BE2
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_DepressurizedCrudeOil.Default__Recipe_DepressurizedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_DepressurizedCrudeOil.Default__Recipe_DepressurizedCrudeOil_C.mDisplayName
+msgctxt ",619C1B004E83153FF7453B81483A6BE2"
+msgid "Depressurized Crude Oil"
+msgstr "Сырая нефть с пониженным давлением"
+
+#. Key:	3B6B965549433777BF7745B2B507630D
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_QuickCompressedCrudeOil.Default__Recipe_QuickCompressedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_QuickCompressedCrudeOil.Default__Recipe_QuickCompressedCrudeOil_C.mDisplayName
+msgctxt ",3B6B965549433777BF7745B2B507630D"
+msgid "Quick Compressed Crude Oil"
+msgstr "Быстро сжатая сырая нефть"
+
+#. Key:	F31781DC481EB0FBB80E1298FDD6522D
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_QuickDecompressedCrudeOil.Default__Recipe_QuickDecompressedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_QuickDecompressedCrudeOil.Default__Recipe_QuickDecompressedCrudeOil_C.mDisplayName
+msgctxt ",F31781DC481EB0FBB80E1298FDD6522D"
+msgid "Quick Decompressed Crude Oil"
+msgstr "Быстро разжатая сырая нефть"
+
+#. Key:	Compressed Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Fuel"
+msgid "▼Fuel"
+msgstr "▼Топливо"
+
+#. Key:	F17CB30B425B32024672EF9D48529295
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mDescription
+msgctxt ",F17CB30B425B32024672EF9D48529295"
+msgid "It's compressed fuel. Transporting does not require pumps due to extreme pressure."
+msgstr "Это сжатое топливо. Транспортировка не требует насосов из-за высокого давления."
+
+#. Key:	6355C16742E43B25DE08819A8251CB52
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mDisplayName
+msgctxt ",6355C16742E43B25DE08819A8251CB52"
+msgid "Compressed Fuel"
+msgstr "Сжатое топливо"
+
+#. Key:	Pressurized Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Fuel"
+msgid "▽Fuel"
+msgstr "▽Топливо"
+
+#. Key:	94E7C6044039F87D83D35DA9ACA9927E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mDescription
+msgctxt ",94E7C6044039F87D83D35DA9ACA9927E"
+msgid "It's pressurized fuel."
+msgstr "Это топливо под давлением."
+
+#. Key:	A29A0FE440A6BBEAEB09DBB9064EA58C
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mDisplayName
+msgctxt ",A29A0FE440A6BBEAEB09DBB9064EA58C"
+msgid "Pressurized Fuel"
+msgstr "Топливо под давлением"
+
+#. Key:	4A3301D24742602F3DC403B42B4D3547
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_DecompressedFuel.Default__Recipe_DecompressedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_DecompressedFuel.Default__Recipe_DecompressedFuel_C.mDisplayName
+msgctxt ",4A3301D24742602F3DC403B42B4D3547"
+msgid "Decompressed Fuel"
+msgstr "Разжатое топливо"
+
+#. Key:	0FBC0FB849E10150DD69B9B6D0314D89
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_DepressurizedFuel.Default__Recipe_DepressurizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_DepressurizedFuel.Default__Recipe_DepressurizedFuel_C.mDisplayName
+msgctxt ",0FBC0FB849E10150DD69B9B6D0314D89"
+msgid "Depressurized Fuel"
+msgstr "Топливо с пониженным давлением"
+
+#. Key:	E0089CAD4D524B78837C94A62E9234C1
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_QuickCompressedFuel.Default__Recipe_QuickCompressedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_QuickCompressedFuel.Default__Recipe_QuickCompressedFuel_C.mDisplayName
+msgctxt ",E0089CAD4D524B78837C94A62E9234C1"
+msgid "Quick Compressed Fuel"
+msgstr "Быстрое сжатое топливо"
+
+#. Key:	91D9D2E245012D22008D179E0F0579DE
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_QuickDecompressedFuel.Default__Recipe_QuickDecompressedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_QuickDecompressedFuel.Default__Recipe_QuickDecompressedFuel_C.mDisplayName
+msgctxt ",91D9D2E245012D22008D179E0F0579DE"
+msgid "Quick Decompressed Fuel"
+msgstr "Быстро разжатое топливо"
+
+#. Key:	Compressed Heavy Oil Residue
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Heavy Oil Residue"
+msgid "▼HOR"
+msgstr "▼Мазут"
+
+#. Key:	EE243C594C5A31D18E35BB9E4989B0E7
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mDescription
+msgctxt ",EE243C594C5A31D18E35BB9E4989B0E7"
+msgid "It's compressed heavy oil residue. Transporting does not require pumps due to extreme pressure."
+msgstr "Это сжатый мазут. Транспортировка не требует насосов из-за высокого давления."
+
+#. Key:	DA71A4694C4950DBEC3B2F9482FC09E8
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mDisplayName
+msgctxt ",DA71A4694C4950DBEC3B2F9482FC09E8"
+msgid "Compressed Heavy Oil Residue"
+msgstr "Сжатый мазут"
+
+#. Key:	Pressurized Heavy Oil Residue
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Heavy Oil Residue"
+msgid "▽HOR"
+msgstr "▽Мазут"
+
+#. Key:	F0E4DB4A405CF0913F01CF841C7E5AC8
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mDescription
+msgctxt ",F0E4DB4A405CF0913F01CF841C7E5AC8"
+msgid "It's pressurized heavy oil residue."
+msgstr "Это мазут под давлением."
+
+#. Key:	2272C6DA4BC1D14AADD81E9755AC0C43
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mDisplayName
+msgctxt ",2272C6DA4BC1D14AADD81E9755AC0C43"
+msgid "Pressurized Heavy Oil Residue"
+msgstr "Мазут под давлением"
+
+#. Key:	15A85E024B361BF2D159DCBE9C0A8D17
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_DecompressedHeavyOilResidue.Default__Recipe_DecompressedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_DecompressedHeavyOilResidue.Default__Recipe_DecompressedHeavyOilResidue_C.mDisplayName
+msgctxt ",15A85E024B361BF2D159DCBE9C0A8D17"
+msgid "Decompressed Heavy Oil Residue"
+msgstr "Разжатый мазут"
+
+#. Key:	EEFB08064D16D1BC475DB981ADE37D77
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_DepressurizedHeavyOilResidue.Default__Recipe_DepressurizedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_DepressurizedHeavyOilResidue.Default__Recipe_DepressurizedHeavyOilResidue_C.mDisplayName
+msgctxt ",EEFB08064D16D1BC475DB981ADE37D77"
+msgid "Depressurized Heavy Oil Residue"
+msgstr "Мазут с пониженным давлением"
+
+#. Key:	227038C84742DEDE46B933B6CBDC61F7
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_QuickCompressedHeavyOilResidue.Default__Recipe_QuickCompressedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_QuickCompressedHeavyOilResidue.Default__Recipe_QuickCompressedHeavyOilResidue_C.mDisplayName
+msgctxt ",227038C84742DEDE46B933B6CBDC61F7"
+msgid "Quick Compressed Heavy Oil Residue"
+msgstr "Быстро сжатый мазут"
+
+#. Key:	8D7E81A14D099607C68696A023CF8F23
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_QuickDecompressedHeavyOilResidue.Default__Recipe_QuickDecompressedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_QuickDecompressedHeavyOilResidue.Default__Recipe_QuickDecompressedHeavyOilResidue_C.mDisplayName
+msgctxt ",8D7E81A14D099607C68696A023CF8F23"
+msgid "Quick Decompressed Heavy Oil Residue"
+msgstr "Быстро разжатый мазут"
+
+#. Key:	Compressed Ionized Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Ionized Fuel"
+msgid "▼Ion"
+msgstr "▼Ионизированное"
+
+#. Key:	39C57DFB46ABB9661AD95FB07C7A2F83
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mDescription
+msgctxt ",39C57DFB46ABB9661AD95FB07C7A2F83"
+msgid "It's compressed ionized fuel."
+msgstr "Это сжатое ионизированное топливо."
+
+#. Key:	743EC9D8453D0AEF89DEED8DB555227F
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mDisplayName
+msgctxt ",743EC9D8453D0AEF89DEED8DB555227F"
+msgid "Compressed Ionized Fuel"
+msgstr "Сжатое ионизированное топливо"
+
+#. Key:	Pressurized Ionized Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Ionized Fuel"
+msgid "▽Ion"
+msgstr "▽Ионизированное"
+
+#. Key:	47F627DA47F10D52EA9B6BA5D5467C2A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mDescription
+msgctxt ",47F627DA47F10D52EA9B6BA5D5467C2A"
+msgid "It's pressurized ionized fuel."
+msgstr "Это ионизированное топливо под давлением."
+
+#. Key:	40799FD14EDB5C807A6475B038277EA0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mDisplayName
+msgctxt ",40799FD14EDB5C807A6475B038277EA0"
+msgid "Pressurized Ionized Fuel"
+msgstr "Ионизированное топливо под давлением"
+
+#. Key:	E6AA1C8A4A05A596F2C757A9855BF503
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_DecompressedIonizedFuel.Default__Recipe_DecompressedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_DecompressedIonizedFuel.Default__Recipe_DecompressedIonizedFuel_C.mDisplayName
+msgctxt ",E6AA1C8A4A05A596F2C757A9855BF503"
+msgid "Decompressed Ionized Fuel"
+msgstr "Разжатое ионизированное топливо"
+
+#. Key:	2B49925F4F6B7167B0CB59AB559F0F13
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_DepressurizedIonizedFuel.Default__Recipe_DepressurizedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_DepressurizedIonizedFuel.Default__Recipe_DepressurizedIonizedFuel_C.mDisplayName
+msgctxt ",2B49925F4F6B7167B0CB59AB559F0F13"
+msgid "Depressurized Ionized Fuel"
+msgstr "Ионизированное топливо с пониженным давлением"
+
+#. Key:	5363FBE84C1D0CBF097C598A541A2AF4
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_QuickCompressedIonizedFuel.Default__Recipe_QuickCompressedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_QuickCompressedIonizedFuel.Default__Recipe_QuickCompressedIonizedFuel_C.mDisplayName
+msgctxt ",5363FBE84C1D0CBF097C598A541A2AF4"
+msgid "Quick Compressed Ionized Fuel"
+msgstr "Быстро сжатое ионизированное топливо"
+
+#. Key:	7FFE001A4484DE2A780F0F8D55322243
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_QuickDecompressedIonizedFuel.Default__Recipe_QuickDecompressedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_QuickDecompressedIonizedFuel.Default__Recipe_QuickDecompressedIonizedFuel_C.mDisplayName
+msgctxt ",7FFE001A4484DE2A780F0F8D55322243"
+msgid "Quick Decompressed Ionized Fuel"
+msgstr "Быстро разжатое ионизированное топливо"
+
+#. Key:	Compressed Liquid Biofuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Liquid Biofuel"
+msgid "▼Bio"
+msgstr "▼Био"
+
+#. Key:	693E681F4B81E78B4FD95CAA34E7E20D
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mDescription
+msgctxt ",693E681F4B81E78B4FD95CAA34E7E20D"
+msgid "It's compressed liquid biofuel. Transporting does not require pumps due to extreme pressure."
+msgstr "Это сжатое жидкое биотопливо. Транспортировка не требует насосов из-за высокого давления."
+
+#. Key:	238DDE074AD4A7B7F7ECC58B4A2BBD0E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mDisplayName
+msgctxt ",238DDE074AD4A7B7F7ECC58B4A2BBD0E"
+msgid "Compressed Liquid Biofuel"
+msgstr "Сжатое жидкое биотопливо"
+
+#. Key:	Pressurized Liquid Biofuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Liquid Biofuel"
+msgid "▽Bio"
+msgstr "▽Био"
+
+#. Key:	BC84A0CC4D04C6C15E84479F66B29870
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mDescription
+msgctxt ",BC84A0CC4D04C6C15E84479F66B29870"
+msgid "It's pressurized liquid biofuel."
+msgstr "Это жидкое биотопливо под давлением."
+
+#. Key:	1B9C43CB435629CFE64BE0B374499362
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mDisplayName
+msgctxt ",1B9C43CB435629CFE64BE0B374499362"
+msgid "Pressurized Liquid Biofuel"
+msgstr "Жидкое биотопливо под давлением"
+
+#. Key:	DA55C0E943F1EEDE86031796B2A811CA
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_DecompressedLiquidBiofuel.Default__Recipe_DecompressedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_DecompressedLiquidBiofuel.Default__Recipe_DecompressedLiquidBiofuel_C.mDisplayName
+msgctxt ",DA55C0E943F1EEDE86031796B2A811CA"
+msgid "Decompressed Liquid Biofuel"
+msgstr "Разжатое жидкое биотопливо"
+
+#. Key:	60ECEBFE44A2E62B7EF8579867415DC5
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_DepressurizedLiquidBiofuel.Default__Recipe_DepressurizedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_DepressurizedLiquidBiofuel.Default__Recipe_DepressurizedLiquidBiofuel_C.mDisplayName
+msgctxt ",60ECEBFE44A2E62B7EF8579867415DC5"
+msgid "Depressurized Liquid Biofuel"
+msgstr "Жидкое биотопливо с пониженным давлением"
+
+#. Key:	50543ECF43E687398FA5559194B0A960
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_QuickCompressedLiquidBiofuel.Default__Recipe_QuickCompressedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_QuickCompressedLiquidBiofuel.Default__Recipe_QuickCompressedLiquidBiofuel_C.mDisplayName
+msgctxt ",50543ECF43E687398FA5559194B0A960"
+msgid "Quick Compressed Liquid Biofuel"
+msgstr "Быстро сжатое жидкое биотопливо"
+
+#. Key:	A2B0D4614A8BC84EFA6E3597D102A1A6
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_QuickDecompressedLiquidBiofuel.Default__Recipe_QuickDecompressedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_QuickDecompressedLiquidBiofuel.Default__Recipe_QuickDecompressedLiquidBiofuel_C.mDisplayName
+msgctxt ",A2B0D4614A8BC84EFA6E3597D102A1A6"
+msgid "Quick Decompressed Liquid Biofuel"
+msgstr "Быстро разжатое жидкое биотопливо"
+
+#. Key:	Compressed Nitric Acid
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Nitric Acid"
+msgid "▼NA"
+msgstr "▼Азотная кислота"
+
+#. Key:	0FBF596944DB5CCE28E6D6AB416EF9A7
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mDescription
+msgctxt ",0FBF596944DB5CCE28E6D6AB416EF9A7"
+msgid "It's compressed nitric acid. Transporting does not require pumps due to extreme pressure."
+msgstr "Это сжатая азотная кислота. Транспортировка не требует насосов из-за высокого давления."
+
+#. Key:	BC9D5AF040AEAA56048820B9A97CAF58
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mDisplayName
+msgctxt ",BC9D5AF040AEAA56048820B9A97CAF58"
+msgid "Compressed Nitric Acid"
+msgstr "Сжатая азотная кислота"
+
+#. Key:	Pressurized Nitric Acid
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Nitric Acid"
+msgid "▽NA"
+msgstr "▽Азотная кислота"
+
+#. Key:	07087BEF486292D4C8912B8036F1627A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mDescription
+msgctxt ",07087BEF486292D4C8912B8036F1627A"
+msgid "It's pressurized nitric acid."
+msgstr "Это азотная кислота под давлением."
+
+#. Key:	66C7753D4CA678524D6ACEB2A65C4403
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mDisplayName
+msgctxt ",66C7753D4CA678524D6ACEB2A65C4403"
+msgid "Pressurized Nitric Acid"
+msgstr "Азотная кислота под давлением"
+
+#. Key:	0A95479C4C6A265C5E331EBC7B4299EC
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_DecompressedNitricAcid.Default__Recipe_DecompressedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_DecompressedNitricAcid.Default__Recipe_DecompressedNitricAcid_C.mDisplayName
+msgctxt ",0A95479C4C6A265C5E331EBC7B4299EC"
+msgid "Decompressed Nitric Acid"
+msgstr "Разжатая азотная кислота"
+
+#. Key:	007606DD4B46DBB090E19ABAA8841D9E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_DepressurizedNitricAcid.Default__Recipe_DepressurizedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_DepressurizedNitricAcid.Default__Recipe_DepressurizedNitricAcid_C.mDisplayName
+msgctxt ",007606DD4B46DBB090E19ABAA8841D9E"
+msgid "Depressurized Nitric Acid"
+msgstr "Азотная кислота с пониженным давлением"
+
+#. Key:	73C1283A44448EDF0D8DB88FAE12D844
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_QuickCompressedNitricAcid.Default__Recipe_QuickCompressedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_QuickCompressedNitricAcid.Default__Recipe_QuickCompressedNitricAcid_C.mDisplayName
+msgctxt ",73C1283A44448EDF0D8DB88FAE12D844"
+msgid "Quick Compressed Nitric Acid"
+msgstr "Быстро сжатая азотная кислота"
+
+#. Key:	45F8CB684C310F979CDF00802329F66D
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_QuickDecompressedNitricAcid.Default__Recipe_QuickDecompressedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_QuickDecompressedNitricAcid.Default__Recipe_QuickDecompressedNitricAcid_C.mDisplayName
+msgctxt ",45F8CB684C310F979CDF00802329F66D"
+msgid "Quick Decompressed Nitric Acid"
+msgstr "Быстро разжатая азотная кислота"
+
+#. Key:	Compressed Nitrogen Gas
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Nitrogen Gas"
+msgid "▼N"
+msgstr "▼Азот"
+
+#. Key:	2944E7F846B1EF34005F14B1D03D589A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mDescription
+msgctxt ",2944E7F846B1EF34005F14B1D03D589A"
+msgid "It's compressed nitrogen gas."
+msgstr "Это сжатый азот."
+
+#. Key:	AC49061D483B4B0AA4BD44AB34A54F89
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mDisplayName
+msgctxt ",AC49061D483B4B0AA4BD44AB34A54F89"
+msgid "Compressed Nitrogen Gas"
+msgstr "Сжатый азот"
+
+#. Key:	Pressurized Nitrogen Gas
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Nitrogen Gas"
+msgid "▽N"
+msgstr "▽Азот"
+
+#. Key:	3ECB87E14A6B0B1C20001DA72BE82CC0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mDescription
+msgctxt ",3ECB87E14A6B0B1C20001DA72BE82CC0"
+msgid "It's pressurized nitrogen gas."
+msgstr "Это азот под давлением."
+
+#. Key:	BAAF28664D4E01FA1EE46AA21D1BD1B5
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mDisplayName
+msgctxt ",BAAF28664D4E01FA1EE46AA21D1BD1B5"
+msgid "Pressurized Nitrogen Gas"
+msgstr "Азот под давлением"
+
+#. Key:	10AD3D8E40BC56160FC5D29374932A49
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_DecompressedNitrogenGas.Default__Recipe_DecompressedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_DecompressedNitrogenGas.Default__Recipe_DecompressedNitrogenGas_C.mDisplayName
+msgctxt ",10AD3D8E40BC56160FC5D29374932A49"
+msgid "Decompressed Nitrogen Gas"
+msgstr "Разжатый азот"
+
+#. Key:	D853098F4797BB1CB3DB06B0AE32FBA9
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_DepressurizedNitrogenGas.Default__Recipe_DepressurizedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_DepressurizedNitrogenGas.Default__Recipe_DepressurizedNitrogenGas_C.mDisplayName
+msgctxt ",D853098F4797BB1CB3DB06B0AE32FBA9"
+msgid "Depressurized Nitrogen Gas"
+msgstr "Азот с пониженным давлением"
+
+#. Key:	6201C06148377EB361D90EBA5B79F97C
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_QuickCompressedNitrogenGas.Default__Recipe_QuickCompressedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_QuickCompressedNitrogenGas.Default__Recipe_QuickCompressedNitrogenGas_C.mDisplayName
+msgctxt ",6201C06148377EB361D90EBA5B79F97C"
+msgid "Quick Compressed Nitrogen Gas"
+msgstr "Быстро сжатый азот"
+
+#. Key:	E7F68F234A7D18884C34A391D11E5F06
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_QuickDecompressedNitrogenGas.Default__Recipe_QuickDecompressedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_QuickDecompressedNitrogenGas.Default__Recipe_QuickDecompressedNitrogenGas_C.mDisplayName
+msgctxt ",E7F68F234A7D18884C34A391D11E5F06"
+msgid "Quick Decompressed Nitrogen Gas"
+msgstr "Быстро разжатый азот"
+
+#. Key:	Compressed Rocket Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Rocket Fuel"
+msgid "▼Rocket"
+msgstr "▼Ракетное"
+
+#. Key:	7B79D17842261FFCA9460B8E5587BB72
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mDescription
+msgctxt ",7B79D17842261FFCA9460B8E5587BB72"
+msgid "It's compressed rocket fuel."
+msgstr "Это сжатое ракетное топливо."
+
+#. Key:	C013601B49724687F9C3CCA19A460575
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mDisplayName
+msgctxt ",C013601B49724687F9C3CCA19A460575"
+msgid "Compressed Rocket Fuel"
+msgstr "Сжатое ракетное топливо"
+
+#. Key:	Pressurized Rocket Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Rocket Fuel"
+msgid "▽Rocket"
+msgstr "▽Ракетное"
+
+#. Key:	7F0F954946F9DBB8098C3E9382EB91C8
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mDescription
+msgctxt ",7F0F954946F9DBB8098C3E9382EB91C8"
+msgid "It's pressurized rocket fuel."
+msgstr "Это ракетное топливо под давлением."
+
+#. Key:	2B2F6C0E48F9504C6E82D5B312448983
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mDisplayName
+msgctxt ",2B2F6C0E48F9504C6E82D5B312448983"
+msgid "Pressurized Rocket Fuel"
+msgstr "Ракетное топливо под давлением"
+
+#. Key:	2BE27D2544F4AAB83B30D8968F8901E4
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_DecompressedRocketFuel.Default__Recipe_DecompressedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_DecompressedRocketFuel.Default__Recipe_DecompressedRocketFuel_C.mDisplayName
+msgctxt ",2BE27D2544F4AAB83B30D8968F8901E4"
+msgid "Decompressed Rocket Fuel"
+msgstr "Разжатое ракетное топливо"
+
+#. Key:	8AA280F6416F1E9AAA6BA1B62E9C84B1
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_DepressurizedRocketFuel.Default__Recipe_DepressurizedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_DepressurizedRocketFuel.Default__Recipe_DepressurizedRocketFuel_C.mDisplayName
+msgctxt ",8AA280F6416F1E9AAA6BA1B62E9C84B1"
+msgid "Depressurized Rocket Fuel"
+msgstr "Ракетное топливо с пониженным давлением"
+
+#. Key:	A6B64E5E4BB13701AEE8288CEDB9C744
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_QuickCompressedRocketFuel.Default__Recipe_QuickCompressedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_QuickCompressedRocketFuel.Default__Recipe_QuickCompressedRocketFuel_C.mDisplayName
+msgctxt ",A6B64E5E4BB13701AEE8288CEDB9C744"
+msgid "Quick Compressed Rocket Fuel"
+msgstr "Быстро сжатое ракетное топливо"
+
+#. Key:	17C4F0C5438CB8ED21EB388F7F86BF23
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_QuickDecompressedRocketFuel.Default__Recipe_QuickDecompressedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_QuickDecompressedRocketFuel.Default__Recipe_QuickDecompressedRocketFuel_C.mDisplayName
+msgctxt ",17C4F0C5438CB8ED21EB388F7F86BF23"
+msgid "Quick Decompressed Rocket Fuel"
+msgstr "Быстро разжатое ракетное топливо"
+
+#. Key:	Compressed Sulfuric Acid
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Sulfuric Acid"
+msgid "▼SA"
+msgstr "▼Серная кислота"
+
+#. Key:	E38B90B742C106C338C739BB929A8415
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mDescription
+msgctxt ",E38B90B742C106C338C739BB929A8415"
+msgid "It's compressed sulfuric acid. Transporting does not require pumps due to extreme pressure."
+msgstr "Это сжатая серная кислота. Транспортировка не требует насосов из-за высокого давления."
+
+#. Key:	909847A946C0BDCFF7A3A6B174135352
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mDisplayName
+msgctxt ",909847A946C0BDCFF7A3A6B174135352"
+msgid "Compressed Sulfuric Acid"
+msgstr "Сжатая серная кислота"
+
+#. Key:	Pressurized Sulfuric Acid
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Sulfuric Acid"
+msgid "▽SA"
+msgstr "▽Серная кислота"
+
+#. Key:	8C635D8A40286D40BD8D5B90C0D4E330
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mDescription
+msgctxt ",8C635D8A40286D40BD8D5B90C0D4E330"
+msgid "It's pressurized sulfuric acid."
+msgstr "Это серная кислота под давлением."
+
+#. Key:	AF7CBCB14E87A286791832AD1BE42976
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mDisplayName
+msgctxt ",AF7CBCB14E87A286791832AD1BE42976"
+msgid "Pressurized Sulfuric Acid"
+msgstr "Серная кислота под давлением"
+
+#. Key:	54FFF70945C54795FB93A489D0479260
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_DecompressedSulfuricAcid.Default__Recipe_DecompressedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_DecompressedSulfuricAcid.Default__Recipe_DecompressedSulfuricAcid_C.mDisplayName
+msgctxt ",54FFF70945C54795FB93A489D0479260"
+msgid "Decompressed Sulfuric Acid"
+msgstr "Разжатая серная кислота"
+
+#. Key:	560B75164A42E5DF139FCDA815CA1ED2
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_DepressurizedSulfuricAcid.Default__Recipe_DepressurizedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_DepressurizedSulfuricAcid.Default__Recipe_DepressurizedSulfuricAcid_C.mDisplayName
+msgctxt ",560B75164A42E5DF139FCDA815CA1ED2"
+msgid "Depressurized Sulfuric Acid"
+msgstr "Серная кислота с пониженным давлением"
+
+#. Key:	AB0A5F53464514CCC3B877924D50EBFD
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_QuickCompressedSulfuricAcid.Default__Recipe_QuickCompressedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_QuickCompressedSulfuricAcid.Default__Recipe_QuickCompressedSulfuricAcid_C.mDisplayName
+msgctxt ",AB0A5F53464514CCC3B877924D50EBFD"
+msgid "Quick Compressed Sulfuric Acid"
+msgstr "Быстро сжатая серная кислота"
+
+#. Key:	E181B9B941135D8B876181A767291F06
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_QuickDecompressedSulfuricAcid.Default__Recipe_QuickDecompressedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_QuickDecompressedSulfuricAcid.Default__Recipe_QuickDecompressedSulfuricAcid_C.mDisplayName
+msgctxt ",E181B9B941135D8B876181A767291F06"
+msgid "Quick Decompressed Sulfuric Acid"
+msgstr "Быстро разжатая серная кислота"
+
+#. Key:	Compressed Turbofuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Turbofuel"
+msgid "▼Turbo"
+msgstr "▼Турбо"
+
+#. Key:	C5627DB3443E15ED731924A9337DEED0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mDescription
+msgctxt ",C5627DB3443E15ED731924A9337DEED0"
+msgid "It's compressed turbofuel. Transporting does not require pumps due to extreme pressure."
+msgstr "Это сжатое турботопливо. Транспортировка не требует насосов из-за высокого давления."
+
+#. Key:	743B6B664418DA15CCCAE8B1BF7A5A19
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mDisplayName
+msgctxt ",743B6B664418DA15CCCAE8B1BF7A5A19"
+msgid "Compressed Turbofuel"
+msgstr "Сжатое турботопливо"
+
+#. Key:	Pressurized Turbofuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Turbofuel"
+msgid "▽Turbo"
+msgstr "▽Турбо"
+
+#. Key:	BB3E2B4B4B33F2A05FAF49BB527897B7
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mDescription
+msgctxt ",BB3E2B4B4B33F2A05FAF49BB527897B7"
+msgid "It's pressurized turbofuel."
+msgstr "Это турботопливо под давлением."
+
+#. Key:	2FC541FD48E087B469E6F8BD80EE25C3
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mDisplayName
+msgctxt ",2FC541FD48E087B469E6F8BD80EE25C3"
+msgid "Pressurized Turbofuel"
+msgstr "Турботопливо под давлением"
+
+#. Key:	B4A95ACE403149228124B1BC9E7C7DAE
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_DecompressedTurbofuel.Default__Recipe_DecompressedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_DecompressedTurbofuel.Default__Recipe_DecompressedTurbofuel_C.mDisplayName
+msgctxt ",B4A95ACE403149228124B1BC9E7C7DAE"
+msgid "Decompressed Turbofuel"
+msgstr "Разжатое турботопливо"
+
+#. Key:	BB7D7F9042D58226F51930B7F3B2C17E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_DepressurizedTurbofuel.Default__Recipe_DepressurizedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_DepressurizedTurbofuel.Default__Recipe_DepressurizedTurbofuel_C.mDisplayName
+msgctxt ",BB7D7F9042D58226F51930B7F3B2C17E"
+msgid "Depressurized Turbofuel"
+msgstr "Турботопливо с пониженным давлением"
+
+#. Key:	F30DADD04210AB4271A0A79721B8C3A0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_QuickCompressedTurbofuel.Default__Recipe_QuickCompressedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_QuickCompressedTurbofuel.Default__Recipe_QuickCompressedTurbofuel_C.mDisplayName
+msgctxt ",F30DADD04210AB4271A0A79721B8C3A0"
+msgid "Quick Compressed Turbofuel"
+msgstr "Быстро сжатое турботопливо"
+
+#. Key:	419B1C1A4A18BB0A89B5D7AB5F748677
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_QuickDecompressedTurbofuel.Default__Recipe_QuickDecompressedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_QuickDecompressedTurbofuel.Default__Recipe_QuickDecompressedTurbofuel_C.mDisplayName
+msgctxt ",419B1C1A4A18BB0A89B5D7AB5F748677"
+msgid "Quick Decompressed Turbofuel"
+msgstr "Быстро разжатое турботопливо"
+
+#. Key:	Compressed Water
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Water"
+msgid "▼H₂O"
+msgstr "▼Вода"
+
+#. Key:	39E940A44228870B12CDC28187E8A62A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mDescription
+msgctxt ",39E940A44228870B12CDC28187E8A62A"
+msgid "It's compressed water. Transporting does not require pumps due to extreme pressure."
+msgstr "Это сжатая вода. Транспортировка не требует насосов из-за высокого давления."
+
+#. Key:	980AF7EE43D916D23FF859A9B0CC0575
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mDisplayName
+msgctxt ",980AF7EE43D916D23FF859A9B0CC0575"
+msgid "Compressed Water"
+msgstr "Сжатая вода"
+
+#. Key:	Pressurized Water
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Water"
+msgid "▽H₂O"
+msgstr "▽Вода"
+
+#. Key:	9CC2D945439021AC828D85BA115FAF9F
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mDescription
+msgctxt ",9CC2D945439021AC828D85BA115FAF9F"
+msgid "It's pressurized water."
+msgstr "Это вода под давлением."
+
+#. Key:	E13EBB1E4CE4086C0A6DB798FC5DC9AC
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mDisplayName
+msgctxt ",E13EBB1E4CE4086C0A6DB798FC5DC9AC"
+msgid "Pressurized Water"
+msgstr "Вода под давлением"
+
+#. Key:	535D9E3C4624691D9214DD843CF90FA1
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_DecompressedWater.Default__Recipe_DecompressedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_DecompressedWater.Default__Recipe_DecompressedWater_C.mDisplayName
+msgctxt ",535D9E3C4624691D9214DD843CF90FA1"
+msgid "Decompressed Water"
+msgstr "Разжатая вода"
+
+#. Key:	39877C5144B46D6992DFB6B512A5F512
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_DepressurizedWater.Default__Recipe_DepressurizedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_DepressurizedWater.Default__Recipe_DepressurizedWater_C.mDisplayName
+msgctxt ",39877C5144B46D6992DFB6B512A5F512"
+msgid "Depressurized Water"
+msgstr "Вода с пониженным давлением"
+
+#. Key:	401258134EAA731F35CF95A592C786A3
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_QuickCompressedWater.Default__Recipe_QuickCompressedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_QuickCompressedWater.Default__Recipe_QuickCompressedWater_C.mDisplayName
+msgctxt ",401258134EAA731F35CF95A592C786A3"
+msgid "Quick Compressed Water"
+msgstr "Быстро сжатая вода"
+
+#. Key:	8D44F71F4FAFF59CE19F9A92FF0CF82B
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_QuickDecompressedWater.Default__Recipe_QuickDecompressedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_QuickDecompressedWater.Default__Recipe_QuickDecompressedWater_C.mDisplayName
+msgctxt ",8D44F71F4FAFF59CE19F9A92FF0CF82B"
+msgid "Quick Decompressed Water"
+msgstr "Быстро разжатая вода"
+
