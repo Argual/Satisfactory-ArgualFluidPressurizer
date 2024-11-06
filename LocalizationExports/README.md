@@ -4,11 +4,11 @@
 These are the exported localization files. The `.po` files are the raw exports, and the `.json` files are processed by me into a format that contains only the relevant information and is better suited for some automation tools and for AI translation.
 
 To request a translation, please open a new issue that contains the following information:  
-- The language you translated.
-- The translations (Either a `po` or `json` file.) If you are translating a new language, make sure the translations are all there.
-- Optional: The name and/or link to your profile you would like to be credited as.
+- The language you translated.  
+- The translations (either a `po` or `json` file.) If you are translating a new language, make sure the translations are all there. You can copy the english (or any other) file you wish to use and replace the values to create a new translation.  
+- Optional: The name and/or link to your profile you would like to be credited as.  
 
-You can also issue corrections for existing translations. When you are correcting translations, please only submit a file that contains only the corrected entries.
+You can also issue corrections for existing translations. When you are correcting translations, please only submit a file that contains only the corrected entries.  
 
 ## Json
 
