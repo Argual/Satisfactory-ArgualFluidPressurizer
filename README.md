@@ -35,7 +35,8 @@ Supported languages:
 - German  
 - Hungarian  
 - Korean (translations by [bpforest](https://github.com/bpforest))  
-- Russian (translations by [Shoenixs](https://github.com/Shoenixs))  
+- Russian (translations by [Shoenixs](https://github.com/Shoenixs))
+- French (translations by [kamikaze_tm](https://github.com/kamikaze1723-TM))
 
 ### Screenshots  
 
