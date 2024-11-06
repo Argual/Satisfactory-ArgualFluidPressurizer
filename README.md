@@ -28,7 +28,7 @@ You can raise new issues [here](https://github.com/Argual/Satisfactory-ArgualFlu
 
 ### Translations
 
-You can submit translations as [new issues](https://github.com/Argual/Satisfactory-ArgualFluidPressurizer/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3Atranslation). Make sure to follow the [example](https://github.com/Argual/Satisfactory-ArgualFluidPressurizer/issues/1) by correctly labeling the issue. Translations must be in Json format with only the values edited.  
+You can submit translations as [new issues](https://github.com/Argual/Satisfactory-ArgualFluidPressurizer/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3Atranslation). Make sure to follow the [guide](https://github.com/Argual/Satisfactory-ArgualFluidPressurizer/tree/main/LocalizationExports).
 
 Supported languages:
 - English  
