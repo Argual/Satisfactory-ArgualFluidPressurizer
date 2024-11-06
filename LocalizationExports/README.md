@@ -20,4 +20,6 @@ The po translations need to contain a `msgctxt` that is the unchanged key of the
 
 ## Please read this
 
+If you know how to, then make a pull request instead of an issue.
+
 Please check your uploads for errors. When you upload a file with syntax errors or missing translations, I <strong>may</strong> correct them and finish the translations, but I also may just reply with "there was some error in the translation". Depends on the free time I have at the time I look at your issue.
