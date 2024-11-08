@@ -1,5 +1,5 @@
 ### General info  
-Adds a new factory building, the Pressure Modulator in tier 5.
+Adds a new factory building, the Pressure Modulator in tier 6.
 
 The pressure modulator can pressurize fluids in a 5:1 ratio. The pressurized fluids can be further processed into compressed fluids in a 2:1 ratio, achieving a 10:1 effective compression as a result. These super-compressed fluids do not require pumps to be transported due to the extreme pressure.
 
