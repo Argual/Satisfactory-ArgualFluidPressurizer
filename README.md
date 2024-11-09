@@ -38,6 +38,10 @@ Supported languages:
 - Russian (translations by [Shoenixs](https://github.com/Shoenixs))
 - French (translations by [kamikaze_tm](https://github.com/kamikaze1723-TM))
 
+### If you enjoy my work...  
+consider [buying me a coffee](https://buymeacoffee.com/argual) ;).
+
+
 ### Screenshots  
 
 The screenshots below show a 100% efficient conversion of 1200m³/min water to 120m³/min compressed water. The images also demonstrate that the final result (compressed water) does not need pumps to flow into the elevated buffer.
