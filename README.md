@@ -16,15 +16,24 @@ The pressure modulator can be overclocked up to 250%, but cannot duplicate (boos
 Increase the throughput of fluid trains at the cost of additional power (10 MW / Pressure Modulator) and increased complexity.  
 Allow fewer pipes to be built over long range at the cost of complexity. As compressed fluids do not require pumps, the power cost of transporting fluids through pipes is flattened, but the initial cost is usually higher unless the vertical distance traveled is high.
 
+### Support
+
+#### Supports multiplayer.
+
+#### Supports fluids from the following mods:
+- [Ficsit Farming](https://ficsit.app/mod/FicsitFarming)
+- [Refined Power](https://ficsit.app/mod/RefinedPower)
+    - Low pressure steam and compressed steam is not supported. You can pressurize and compress high pressure steam (recipes use the name `HP-Steam`). This is intentional.
+
 ### Known issues  
 
 You can raise new issues [here](https://github.com/Argual/Satisfactory-ArgualFluidPressurizer/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen). Please provide detailed information, and maybe even a save file set up for quick inspection. I spend limited time in Discord, so the main way to reach me is through the issues page.
 
-- Upon unlocking the pressure modulator, ADA forgets to unmute the mic, so the pioneers can only read the subtitles.
->Waiting for better audio modding utilities, the sound is made, but I cannot make it play for now.
+- Upon unlocking the pressure modulator, ADA forgets to unmute the mic, so the pioneers can only read the subtitles.  
+    Waiting for better audio modding utilities, the sound is made, but I cannot make it play for now.
 
-- Pressurized and Compressed fluids have the same icons as their normal variants.
->No plans to change this for now.
+- Pressurized and Compressed fluids have the same icons as their normal variants.  
+    No plans to change this for now.
 
 ### Translations
 
