@@ -1,0 +1,1863 @@
+﻿# ArgualFluidPressurizer Hungarian translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ArgualFluidPressurizer\n"
+"POT-Creation-Date: 2024-12-04 09:18\n"
+"PO-Revision-Date: 2024-12-04 09:18\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	1AFA28D641ABDF9B793FDE94865C28EB
+#. SourceLocation:	/ArgualFluidPressurizer/Buildables/PressureModulator/Build_PressureModulator.Default__Build_PressureModulator_C.mDescription
+#: /ArgualFluidPressurizer/Buildables/PressureModulator/Build_PressureModulator.Default__Build_PressureModulator_C.mDescription
+msgctxt ",1AFA28D641ABDF9B793FDE94865C28EB"
+msgid "Pressurizes and depressurizes fluids.\r\nHead Lift: 10 m\r\n(Allows fluids to be transported 10 meters upwards.)"
+msgstr "Folyadékok és gázok nyomását szabályozza.\r\nEmelő magasság: 10 m\r\n(Folyadékok 10 méter magasságba tudnak emelkedni.)"
+
+#. Key:	D633856C4E3D3E8D816E97BC8AB5EAF9
+#. SourceLocation:	/ArgualFluidPressurizer/Buildables/PressureModulator/Build_PressureModulator.Default__Build_PressureModulator_C.mDisplayName
+#: /ArgualFluidPressurizer/Buildables/PressureModulator/Build_PressureModulator.Default__Build_PressureModulator_C.mDisplayName
+msgctxt ",D633856C4E3D3E8D816E97BC8AB5EAF9"
+msgid "Pressure Modulator"
+msgstr "Nyomásszabályozó"
+
+#. Key:	FD02771A409403E21A4974AB63C75E48
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_Compressing.Default__Cat_Compressing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_Compressing.Default__Cat_Compressing_C.mDisplayName
+msgctxt ",FD02771A409403E21A4974AB63C75E48"
+msgid "Compressing"
+msgstr "Tömörítés"
+
+#. Key:	7A3A58904A4986F111EB45BE0E9A24D1
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_Decompressing.Default__Cat_Decompressing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_Decompressing.Default__Cat_Decompressing_C.mDisplayName
+msgctxt ",7A3A58904A4986F111EB45BE0E9A24D1"
+msgid "Decompressing"
+msgstr "Kitömörítés"
+
+#. Key:	D293FD874191C05DCE788B8CE4A1E504
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_Depressurizing.Default__Cat_Depressurizing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_Depressurizing.Default__Cat_Depressurizing_C.mDisplayName
+msgctxt ",D293FD874191C05DCE788B8CE4A1E504"
+msgid "Depressurizing"
+msgstr "Nyomáscsökkentés"
+
+#. Key:	F6D68AC44C906A7138833C9F2257F8FA
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_Pressurizing.Default__Cat_Pressurizing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_Pressurizing.Default__Cat_Pressurizing_C.mDisplayName
+msgctxt ",F6D68AC44C906A7138833C9F2257F8FA"
+msgid "Pressurizing"
+msgstr "Nyomásnövelés"
+
+#. Key:	0FA046A04292FF7CBACFEA81D7CB4691
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_QuickCompressing.Default__Cat_QuickCompressing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_QuickCompressing.Default__Cat_QuickCompressing_C.mDisplayName
+msgctxt ",0FA046A04292FF7CBACFEA81D7CB4691"
+msgid "Quick Compressing"
+msgstr "Gyors Tömörítés"
+
+#. Key:	33AFBE3C4AD9769DE5786CB9486FEC56
+#. SourceLocation:	/ArgualFluidPressurizer/Categories/Cat_QuickDecompressing.Default__Cat_QuickDecompressing_C.mDisplayName
+#: /ArgualFluidPressurizer/Categories/Cat_QuickDecompressing.Default__Cat_QuickDecompressing_C.mDisplayName
+msgctxt ",33AFBE3C4AD9769DE5786CB9486FEC56"
+msgid "Quick Decompressing"
+msgstr "Gyors Kitömörítés"
+
+#. Key:	Compressed Fertilizer
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_CompressedFertilizer.Default__Desc_CompressedFertilizer_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_CompressedFertilizer.Default__Desc_CompressedFertilizer_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Fertilizer"
+msgid "▼Fert"
+msgstr "▼Fert"
+
+#. Key:	CompressedFertilizerDescription
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_CompressedFertilizer.Default__Desc_CompressedFertilizer_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_CompressedFertilizer.Default__Desc_CompressedFertilizer_C.mDescription
+msgctxt "FicsitFarming,CompressedFertilizerDescription"
+msgid "It's compressed fertilizer. Transporting does not require pumps due to extreme pressure."
+msgstr "Kitömörített folyékony műtrágya. Nem igényel szivattyút a az extrém nyomásnak köszönhetően."
+
+#. Key:	CompressedFertilizerName
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_CompressedFertilizer.Default__Desc_CompressedFertilizer_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_CompressedFertilizer.Default__Desc_CompressedFertilizer_C.mDisplayName
+msgctxt "FicsitFarming,CompressedFertilizerName"
+msgid "Compressed Fertilizer"
+msgstr "Tömörített Folyékony Műtrágya"
+
+#. Key:	Pressurized Fertilizer
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_PressurizedFertilizer.Default__Desc_PressurizedFertilizer_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_PressurizedFertilizer.Default__Desc_PressurizedFertilizer_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Fertilizer"
+msgid "▽Fert"
+msgstr "▽Fert"
+
+#. Key:	1D0EFF3743FB86EEE2154AA460A483D1
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_PressurizedFertilizer.Default__Desc_PressurizedFertilizer_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_PressurizedFertilizer.Default__Desc_PressurizedFertilizer_C.mDescription
+msgctxt ",1D0EFF3743FB86EEE2154AA460A483D1"
+msgid "It's pressurized fertilizer."
+msgstr "Magasnyomású folyékony műtrágya."
+
+#. Key:	PressurizedFertilizer
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_PressurizedFertilizer.Default__Desc_PressurizedFertilizer_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Desc_PressurizedFertilizer.Default__Desc_PressurizedFertilizer_C.mDisplayName
+msgctxt "FicsitFarming,PressurizedFertilizer"
+msgid "Pressurized Fertilizer"
+msgstr "Magasnyomású Folyékony Műtrágya"
+
+#. Key:	DecompressedFertilizerName
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Recipes/Recipe_DecompressedFertilizer.Default__Recipe_DecompressedFertilizer_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Recipes/Recipe_DecompressedFertilizer.Default__Recipe_DecompressedFertilizer_C.mDisplayName
+msgctxt "FicsitFarming,DecompressedFertilizerName"
+msgid "Decompressed Fertilizer"
+msgstr "Kitömörített Folyékony Műtrágya"
+
+#. Key:	DepressurizedFertilizerName
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Recipes/Recipe_DepressurizedFertilizer.Default__Recipe_DepressurizedFertilizer_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Recipes/Recipe_DepressurizedFertilizer.Default__Recipe_DepressurizedFertilizer_C.mDisplayName
+msgctxt "FicsitFarming,DepressurizedFertilizerName"
+msgid "Depressurized Fertilizer"
+msgstr "Nyomáscsökkentett Folyékony Műtrágya"
+
+#. Key:	QuickCompressedFertilizerName
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Recipes/Recipe_QuickCompressedFertilizer.Default__Recipe_QuickCompressedFertilizer_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Recipes/Recipe_QuickCompressedFertilizer.Default__Recipe_QuickCompressedFertilizer_C.mDisplayName
+msgctxt "FicsitFarming,QuickCompressedFertilizerName"
+msgid "Quick Compressed Fertilizer"
+msgstr "Gyors Tömörített Folyékony Műtrágya"
+
+#. Key:	QuickDecompressedFertilizerName
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Recipes/Recipe_QuickDecompressedFertilizer.Default__Recipe_QuickDecompressedFertilizer_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/FicsitFarming/PressurizedFluids/Fertilizer/Recipes/Recipe_QuickDecompressedFertilizer.Default__Recipe_QuickDecompressedFertilizer_C.mDisplayName
+msgctxt "FicsitFarming,QuickDecompressedFertilizerName"
+msgid "Quick Decompressed Fertilizer"
+msgstr "Gyors Kitömörített Folyékony Műtrágya"
+
+#. Key:	Compressed Cloudy Coolant
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_CompressedCloudyCoolant.Default__Desc_CompressedCloudyCoolant_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_CompressedCloudyCoolant.Default__Desc_CompressedCloudyCoolant_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Cloudy Coolant"
+msgid "▼CC"
+msgstr "▼CC"
+
+#. Key:	248D0A084FF00BD89B6E6BB18E3531BD
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_CompressedCloudyCoolant.Default__Desc_CompressedCloudyCoolant_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_CompressedCloudyCoolant.Default__Desc_CompressedCloudyCoolant_C.mDescription
+msgctxt ",248D0A084FF00BD89B6E6BB18E3531BD"
+msgid "It's compressed cloudy coolant. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített zavaros hűtőfolyadék. Szállítás nem igényel szivattyút az extrém nyomásnak köszönhetően."
+
+#. Key:	0DDCF05046DC4E76F2F4909E3BE408A0
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_CompressedCloudyCoolant.Default__Desc_CompressedCloudyCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_CompressedCloudyCoolant.Default__Desc_CompressedCloudyCoolant_C.mDisplayName
+msgctxt ",0DDCF05046DC4E76F2F4909E3BE408A0"
+msgid "Compressed Cloudy Coolant"
+msgstr "Tömörített Zavaros Hűtőfolyadék"
+
+#. Key:	Pressurized Cloudy Coolant
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_PressurizedCloudyCoolant.Default__Desc_PressurizedCloudyCoolant_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_PressurizedCloudyCoolant.Default__Desc_PressurizedCloudyCoolant_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Cloudy Coolant"
+msgid "▽CC"
+msgstr "▽CC"
+
+#. Key:	89B264A547E323599F37BF9BF5ED4723
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_PressurizedCloudyCoolant.Default__Desc_PressurizedCloudyCoolant_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_PressurizedCloudyCoolant.Default__Desc_PressurizedCloudyCoolant_C.mDescription
+msgctxt ",89B264A547E323599F37BF9BF5ED4723"
+msgid "It's pressurized cloudy coolant."
+msgstr "Magasnyomású zavaros hűtőfolyadék."
+
+#. Key:	1B0ABBFD4FC1550D46697894F05880C7
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_PressurizedCloudyCoolant.Default__Desc_PressurizedCloudyCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Desc_PressurizedCloudyCoolant.Default__Desc_PressurizedCloudyCoolant_C.mDisplayName
+msgctxt ",1B0ABBFD4FC1550D46697894F05880C7"
+msgid "Pressurized Cloudy Coolant"
+msgstr "Magasnyomású Zavaros Hűtőfolyadék"
+
+#. Key:	DE9243DB4BC7F8B9CCD237AAB99FB798
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Recipes/Recipe_DecompressedCloudyCoolant.Default__Recipe_DecompressedCloudyCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Recipes/Recipe_DecompressedCloudyCoolant.Default__Recipe_DecompressedCloudyCoolant_C.mDisplayName
+msgctxt ",DE9243DB4BC7F8B9CCD237AAB99FB798"
+msgid "Decompressed Cloudy Coolant"
+msgstr "Kitömörített Zavaros Hűtőfolyadék"
+
+#. Key:	409BD3AC41CDC8A323AFEA978C825D15
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Recipes/Recipe_DepressurizedCloudyCoolant.Default__Recipe_DepressurizedCloudyCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Recipes/Recipe_DepressurizedCloudyCoolant.Default__Recipe_DepressurizedCloudyCoolant_C.mDisplayName
+msgctxt ",409BD3AC41CDC8A323AFEA978C825D15"
+msgid "Depressurized Cloudy Coolant"
+msgstr "Nyomáscsökkentett Zavaros Hűtőfolyadék"
+
+#. Key:	49244CAB4B0DEEF1F79A6892EEDCD3AB
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Recipes/Recipe_QuickCompressedCloudyCoolant.Default__Recipe_QuickCompressedCloudyCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Recipes/Recipe_QuickCompressedCloudyCoolant.Default__Recipe_QuickCompressedCloudyCoolant_C.mDisplayName
+msgctxt ",49244CAB4B0DEEF1F79A6892EEDCD3AB"
+msgid "Quick Compressed Cloudy Coolant"
+msgstr "Gyors Tömörített Zavaros Hűtőfolyadék"
+
+#. Key:	6876EE08451106B6EA299AAFDD98DA63
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Recipes/Recipe_QuickDecompressedCloudyCoolant.Default__Recipe_QuickDecompressedCloudyCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/CloudyCoolant/Recipes/Recipe_QuickDecompressedCloudyCoolant.Default__Recipe_QuickDecompressedCloudyCoolant_C.mDisplayName
+msgctxt ",6876EE08451106B6EA299AAFDD98DA63"
+msgid "Quick Decompressed Cloudy Coolant"
+msgstr "Gyors Kitömörített Zavaros Hűtőfolyadék"
+
+#. Key:	Compressed CO₂
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_CompressedCo2.Default__Desc_CompressedCo2_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_CompressedCo2.Default__Desc_CompressedCo2_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed CO₂"
+msgid "▼CO₂"
+msgstr "▼CO₂"
+
+#. Key:	CBE6C9A64FB301DC7B48BDB3282571C5
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_CompressedCo2.Default__Desc_CompressedCo2_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_CompressedCo2.Default__Desc_CompressedCo2_C.mDescription
+msgctxt ",CBE6C9A64FB301DC7B48BDB3282571C5"
+msgid "It's compressed carbon dioxide gas."
+msgstr "Tömörített szén-dioxid gáz."
+
+#. Key:	2974EAD148D9EBB293BEDC9AECF76817
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_CompressedCo2.Default__Desc_CompressedCo2_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_CompressedCo2.Default__Desc_CompressedCo2_C.mDisplayName
+msgctxt ",2974EAD148D9EBB293BEDC9AECF76817"
+msgid "Compressed CO₂"
+msgstr "Tömörített CO₂"
+
+#. Key:	Pressurized CO₂
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_PressurizedCo2.Default__Desc_PressurizedCo2_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_PressurizedCo2.Default__Desc_PressurizedCo2_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized CO₂"
+msgid "▽CO₂"
+msgstr "▽CO₂"
+
+#. Key:	D00CC47D41C729BFC5C70B8B037DB4EE
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_PressurizedCo2.Default__Desc_PressurizedCo2_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_PressurizedCo2.Default__Desc_PressurizedCo2_C.mDescription
+msgctxt ",D00CC47D41C729BFC5C70B8B037DB4EE"
+msgid "It's pressurized carbon dioxide gas."
+msgstr "Magasnyomású CO₂."
+
+#. Key:	CEA0DFF24BE3FD83D7CC37B3DD8319AD
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_PressurizedCo2.Default__Desc_PressurizedCo2_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Desc_PressurizedCo2.Default__Desc_PressurizedCo2_C.mDisplayName
+msgctxt ",CEA0DFF24BE3FD83D7CC37B3DD8319AD"
+msgid "Pressurized CO₂"
+msgstr "Magasnyomású CO₂"
+
+#. Key:	0738DB93490DA29DE0B05398DDCF4AC6
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Recipes/Recipe_DecompressedCo2.Default__Recipe_DecompressedCo2_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Recipes/Recipe_DecompressedCo2.Default__Recipe_DecompressedCo2_C.mDisplayName
+msgctxt ",0738DB93490DA29DE0B05398DDCF4AC6"
+msgid "Decompressed CO₂"
+msgstr "Kitömörített CO₂"
+
+#. Key:	6D5B67E34BE22C4F4A106CACCF07B395
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Recipes/Recipe_DepressurizedCo2.Default__Recipe_DepressurizedCo2_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Recipes/Recipe_DepressurizedCo2.Default__Recipe_DepressurizedCo2_C.mDisplayName
+msgctxt ",6D5B67E34BE22C4F4A106CACCF07B395"
+msgid "Depressurized CO₂"
+msgstr "Nyomáscsökkentett CO₂"
+
+#. Key:	360E7D1A4110D28D92F48395D1A66592
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Recipes/Recipe_QuickCompressedCo2.Default__Recipe_QuickCompressedCo2_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Recipes/Recipe_QuickCompressedCo2.Default__Recipe_QuickCompressedCo2_C.mDisplayName
+msgctxt ",360E7D1A4110D28D92F48395D1A66592"
+msgid "Quick Compressed CO₂"
+msgstr "Gyors Tömörített CO₂"
+
+#. Key:	0285857748C4DBDC26E235A83854FC15
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Recipes/Recipe_QuickDecompressedCo2.Default__Recipe_QuickDecompressedCo2_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Co2/Recipes/Recipe_QuickDecompressedCo2.Default__Recipe_QuickDecompressedCo2_C.mDisplayName
+msgctxt ",0285857748C4DBDC26E235A83854FC15"
+msgid "Quick Decompressed CO₂"
+msgstr "Gyors Kitömörített CO₂"
+
+#. Key:	Compressed Concentrated Deanium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_CompressedConcentratedDeanium.Default__Desc_CompressedConcentratedDeanium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_CompressedConcentratedDeanium.Default__Desc_CompressedConcentratedDeanium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Concentrated Deanium"
+msgid "▼"
+msgstr "▼"
+
+#. Key:	6AB9664A40AA86DD2462C1889C1B525A
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_CompressedConcentratedDeanium.Default__Desc_CompressedConcentratedDeanium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_CompressedConcentratedDeanium.Default__Desc_CompressedConcentratedDeanium_C.mDescription
+msgctxt ",6AB9664A40AA86DD2462C1889C1B525A"
+msgid "It's compressed concentrated deanium. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített koncentrált deanium."
+
+#. Key:	7BE65D5A42F4203BE6B1DDA243CBD0C5
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_CompressedConcentratedDeanium.Default__Desc_CompressedConcentratedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_CompressedConcentratedDeanium.Default__Desc_CompressedConcentratedDeanium_C.mDisplayName
+msgctxt ",7BE65D5A42F4203BE6B1DDA243CBD0C5"
+msgid "Compressed Concentrated Deanium"
+msgstr "Tömörített Koncentrált Deanium"
+
+#. Key:	Pressurized Concentrated Deanium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_PressurizedConcentratedDeanium.Default__Desc_PressurizedConcentratedDeanium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_PressurizedConcentratedDeanium.Default__Desc_PressurizedConcentratedDeanium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Concentrated Deanium"
+msgid "▽"
+msgstr "▽"
+
+#. Key:	5E15EFD547F3F27C8B0C1E874490C976
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_PressurizedConcentratedDeanium.Default__Desc_PressurizedConcentratedDeanium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_PressurizedConcentratedDeanium.Default__Desc_PressurizedConcentratedDeanium_C.mDescription
+msgctxt ",5E15EFD547F3F27C8B0C1E874490C976"
+msgid "It's pressurized concentrated deanium."
+msgstr "Magasnyomású koncentrált deanium."
+
+#. Key:	F8370A1C4C3637AE0B2549A56EE7035D
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_PressurizedConcentratedDeanium.Default__Desc_PressurizedConcentratedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Desc_PressurizedConcentratedDeanium.Default__Desc_PressurizedConcentratedDeanium_C.mDisplayName
+msgctxt ",F8370A1C4C3637AE0B2549A56EE7035D"
+msgid "Pressurized Concentrated Deanium"
+msgstr "Magasnyomású Koncentrált Deanium"
+
+#. Key:	BABA1B7845D998B3A6FE0F8A0AF3C00C
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Recipes/Recipe_DecompressedConcentratedDeanium.Default__Recipe_DecompressedConcentratedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Recipes/Recipe_DecompressedConcentratedDeanium.Default__Recipe_DecompressedConcentratedDeanium_C.mDisplayName
+msgctxt ",BABA1B7845D998B3A6FE0F8A0AF3C00C"
+msgid "Decompressed Concentrated Deanium"
+msgstr "Kitömörített Koncentrált Deanium"
+
+#. Key:	8749A69D42C0159139FADAB88A5D478F
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Recipes/Recipe_DepressurizedConcentratedDeanium.Default__Recipe_DepressurizedConcentratedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Recipes/Recipe_DepressurizedConcentratedDeanium.Default__Recipe_DepressurizedConcentratedDeanium_C.mDisplayName
+msgctxt ",8749A69D42C0159139FADAB88A5D478F"
+msgid "Depressurized Concentrated Deanium"
+msgstr "Nyomáscsökkentett Koncentrált Deanium"
+
+#. Key:	C285D1404E194ED0B51A27A3F467D539
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Recipes/Recipe_QuickCompressedConcentratedDeanium.Default__Recipe_QuickCompressedConcentratedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Recipes/Recipe_QuickCompressedConcentratedDeanium.Default__Recipe_QuickCompressedConcentratedDeanium_C.mDisplayName
+msgctxt ",C285D1404E194ED0B51A27A3F467D539"
+msgid "Quick Compressed Concentrated Deanium"
+msgstr "Gyors Tömörített Koncentrált Deanium"
+
+#. Key:	D96779EA47A098CA0BEAEBA8E4577DFB
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Recipes/Recipe_QuickDecompressedConcentratedDeanium.Default__Recipe_QuickDecompressedConcentratedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ConcentratedDeanium/Recipes/Recipe_QuickDecompressedConcentratedDeanium.Default__Recipe_QuickDecompressedConcentratedDeanium_C.mDisplayName
+msgctxt ",D96779EA47A098CA0BEAEBA8E4577DFB"
+msgid "Quick Decompressed Concentrated Deanium"
+msgstr "Gyors Kitömörített Koncentrált Deanium"
+
+#. Key:	Compressed Deanium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_CompressedDeanium.Default__Desc_CompressedDeanium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_CompressedDeanium.Default__Desc_CompressedDeanium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Deanium"
+msgid "▼"
+msgstr "▼"
+
+#. Key:	CCC2478240497DCF329430B9A6940046
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_CompressedDeanium.Default__Desc_CompressedDeanium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_CompressedDeanium.Default__Desc_CompressedDeanium_C.mDescription
+msgctxt ",CCC2478240497DCF329430B9A6940046"
+msgid "It's compressed deanium. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített deanium."
+
+#. Key:	780BEB7E40EE837FF91E829504B71D72
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_CompressedDeanium.Default__Desc_CompressedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_CompressedDeanium.Default__Desc_CompressedDeanium_C.mDisplayName
+msgctxt ",780BEB7E40EE837FF91E829504B71D72"
+msgid "Compressed Deanium"
+msgstr "Tömörített Deanium"
+
+#. Key:	Pressurized Deanium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_PressurizedDeanium.Default__Desc_PressurizedDeanium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_PressurizedDeanium.Default__Desc_PressurizedDeanium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Deanium"
+msgid "▽"
+msgstr "▽"
+
+#. Key:	41316FE641A3B99F3021ED888A6FDF91
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_PressurizedDeanium.Default__Desc_PressurizedDeanium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_PressurizedDeanium.Default__Desc_PressurizedDeanium_C.mDescription
+msgctxt ",41316FE641A3B99F3021ED888A6FDF91"
+msgid "It's pressurized deanium."
+msgstr "Magasnyomású deanium."
+
+#. Key:	243119A04FAC4860D39A128CCFFCA93F
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_PressurizedDeanium.Default__Desc_PressurizedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Desc_PressurizedDeanium.Default__Desc_PressurizedDeanium_C.mDisplayName
+msgctxt ",243119A04FAC4860D39A128CCFFCA93F"
+msgid "Pressurized Deanium"
+msgstr "Magasnyomású Deanium"
+
+#. Key:	9C7FB9DE48546B6EE2CA65A5B89F1B46
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Recipes/Recipe_DecompressedDeanium.Default__Recipe_DecompressedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Recipes/Recipe_DecompressedDeanium.Default__Recipe_DecompressedDeanium_C.mDisplayName
+msgctxt ",9C7FB9DE48546B6EE2CA65A5B89F1B46"
+msgid "Decompressed Deanium"
+msgstr "Kitömörített Deanium"
+
+#. Key:	64BE9F744D679644EE5C1F8E3079CD3A
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Recipes/Recipe_DepressurizedDeanium.Default__Recipe_DepressurizedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Recipes/Recipe_DepressurizedDeanium.Default__Recipe_DepressurizedDeanium_C.mDisplayName
+msgctxt ",64BE9F744D679644EE5C1F8E3079CD3A"
+msgid "Depressurized Deanium"
+msgstr "Nyomáscsökkentett Deanium"
+
+#. Key:	B9871C734BAB3B5CBAD212A2A8CA24AD
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Recipes/Recipe_QuickCompressedDeanium.Default__Recipe_QuickCompressedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Recipes/Recipe_QuickCompressedDeanium.Default__Recipe_QuickCompressedDeanium_C.mDisplayName
+msgctxt ",B9871C734BAB3B5CBAD212A2A8CA24AD"
+msgid "Quick Compressed Deanium"
+msgstr "Gyors Tömörített Deanium"
+
+#. Key:	208B67794DB3B67991791CA900C6AD42
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Recipes/Recipe_QuickDecompressedDeanium.Default__Recipe_QuickDecompressedDeanium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanium/Recipes/Recipe_QuickDecompressedDeanium.Default__Recipe_QuickDecompressedDeanium_C.mDisplayName
+msgctxt ",208B67794DB3B67991791CA900C6AD42"
+msgid "Quick Decompressed Deanium"
+msgstr "Gyors Kitömörített Deanium"
+
+#. Key:	Compressed Deanorium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_CompressedDeanorium.Default__Desc_CompressedDeanorium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_CompressedDeanorium.Default__Desc_CompressedDeanorium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Deanorium"
+msgid "▼"
+msgstr "▼"
+
+#. Key:	A22DAD6742CFBCA8524E2E9BD5F28110
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_CompressedDeanorium.Default__Desc_CompressedDeanorium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_CompressedDeanorium.Default__Desc_CompressedDeanorium_C.mDescription
+msgctxt ",A22DAD6742CFBCA8524E2E9BD5F28110"
+msgid "It's compressed deanorium. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített deanorium."
+
+#. Key:	8DA215AD49247C869F51BCB2D197C1D3
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_CompressedDeanorium.Default__Desc_CompressedDeanorium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_CompressedDeanorium.Default__Desc_CompressedDeanorium_C.mDisplayName
+msgctxt ",8DA215AD49247C869F51BCB2D197C1D3"
+msgid "Compressed Deanorium"
+msgstr "Tömörített Deanorium"
+
+#. Key:	Pressurized Deanorium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_PressurizedDeanorium.Default__Desc_PressurizedDeanorium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_PressurizedDeanorium.Default__Desc_PressurizedDeanorium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Deanorium"
+msgid "▽"
+msgstr "▽"
+
+#. Key:	EC61D57647CE706CB5302AB6537203C2
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_PressurizedDeanorium.Default__Desc_PressurizedDeanorium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_PressurizedDeanorium.Default__Desc_PressurizedDeanorium_C.mDescription
+msgctxt ",EC61D57647CE706CB5302AB6537203C2"
+msgid "It's pressurized deanorium."
+msgstr "Magasnyomású deanorium."
+
+#. Key:	396AB03B465FC6C73DB09883CF1A9D92
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_PressurizedDeanorium.Default__Desc_PressurizedDeanorium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Desc_PressurizedDeanorium.Default__Desc_PressurizedDeanorium_C.mDisplayName
+msgctxt ",396AB03B465FC6C73DB09883CF1A9D92"
+msgid "Pressurized Deanorium"
+msgstr "Magasnyomású Deanorium"
+
+#. Key:	D141145649DF6C24174683A669483460
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Recipes/Recipe_DecompressedDeanorium.Default__Recipe_DecompressedDeanorium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Recipes/Recipe_DecompressedDeanorium.Default__Recipe_DecompressedDeanorium_C.mDisplayName
+msgctxt ",D141145649DF6C24174683A669483460"
+msgid "Decompressed Deanorium"
+msgstr "Kitömörített Deanorium"
+
+#. Key:	D528E68A440620745106519BF49CC6B5
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Recipes/Recipe_DepressurizedDeanorium.Default__Recipe_DepressurizedDeanorium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Recipes/Recipe_DepressurizedDeanorium.Default__Recipe_DepressurizedDeanorium_C.mDisplayName
+msgctxt ",D528E68A440620745106519BF49CC6B5"
+msgid "Depressurized Deanorium"
+msgstr "Nyomáscsökkentett Deanorium"
+
+#. Key:	D4CEF7D64B7F0DC522EC6980107F0E86
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Recipes/Recipe_QuickCompressedDeanorium.Default__Recipe_QuickCompressedDeanorium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Recipes/Recipe_QuickCompressedDeanorium.Default__Recipe_QuickCompressedDeanorium_C.mDisplayName
+msgctxt ",D4CEF7D64B7F0DC522EC6980107F0E86"
+msgid "Quick Compressed Deanorium"
+msgstr "Gyors Tömörített Deanorium"
+
+#. Key:	200AA0CB4F314E7162ADDD86BA42060C
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Recipes/Recipe_QuickDecompressedDeanorium.Default__Recipe_QuickDecompressedDeanorium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/Deanorium/Recipes/Recipe_QuickDecompressedDeanorium.Default__Recipe_QuickDecompressedDeanorium_C.mDisplayName
+msgctxt ",200AA0CB4F314E7162ADDD86BA42060C"
+msgid "Quick Decompressed Deanorium"
+msgstr "Gyors Kitömörített Deanorium"
+
+#. Key:	Compressed D-T Blend
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_CompressedDTB.Default__Desc_CompressedDTB_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_CompressedDTB.Default__Desc_CompressedDTB_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed D-T Blend"
+msgid "▼D-T"
+msgstr "▼D-T"
+
+#. Key:	BD41283A4F1C74B86CA948A167292267
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_CompressedDTB.Default__Desc_CompressedDTB_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_CompressedDTB.Default__Desc_CompressedDTB_C.mDescription
+msgctxt ",BD41283A4F1C74B86CA948A167292267"
+msgid "It's compressed deuterium tritium blend. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített deutérium-trícium vegyület."
+
+#. Key:	C5527DF947B1DE91A7D68D999A88BFBD
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_CompressedDTB.Default__Desc_CompressedDTB_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_CompressedDTB.Default__Desc_CompressedDTB_C.mDisplayName
+msgctxt ",C5527DF947B1DE91A7D68D999A88BFBD"
+msgid "Compressed D-T Blend"
+msgstr "Tömörített D-T Vegyület"
+
+#. Key:	Pressurized D-T Blend
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_PressurizedDTB.Default__Desc_PressurizedDTB_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_PressurizedDTB.Default__Desc_PressurizedDTB_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized D-T Blend"
+msgid "▽D-T"
+msgstr "▽D-T"
+
+#. Key:	67FF4BAD4897FB734E447B9816CCCB92
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_PressurizedDTB.Default__Desc_PressurizedDTB_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_PressurizedDTB.Default__Desc_PressurizedDTB_C.mDescription
+msgctxt ",67FF4BAD4897FB734E447B9816CCCB92"
+msgid "It's pressurized deuterium tritium blend."
+msgstr "Magasnyomású deutérium-trícium vegyület."
+
+#. Key:	894BBCDD4F5A9E32BCACF99C02D03B29
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_PressurizedDTB.Default__Desc_PressurizedDTB_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Desc_PressurizedDTB.Default__Desc_PressurizedDTB_C.mDisplayName
+msgctxt ",894BBCDD4F5A9E32BCACF99C02D03B29"
+msgid "Pressurized D-T Blend"
+msgstr "Magasnyomású D-T Vegyület"
+
+#. Key:	92550FFD4751EF09F7F6D39B0E5B8139
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Recipes/Recipe_DecompressedDTB.Default__Recipe_DecompressedDTB_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Recipes/Recipe_DecompressedDTB.Default__Recipe_DecompressedDTB_C.mDisplayName
+msgctxt ",92550FFD4751EF09F7F6D39B0E5B8139"
+msgid "Decompressed D-T Blend"
+msgstr "Kitömörített D-T Vegyület"
+
+#. Key:	C21FB80C409A9D882E1B5E8EED37BB26
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Recipes/Recipe_DepressurizedDTB.Default__Recipe_DepressurizedDTB_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Recipes/Recipe_DepressurizedDTB.Default__Recipe_DepressurizedDTB_C.mDisplayName
+msgctxt ",C21FB80C409A9D882E1B5E8EED37BB26"
+msgid "Depressurized D-T Blend"
+msgstr "Nyomáscsökkentett D-T Vegyület"
+
+#. Key:	C8A31CC845C58176AE0202A0B52080B7
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Recipes/Recipe_QuickCompressedDTB.Default__Recipe_QuickCompressedDTB_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Recipes/Recipe_QuickCompressedDTB.Default__Recipe_QuickCompressedDTB_C.mDisplayName
+msgctxt ",C8A31CC845C58176AE0202A0B52080B7"
+msgid "Quick Compressed D-T Blend"
+msgstr "Gyors Tömörített D-T Vegyület"
+
+#. Key:	235137424B10466D987C8DB0514BDDB5
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Recipes/Recipe_QuickDecompressedDTB.Default__Recipe_QuickDecompressedDTB_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/DeuteriumTritiumBlend/Recipes/Recipe_QuickDecompressedDTB.Default__Recipe_QuickDecompressedDTB_C.mDisplayName
+msgctxt ",235137424B10466D987C8DB0514BDDB5"
+msgid "Quick Decompressed D-T Blend"
+msgstr "Gyors Kitömörített D-T Vegyület"
+
+#. Key:	Compressed High Pressure Steam
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_CompressedHighSteam.Default__Desc_CompressedHighSteam_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_CompressedHighSteam.Default__Desc_CompressedHighSteam_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed High Pressure Steam"
+msgid "▼Steam"
+msgstr "▼Gőz"
+
+#. Key:	D40AEAE447E3CCD3C7F89CA710D64219
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_CompressedHighSteam.Default__Desc_CompressedHighSteam_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_CompressedHighSteam.Default__Desc_CompressedHighSteam_C.mDescription
+msgctxt ",D40AEAE447E3CCD3C7F89CA710D64219"
+msgid "It's hot steam, pressurized for maximum transport pressure."
+msgstr "Maximális szállíthatóságúra tömörített forró gőz."
+
+#. Key:	E8A6FE79462F0A4C1BE4FBA6076E4D74
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_CompressedHighSteam.Default__Desc_CompressedHighSteam_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_CompressedHighSteam.Default__Desc_CompressedHighSteam_C.mDisplayName
+msgctxt ",E8A6FE79462F0A4C1BE4FBA6076E4D74"
+msgid "Compressed HP-Steam"
+msgstr "Tömörített HP-Gőz"
+
+#. Key:	Pressurized High Pressure Steam
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_PressurizedHighSteam.Default__Desc_PressurizedHighSteam_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_PressurizedHighSteam.Default__Desc_PressurizedHighSteam_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized High Pressure Steam"
+msgid "▽Steam"
+msgstr "▽Gőz"
+
+#. Key:	A3BD2C2246E219DD5C516A9A5D336C81
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_PressurizedHighSteam.Default__Desc_PressurizedHighSteam_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_PressurizedHighSteam.Default__Desc_PressurizedHighSteam_C.mDescription
+msgctxt ",A3BD2C2246E219DD5C516A9A5D336C81"
+msgid "It's hot steam, pressurized for optimal transport pressure."
+msgstr "Optimális szállíthatóságú magasnyomású forró gőz."
+
+#. Key:	A837F8BB41003E4F4B0C8E9D6622EA2C
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_PressurizedHighSteam.Default__Desc_PressurizedHighSteam_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Desc_PressurizedHighSteam.Default__Desc_PressurizedHighSteam_C.mDisplayName
+msgctxt ",A837F8BB41003E4F4B0C8E9D6622EA2C"
+msgid "Pressurized HP-Steam"
+msgstr "Magasnyomású HP-Gőz"
+
+#. Key:	0B7ACDFC43622E0B40EBD4ADA2AEC4E0
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Recipes/Recipe_DecompressedHighSteam.Default__Recipe_DecompressedHighSteam_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Recipes/Recipe_DecompressedHighSteam.Default__Recipe_DecompressedHighSteam_C.mDisplayName
+msgctxt ",0B7ACDFC43622E0B40EBD4ADA2AEC4E0"
+msgid "Decompressed HP-Steam"
+msgstr "Kitömörített HP-Gőz"
+
+#. Key:	2D42AC58453FE3DF6B5B71964F7C9940
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Recipes/Recipe_DepressurizedHighSteam.Default__Recipe_DepressurizedHighSteam_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Recipes/Recipe_DepressurizedHighSteam.Default__Recipe_DepressurizedHighSteam_C.mDisplayName
+msgctxt ",2D42AC58453FE3DF6B5B71964F7C9940"
+msgid "Depressurized HP-Steam"
+msgstr "Nyomáscsökkentett HP-Gőz"
+
+#. Key:	FFB50DD84C88163C6D9740803D77971E
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Recipes/Recipe_QuickCompressedHighSteam.Default__Recipe_QuickCompressedHighSteam_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Recipes/Recipe_QuickCompressedHighSteam.Default__Recipe_QuickCompressedHighSteam_C.mDisplayName
+msgctxt ",FFB50DD84C88163C6D9740803D77971E"
+msgid "Quick Compressed HP-Steam"
+msgstr "Gyors Tömörített HP-Gőz"
+
+#. Key:	033682CF466FFD2ED48EC69E6D786CC6
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Recipes/Recipe_QuickDecompressedHighSteam.Default__Recipe_QuickDecompressedHighSteam_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/HighSteam/Recipes/Recipe_QuickDecompressedHighSteam.Default__Recipe_QuickDecompressedHighSteam_C.mDisplayName
+msgctxt ",033682CF466FFD2ED48EC69E6D786CC6"
+msgid "Quick Decompressed HP-Steam"
+msgstr "Gyors Kitömörített HP-Gőz"
+
+#. Key:	Compressed Liquid Deuterium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_CompressedLiquidDeuterium.Default__Desc_CompressedLiquidDeuterium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_CompressedLiquidDeuterium.Default__Desc_CompressedLiquidDeuterium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Liquid Deuterium"
+msgid "▼"
+msgstr "▼"
+
+#. Key:	82A40DCF4C2EE94AEDC9EBA715D35748
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_CompressedLiquidDeuterium.Default__Desc_CompressedLiquidDeuterium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_CompressedLiquidDeuterium.Default__Desc_CompressedLiquidDeuterium_C.mDescription
+msgctxt ",82A40DCF4C2EE94AEDC9EBA715D35748"
+msgid "It's compressed liquid deuterium. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített folyékony deutérium."
+
+#. Key:	195A36B148D652FD0AAE43A9498CAB2A
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_CompressedLiquidDeuterium.Default__Desc_CompressedLiquidDeuterium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_CompressedLiquidDeuterium.Default__Desc_CompressedLiquidDeuterium_C.mDisplayName
+msgctxt ",195A36B148D652FD0AAE43A9498CAB2A"
+msgid "Compressed Liquid Deuterium"
+msgstr "Tömörített Folyékony Deutérium"
+
+#. Key:	Pressurized Liquid Deuterium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_PressurizedLiquidDeuterium.Default__Desc_PressurizedLiquidDeuterium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_PressurizedLiquidDeuterium.Default__Desc_PressurizedLiquidDeuterium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Liquid Deuterium"
+msgid "▽"
+msgstr "▽"
+
+#. Key:	86D277BD4368C8ADB2CF85AB9B99F8BD
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_PressurizedLiquidDeuterium.Default__Desc_PressurizedLiquidDeuterium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_PressurizedLiquidDeuterium.Default__Desc_PressurizedLiquidDeuterium_C.mDescription
+msgctxt ",86D277BD4368C8ADB2CF85AB9B99F8BD"
+msgid "It's pressurized liquid deuterium."
+msgstr "Magasnyomású folyékony deutérium."
+
+#. Key:	BAB7B99D4F016C15217927ACE271A17A
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_PressurizedLiquidDeuterium.Default__Desc_PressurizedLiquidDeuterium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Desc_PressurizedLiquidDeuterium.Default__Desc_PressurizedLiquidDeuterium_C.mDisplayName
+msgctxt ",BAB7B99D4F016C15217927ACE271A17A"
+msgid "Pressurized Liquid Deuterium"
+msgstr "Magasnyomású Folyékony Deutérium"
+
+#. Key:	EA45D5F54958FDAE36BF00BFA26CFE7B
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Recipes/Recipe_DecompressedLiquidDeuterium.Default__Recipe_DecompressedLiquidDeuterium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Recipes/Recipe_DecompressedLiquidDeuterium.Default__Recipe_DecompressedLiquidDeuterium_C.mDisplayName
+msgctxt ",EA45D5F54958FDAE36BF00BFA26CFE7B"
+msgid "Decompressed Liquid Deuterium"
+msgstr "Kitömörített Folyékony Deutérium"
+
+#. Key:	26201205452296C5475C299E3F561725
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Recipes/Recipe_DepressurizedLiquidDeuterium.Default__Recipe_DepressurizedLiquidDeuterium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Recipes/Recipe_DepressurizedLiquidDeuterium.Default__Recipe_DepressurizedLiquidDeuterium_C.mDisplayName
+msgctxt ",26201205452296C5475C299E3F561725"
+msgid "Depressurized Liquid Deuterium"
+msgstr "Nyomáscsökkentett Folyékony Deutérium"
+
+#. Key:	B35587ED4303184990BE0BB673BF4F86
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Recipes/Recipe_QuickCompressedLiquidDeuterium.Default__Recipe_QuickCompressedLiquidDeuterium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Recipes/Recipe_QuickCompressedLiquidDeuterium.Default__Recipe_QuickCompressedLiquidDeuterium_C.mDisplayName
+msgctxt ",B35587ED4303184990BE0BB673BF4F86"
+msgid "Quick Compressed Liquid Deuterium"
+msgstr "Gyors Tömörített Folyékony Deutérium"
+
+#. Key:	767AC3A34495ABA3A09E53AAC62A1365
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Recipes/Recipe_QuickDecompressedLiquidDeuterium.Default__Recipe_QuickDecompressedLiquidDeuterium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidDeuterium/Recipes/Recipe_QuickDecompressedLiquidDeuterium.Default__Recipe_QuickDecompressedLiquidDeuterium_C.mDisplayName
+msgctxt ",767AC3A34495ABA3A09E53AAC62A1365"
+msgid "Quick Decompressed Liquid Deuterium"
+msgstr "Gyors Kitömörített Folyékony Deutérium"
+
+#. Key:	Compressed Unfiltered Deuterium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_CompressedLiquidTritium.Default__Desc_CompressedLiquidTritium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_CompressedLiquidTritium.Default__Desc_CompressedLiquidTritium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Unfiltered Deuterium"
+msgid "▼"
+msgstr "▼"
+
+#. Key:	71AD7AB54B539DB540C3469F144CFDF5
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_CompressedLiquidTritium.Default__Desc_CompressedLiquidTritium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_CompressedLiquidTritium.Default__Desc_CompressedLiquidTritium_C.mDescription
+msgctxt ",71AD7AB54B539DB540C3469F144CFDF5"
+msgid "It's compressed unfiltered deuterium. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített szűretlen deutérium."
+
+#. Key:	3F4E2D1143F2AE2DA1719EAD51AD616F
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_CompressedLiquidTritium.Default__Desc_CompressedLiquidTritium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_CompressedLiquidTritium.Default__Desc_CompressedLiquidTritium_C.mDisplayName
+msgctxt ",3F4E2D1143F2AE2DA1719EAD51AD616F"
+msgid "Compressed Unfiltered Deuterium"
+msgstr "Tömörített Szűretlen Deutérium"
+
+#. Key:	Pressurized Unfiltered Deuterium
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_PressurizedLiquidTritium.Default__Desc_PressurizedLiquidTritium_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_PressurizedLiquidTritium.Default__Desc_PressurizedLiquidTritium_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Unfiltered Deuterium"
+msgid "▽"
+msgstr "▽"
+
+#. Key:	ECB9642A43627665F22542BB9AE47F08
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_PressurizedLiquidTritium.Default__Desc_PressurizedLiquidTritium_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_PressurizedLiquidTritium.Default__Desc_PressurizedLiquidTritium_C.mDescription
+msgctxt ",ECB9642A43627665F22542BB9AE47F08"
+msgid "It's pressurized unfiltered deuterium."
+msgstr "Magasnyomású szűretlen deutérium."
+
+#. Key:	07CD34D642F2C498B38AB4B332FD0A6B
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_PressurizedLiquidTritium.Default__Desc_PressurizedLiquidTritium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Desc_PressurizedLiquidTritium.Default__Desc_PressurizedLiquidTritium_C.mDisplayName
+msgctxt ",07CD34D642F2C498B38AB4B332FD0A6B"
+msgid "Pressurized Unfiltered Deuterium"
+msgstr "Magasnyomású Szűretlen Deutérium"
+
+#. Key:	2463798340D09EA62FC1D28FB39E66EA
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Recipes/Recipe_DecompressedLiquidTritium.Default__Recipe_DecompressedLiquidTritium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Recipes/Recipe_DecompressedLiquidTritium.Default__Recipe_DecompressedLiquidTritium_C.mDisplayName
+msgctxt ",2463798340D09EA62FC1D28FB39E66EA"
+msgid "Decompressed Unfiltered Deuterium"
+msgstr "Kitömörített Szűretlen Deutérium"
+
+#. Key:	6963F7C34CD72CCA9EEF84BC3A7A213A
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Recipes/Recipe_DepressurizedLiquidTritium.Default__Recipe_DepressurizedLiquidTritium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Recipes/Recipe_DepressurizedLiquidTritium.Default__Recipe_DepressurizedLiquidTritium_C.mDisplayName
+msgctxt ",6963F7C34CD72CCA9EEF84BC3A7A213A"
+msgid "Depressurized Unfiltered Deuterium"
+msgstr "Nyomáscsökkentett Szűretlen Deutérium"
+
+#. Key:	A5B9BB524F562D802902D68C830EB21D
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Recipes/Recipe_QuickCompressedLiquidTritium.Default__Recipe_QuickCompressedLiquidTritium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Recipes/Recipe_QuickCompressedLiquidTritium.Default__Recipe_QuickCompressedLiquidTritium_C.mDisplayName
+msgctxt ",A5B9BB524F562D802902D68C830EB21D"
+msgid "Quick Compressed Unfiltered Deuterium"
+msgstr "Gyors Tömörített Szűretlen Deutérium"
+
+#. Key:	533EB7BB4460F11C0CD5C9A93EDC80D2
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Recipes/Recipe_QuickDecompressedLiquidTritium.Default__Recipe_QuickDecompressedLiquidTritium_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/LiquidTritium/Recipes/Recipe_QuickDecompressedLiquidTritium.Default__Recipe_QuickDecompressedLiquidTritium_C.mDisplayName
+msgctxt ",533EB7BB4460F11C0CD5C9A93EDC80D2"
+msgid "Quick Decompressed Unfiltered Deuterium"
+msgstr "Gyors Kitömörített Szűretlen Deutérium"
+
+#. Key:	Compressed Methane Gas
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_CompressedMethaneGas.Default__Desc_CompressedMethaneGas_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_CompressedMethaneGas.Default__Desc_CompressedMethaneGas_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Methane Gas"
+msgid "▼CH₄"
+msgstr "▼CH₄"
+
+#. Key:	D65DA3E4423C6F02D04D839FA6A22295
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_CompressedMethaneGas.Default__Desc_CompressedMethaneGas_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_CompressedMethaneGas.Default__Desc_CompressedMethaneGas_C.mDescription
+msgctxt ",D65DA3E4423C6F02D04D839FA6A22295"
+msgid "It's compressed methane gas."
+msgstr "Tömörített metángáz."
+
+#. Key:	9078BAF5451B22701DC4E69BC67A97A5
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_CompressedMethaneGas.Default__Desc_CompressedMethaneGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_CompressedMethaneGas.Default__Desc_CompressedMethaneGas_C.mDisplayName
+msgctxt ",9078BAF5451B22701DC4E69BC67A97A5"
+msgid "Compressed Methane Gas"
+msgstr "Tömörített Metángáz"
+
+#. Key:	Pressurized Methane Gas
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_PressurizedMethaneGas.Default__Desc_PressurizedMethaneGas_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_PressurizedMethaneGas.Default__Desc_PressurizedMethaneGas_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Methane Gas"
+msgid "▽CH₄"
+msgstr "▽CH₄"
+
+#. Key:	756C4E684D9E120CC33971B68A87FC4B
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_PressurizedMethaneGas.Default__Desc_PressurizedMethaneGas_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_PressurizedMethaneGas.Default__Desc_PressurizedMethaneGas_C.mDescription
+msgctxt ",756C4E684D9E120CC33971B68A87FC4B"
+msgid "It's pressurized methane gas."
+msgstr "Magasnyomású metángáz."
+
+#. Key:	4F94C3D54497FE9D4A8EFC9D7C9512E2
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_PressurizedMethaneGas.Default__Desc_PressurizedMethaneGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Desc_PressurizedMethaneGas.Default__Desc_PressurizedMethaneGas_C.mDisplayName
+msgctxt ",4F94C3D54497FE9D4A8EFC9D7C9512E2"
+msgid "Pressurized Methane Gas"
+msgstr "Magasnyomású Metángáz"
+
+#. Key:	2CF2047148454613A3732EAC14864052
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Recipes/Recipe_DecompressedMethaneGas.Default__Recipe_DecompressedMethaneGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Recipes/Recipe_DecompressedMethaneGas.Default__Recipe_DecompressedMethaneGas_C.mDisplayName
+msgctxt ",2CF2047148454613A3732EAC14864052"
+msgid "Decompressed Methane Gas"
+msgstr "Kitömörített Metángáz"
+
+#. Key:	9DD0A89E4CDD8F61C2C4FDA5A22F4B4E
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Recipes/Recipe_DepressurizedMethaneGas.Default__Recipe_DepressurizedMethaneGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Recipes/Recipe_DepressurizedMethaneGas.Default__Recipe_DepressurizedMethaneGas_C.mDisplayName
+msgctxt ",9DD0A89E4CDD8F61C2C4FDA5A22F4B4E"
+msgid "Depressurized Methane Gas"
+msgstr "Nyomáscsökkentett Metángáz"
+
+#. Key:	8173BFDC4D0D760D72E91C8A00D3B0E3
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Recipes/Recipe_QuickCompressedMethaneGas.Default__Recipe_QuickCompressedMethaneGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Recipes/Recipe_QuickCompressedMethaneGas.Default__Recipe_QuickCompressedMethaneGas_C.mDisplayName
+msgctxt ",8173BFDC4D0D760D72E91C8A00D3B0E3"
+msgid "Quick Compressed Methane Gas"
+msgstr "Gyors Tömörített Metángáz"
+
+#. Key:	DD8E22404FD02A3478BF13A2B1530EE1
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Recipes/Recipe_QuickDecompressedMethaneGas.Default__Recipe_QuickDecompressedMethaneGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/MethaneGas/Recipes/Recipe_QuickDecompressedMethaneGas.Default__Recipe_QuickDecompressedMethaneGas_C.mDisplayName
+msgctxt ",DD8E22404FD02A3478BF13A2B1530EE1"
+msgid "Quick Decompressed Methane Gas"
+msgstr "Gyors Kitömörített Metángáz"
+
+#. Key:	Compressed Reactor Coolant
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_CompressedReactorCoolant.Default__Desc_CompressedReactorCoolant_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_CompressedReactorCoolant.Default__Desc_CompressedReactorCoolant_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Reactor Coolant"
+msgid "▼"
+msgstr "▼"
+
+#. Key:	A6D5661C47DA89B0879CE58C129F4F5B
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_CompressedReactorCoolant.Default__Desc_CompressedReactorCoolant_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_CompressedReactorCoolant.Default__Desc_CompressedReactorCoolant_C.mDescription
+msgctxt ",A6D5661C47DA89B0879CE58C129F4F5B"
+msgid "It's compressed reactor coolant. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített reaktor hűtőfolyadék."
+
+#. Key:	C06DEE534606645BE136F1BD0D94C3AC
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_CompressedReactorCoolant.Default__Desc_CompressedReactorCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_CompressedReactorCoolant.Default__Desc_CompressedReactorCoolant_C.mDisplayName
+msgctxt ",C06DEE534606645BE136F1BD0D94C3AC"
+msgid "Compressed Reactor Coolant"
+msgstr "Tömörített Reaktor Hűtőfolyadék"
+
+#. Key:	Pressurized Reactor Coolant
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_PressurizedReactorCoolant.Default__Desc_PressurizedReactorCoolant_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_PressurizedReactorCoolant.Default__Desc_PressurizedReactorCoolant_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Reactor Coolant"
+msgid "▽"
+msgstr "▽"
+
+#. Key:	E47A8B9F4232D372EBEEC590C247C4D4
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_PressurizedReactorCoolant.Default__Desc_PressurizedReactorCoolant_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_PressurizedReactorCoolant.Default__Desc_PressurizedReactorCoolant_C.mDescription
+msgctxt ",E47A8B9F4232D372EBEEC590C247C4D4"
+msgid "It's pressurized reactor coolant."
+msgstr "Magasnyomású reaktor hűtőfolyadék."
+
+#. Key:	51FBBDC449D84F8EC9D334B902506B99
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_PressurizedReactorCoolant.Default__Desc_PressurizedReactorCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Desc_PressurizedReactorCoolant.Default__Desc_PressurizedReactorCoolant_C.mDisplayName
+msgctxt ",51FBBDC449D84F8EC9D334B902506B99"
+msgid "Pressurized Reactor Coolant"
+msgstr "Magasnyomású Reaktor Hűtőfolyadék"
+
+#. Key:	D51AD90647319491A0D4DABB56C7C793
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Recipes/Recipe_DecompressedReactorCoolant.Default__Recipe_DecompressedReactorCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Recipes/Recipe_DecompressedReactorCoolant.Default__Recipe_DecompressedReactorCoolant_C.mDisplayName
+msgctxt ",D51AD90647319491A0D4DABB56C7C793"
+msgid "Decompressed Reactor Coolant"
+msgstr "Kitömörített Reaktor Hűtőfolyadék"
+
+#. Key:	D08A792B43EAD53EFD82B29D5C033E30
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Recipes/Recipe_DepressurizedReactorCoolant.Default__Recipe_DepressurizedReactorCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Recipes/Recipe_DepressurizedReactorCoolant.Default__Recipe_DepressurizedReactorCoolant_C.mDisplayName
+msgctxt ",D08A792B43EAD53EFD82B29D5C033E30"
+msgid "Depressurized Reactor Coolant"
+msgstr "Nyomáscsökkentett Reaktor Hűtőfolyadék"
+
+#. Key:	17172EBF4540BE13BFD621BD91D7C0C2
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Recipes/Recipe_QuickCompressedReactorCoolant.Default__Recipe_QuickCompressedReactorCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Recipes/Recipe_QuickCompressedReactorCoolant.Default__Recipe_QuickCompressedReactorCoolant_C.mDisplayName
+msgctxt ",17172EBF4540BE13BFD621BD91D7C0C2"
+msgid "Quick Compressed Reactor Coolant"
+msgstr "Gyors Tömörített Reaktor Hűtőfolyadék"
+
+#. Key:	9BD7D4474CF1B91BED5E4AB029B2A114
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Recipes/Recipe_QuickDecompressedReactorCoolant.Default__Recipe_QuickDecompressedReactorCoolant_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ReactorCoolant/Recipes/Recipe_QuickDecompressedReactorCoolant.Default__Recipe_QuickDecompressedReactorCoolant_C.mDisplayName
+msgctxt ",9BD7D4474CF1B91BED5E4AB029B2A114"
+msgid "Quick Decompressed Reactor Coolant"
+msgstr "Gyors Kitömörített Reaktor Hűtőfolyadék"
+
+#. Key:	Compressed Toxic Gas
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_CompressedToxicGas.Default__Desc_CompressedToxicGas_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_CompressedToxicGas.Default__Desc_CompressedToxicGas_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Toxic Gas"
+msgid "▼"
+msgstr "▼"
+
+#. Key:	7EAD5DD44DD920C1909171805359A387
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_CompressedToxicGas.Default__Desc_CompressedToxicGas_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_CompressedToxicGas.Default__Desc_CompressedToxicGas_C.mDescription
+msgctxt ",7EAD5DD44DD920C1909171805359A387"
+msgid "It's compressed toxic gas."
+msgstr "Tömörített toxikus gáz."
+
+#. Key:	9E99B9BA49E5AFD58653DE92EE6AFD82
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_CompressedToxicGas.Default__Desc_CompressedToxicGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_CompressedToxicGas.Default__Desc_CompressedToxicGas_C.mDisplayName
+msgctxt ",9E99B9BA49E5AFD58653DE92EE6AFD82"
+msgid "Compressed Toxic Gas"
+msgstr "Tömörített Toxikus Gáz"
+
+#. Key:	Pressurized Toxic Gas
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_PressurizedToxicGas.Default__Desc_PressurizedToxicGas_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_PressurizedToxicGas.Default__Desc_PressurizedToxicGas_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Toxic Gas"
+msgid "▽"
+msgstr "▽"
+
+#. Key:	9CDD786749EF97CE30B49884C3B60C14
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_PressurizedToxicGas.Default__Desc_PressurizedToxicGas_C.mDescription
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_PressurizedToxicGas.Default__Desc_PressurizedToxicGas_C.mDescription
+msgctxt ",9CDD786749EF97CE30B49884C3B60C14"
+msgid "It's pressurized toxic gas."
+msgstr "Magasnyomású toxikus gáz."
+
+#. Key:	5C9032FD4B8B2B621E1A3CB75E7B24F0
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_PressurizedToxicGas.Default__Desc_PressurizedToxicGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Desc_PressurizedToxicGas.Default__Desc_PressurizedToxicGas_C.mDisplayName
+msgctxt ",5C9032FD4B8B2B621E1A3CB75E7B24F0"
+msgid "Pressurized Toxic Gas"
+msgstr "Magasnyomású Toxikus Gáz"
+
+#. Key:	78AF90D144EB068B1AE531B1E157B05E
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Recipes/Recipe_DecompressedToxicGas.Default__Recipe_DecompressedToxicGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Recipes/Recipe_DecompressedToxicGas.Default__Recipe_DecompressedToxicGas_C.mDisplayName
+msgctxt ",78AF90D144EB068B1AE531B1E157B05E"
+msgid "Decompressed Toxic Gas"
+msgstr "Kitömörített Toxikus Gáz"
+
+#. Key:	052A1C454F37DAF553B167AD026E1007
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Recipes/Recipe_DepressurizedToxicGas.Default__Recipe_DepressurizedToxicGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Recipes/Recipe_DepressurizedToxicGas.Default__Recipe_DepressurizedToxicGas_C.mDisplayName
+msgctxt ",052A1C454F37DAF553B167AD026E1007"
+msgid "Depressurized Toxic Gas"
+msgstr "Nyomáscsökkentett Toxikus Gáz"
+
+#. Key:	F19595464C23FFD40452748ECAF7CA06
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Recipes/Recipe_QuickCompressedToxicGas.Default__Recipe_QuickCompressedToxicGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Recipes/Recipe_QuickCompressedToxicGas.Default__Recipe_QuickCompressedToxicGas_C.mDisplayName
+msgctxt ",F19595464C23FFD40452748ECAF7CA06"
+msgid "Quick Compressed Toxic Gas"
+msgstr "Gyors Tömörített Toxikus Gáz"
+
+#. Key:	1E5BA3E24EC4D01E8EB1ABAF337445E1
+#. SourceLocation:	/ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Recipes/Recipe_QuickDecompressedToxicGas.Default__Recipe_QuickDecompressedToxicGas_C.mDisplayName
+#: /ArgualFluidPressurizer/Compatibility/RefinedPower/PressurizedFluids/ToxicGas/Recipes/Recipe_QuickDecompressedToxicGas.Default__Recipe_QuickDecompressedToxicGas_C.mDisplayName
+msgctxt ",1E5BA3E24EC4D01E8EB1ABAF337445E1"
+msgid "Quick Decompressed Toxic Gas"
+msgstr "Gyors Kitömörített Toxikus Gáz"
+
+#. Key:	8AC113D34B39D6CE1798A484EEB9C13E
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mMessage
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mMessage
+msgctxt ",8AC113D34B39D6CE1798A484EEB9C13E"
+msgid "Milestone reached. Pressure modulator unlocked.\r\n\r\nFluids can now be pressurized for streamlined long-distance transport.\r\n\r\nNote: Although extreme pressure can eliminate the need for pumps, most machines are incompatible with pressurized fluids.\r\n\r\nEnsure proper depressurization before processing to avoid damage to fixit property."
+msgstr "Mérföldkő elérve. Nyomásszabályozó feloldva.\r\n\r\nA folyadékok és gázok nyomás alá helyezhetők a hatékony távolsági szállítás érdekében.\r\n\r\nMegjegyzés: Bár az extrém nyomás megszüntetheti a szivattyúk használatának szükségességét, a legtöbb gép nem kompatibilis a nyomás alatt álló folyadékokkal és gázokkal.\r\n\r\nGyőződjön meg a megfelelő nyomásszabályozásról a feldolgozás előtt, hogy elkerülje a FICSIT tulajdonának károsodását."
+
+#. Key:	AFB5E10E4EF0229EC85F2C84B33ADC33
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(0).mSubtitles.Subtitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(0).mSubtitles.Subtitle
+msgctxt ",AFB5E10E4EF0229EC85F2C84B33ADC33"
+msgid "Milestone reached. Pressure modulator unlocked."
+msgstr "Mérföldkő elérve. Nyomásszabályozó feloldva."
+
+#. Key:	B0B922AD4CA6050FAB8E79A0FEA2B1DE
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(1).mSubtitles.Subtitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(1).mSubtitles.Subtitle
+msgctxt ",B0B922AD4CA6050FAB8E79A0FEA2B1DE"
+msgid "Fluids can now be pressurized for streamlined long-distance transport."
+msgstr "A folyadékok és gázok nyomás alá helyezhetők a hatékony távolsági szállítás érdekében."
+
+#. Key:	CDE7DF3345DB15ACF51E77825A398F7A
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(2).mSubtitles.Subtitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(2).mSubtitles.Subtitle
+msgctxt ",CDE7DF3345DB15ACF51E77825A398F7A"
+msgid "Note: Although extreme pressure can eliminate the need for pumps, most machines are incompatible with pressurized fluids."
+msgstr "Megjegyzés: Bár az extrém nyomás megszüntetheti a szivattyúk használatának szükségességét, a legtöbb gép nem kompatibilis a nyomás alatt álló folyadékokkal és gázokkal."
+
+#. Key:	795CF15C4D2426B69ED2A8B2CD3A3A5C
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(3).mSubtitles.Subtitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mSubtitles(3).mSubtitles.Subtitle
+msgctxt ",795CF15C4D2426B69ED2A8B2CD3A3A5C"
+msgid "Ensure proper depressurization before processing to avoid damage to FICSIT property."
+msgstr "Győződjön meg a megfelelő nyomásszabályozásról a feldolgozás előtt, hogy elkerülje a FICSIT tulajdonának károsodását."
+
+#. Key:	C3DA03ED4DCE37154926098BF5330694
+#. SourceLocation:	/ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mTitle
+#: /ArgualFluidPressurizer/Narrative/MSG_ArgualFluidPressurizer_Tier4_PressureModulation.MSG_ArgualFluidPressurizer_Tier4_PressureModulation.mTitle
+msgctxt ",C3DA03ED4DCE37154926098BF5330694"
+msgid "Pressure Modulation"
+msgstr "Nyomásszabályozás"
+
+#. Key:	Compressed Alumina Solution
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Alumina Solution"
+msgid "▼DMR"
+msgstr "▼DMR"
+
+#. Key:	AC475D9E42E665E84FB78595B7502AF2
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mDescription
+msgctxt ",AC475D9E42E665E84FB78595B7502AF2"
+msgid "It's compressed alumina solution. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített alumínium-oxid oldat. Szállítás nem igényel szivattyúkat az extrém nyomásnak köszönhetően."
+
+#. Key:	A84162F843A14E7C88D647A504D44F99
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_CompressedAluminaSolution.Default__Desc_CompressedAluminaSolution_C.mDisplayName
+msgctxt ",A84162F843A14E7C88D647A504D44F99"
+msgid "Compressed Alumina Solution"
+msgstr "Tömörített Alumínium-oxid Oldat"
+
+#. Key:	Pressurized Alumina Solution
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Alumina Solution"
+msgid "▽DMR"
+msgstr "▽DMR"
+
+#. Key:	5D14156948DF196D327C22A4E3EC733E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mDescription
+msgctxt ",5D14156948DF196D327C22A4E3EC733E"
+msgid "It's pressurized alumina solution."
+msgstr "Magasnyomású alumínium-oxid oldat."
+
+#. Key:	3C05BCB2479D6141ACBC61B41C2A820E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Desc_PressurizedAluminaSolution.Default__Desc_PressurizedAluminaSolution_C.mDisplayName
+msgctxt ",3C05BCB2479D6141ACBC61B41C2A820E"
+msgid "Pressurized Alumina Solution"
+msgstr "Magasnyomású Alumínium-oxid Oldat"
+
+#. Key:	EE3E03974B37C9E3DB9A6DAC0FCF8702
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_DecompressedAluminaSolution.Default__Recipe_DecompressedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_DecompressedAluminaSolution.Default__Recipe_DecompressedAluminaSolution_C.mDisplayName
+msgctxt ",EE3E03974B37C9E3DB9A6DAC0FCF8702"
+msgid "Decompressed Alumina Solution"
+msgstr "Kitömörített Alumínium-oxid Oldat"
+
+#. Key:	4937C63942A2865F7EB8548892AD28F0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_DepressurizedAluminaSolution.Default__Recipe_DepressurizedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_DepressurizedAluminaSolution.Default__Recipe_DepressurizedAluminaSolution_C.mDisplayName
+msgctxt ",4937C63942A2865F7EB8548892AD28F0"
+msgid "Depressurized Alumina Solution"
+msgstr "Nyomáscsökkentett Alumínium-oxid Oldat"
+
+#. Key:	6C5EF6534AB8CB57A143BEB728C25630
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_QuickCompressedAluminaSolution.Default__Recipe_QuickCompressedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_QuickCompressedAluminaSolution.Default__Recipe_QuickCompressedAluminaSolution_C.mDisplayName
+msgctxt ",6C5EF6534AB8CB57A143BEB728C25630"
+msgid "Quick Compressed Alumina Solution"
+msgstr "Gyors Tömörített Alumínium-oxid Oldat"
+
+#. Key:	21D612684C0236A7C17CD485898C434C
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_QuickDecompressedAluminaSolution.Default__Recipe_QuickDecompressedAluminaSolution_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/AluminaSolution/Recipes/Recipe_QuickDecompressedAluminaSolution.Default__Recipe_QuickDecompressedAluminaSolution_C.mDisplayName
+msgctxt ",21D612684C0236A7C17CD485898C434C"
+msgid "Quick Decompressed Alumina Solution"
+msgstr "Gyors Kitömörített Alumínium-oxid Oldat"
+
+#. Key:	Compressed Crude Oil
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Crude Oil"
+msgid "▼Oil"
+msgstr "▼Oil"
+
+#. Key:	02530A344A21941E31DB81836C4A7CE9
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mDescription
+msgctxt ",02530A344A21941E31DB81836C4A7CE9"
+msgid "It's compressed crude oil. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített nyersolaj. Szállítás nem igényel szivattyúkat az extrém nyomásnak köszönhetően."
+
+#. Key:	0457EE0A45248B32DAF3F29CA03E8EE2
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_CompressedCrudeOil.Default__Desc_CompressedCrudeOil_C.mDisplayName
+msgctxt ",0457EE0A45248B32DAF3F29CA03E8EE2"
+msgid "Compressed Crude Oil"
+msgstr "Tömörített Nyersolaj"
+
+#. Key:	Pressurized Crude Oil
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Crude Oil"
+msgid "▽Oil"
+msgstr "▽Oil"
+
+#. Key:	B7241FAF4B3C9CE36BE3B7856B48977A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mDescription
+msgctxt ",B7241FAF4B3C9CE36BE3B7856B48977A"
+msgid "It's pressurized crude oil."
+msgstr "Magasnyomású nyersolaj."
+
+#. Key:	1684B320466CEE76517A49BDD9D3C65B
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Desc_PressurizedCrudeOil.Default__Desc_PressurizedCrudeOil_C.mDisplayName
+msgctxt ",1684B320466CEE76517A49BDD9D3C65B"
+msgid "Pressurized Crude Oil"
+msgstr "Magasnyomású Nyersolaj"
+
+#. Key:	F1B614204551443480CF4AB3BA33A122
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_DecompressedCrudeOil.Default__Recipe_DecompressedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_DecompressedCrudeOil.Default__Recipe_DecompressedCrudeOil_C.mDisplayName
+msgctxt ",F1B614204551443480CF4AB3BA33A122"
+msgid "Decompressed Crude Oil"
+msgstr "Kitömörített Nyersolaj"
+
+#. Key:	619C1B004E83153FF7453B81483A6BE2
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_DepressurizedCrudeOil.Default__Recipe_DepressurizedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_DepressurizedCrudeOil.Default__Recipe_DepressurizedCrudeOil_C.mDisplayName
+msgctxt ",619C1B004E83153FF7453B81483A6BE2"
+msgid "Depressurized Crude Oil"
+msgstr "Nyomáscsökkentett Nyersolaj"
+
+#. Key:	3B6B965549433777BF7745B2B507630D
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_QuickCompressedCrudeOil.Default__Recipe_QuickCompressedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_QuickCompressedCrudeOil.Default__Recipe_QuickCompressedCrudeOil_C.mDisplayName
+msgctxt ",3B6B965549433777BF7745B2B507630D"
+msgid "Quick Compressed Crude Oil"
+msgstr "Gyors Tömörített Nyersolaj"
+
+#. Key:	F31781DC481EB0FBB80E1298FDD6522D
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_QuickDecompressedCrudeOil.Default__Recipe_QuickDecompressedCrudeOil_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/CrudeOil/Recipes/Recipe_QuickDecompressedCrudeOil.Default__Recipe_QuickDecompressedCrudeOil_C.mDisplayName
+msgctxt ",F31781DC481EB0FBB80E1298FDD6522D"
+msgid "Quick Decompressed Crude Oil"
+msgstr "Gyors Kitömörített Nyersolaj"
+
+#. Key:	Compressed Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Fuel"
+msgid "▼Fuel"
+msgstr "▼Fuel"
+
+#. Key:	F17CB30B425B32024672EF9D48529295
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mDescription
+msgctxt ",F17CB30B425B32024672EF9D48529295"
+msgid "It's compressed fuel. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített üzemanyag. Szállítás nem igényel szivattyúkat az extrém nyomásnak köszönhetően."
+
+#. Key:	6355C16742E43B25DE08819A8251CB52
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_CompressedFuel.Default__Desc_CompressedFuel_C.mDisplayName
+msgctxt ",6355C16742E43B25DE08819A8251CB52"
+msgid "Compressed Fuel"
+msgstr "Tömörített Üzemanyag"
+
+#. Key:	Pressurized Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Fuel"
+msgid "▽Fuel"
+msgstr "▽Fuel"
+
+#. Key:	94E7C6044039F87D83D35DA9ACA9927E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mDescription
+msgctxt ",94E7C6044039F87D83D35DA9ACA9927E"
+msgid "It's pressurized fuel."
+msgstr "Magasnyomású üzemanyag."
+
+#. Key:	A29A0FE440A6BBEAEB09DBB9064EA58C
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Desc_PressurizedFuel.Default__Desc_PressurizedFuel_C.mDisplayName
+msgctxt ",A29A0FE440A6BBEAEB09DBB9064EA58C"
+msgid "Pressurized Fuel"
+msgstr "Magasnyomású Üzemanyag"
+
+#. Key:	4A3301D24742602F3DC403B42B4D3547
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_DecompressedFuel.Default__Recipe_DecompressedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_DecompressedFuel.Default__Recipe_DecompressedFuel_C.mDisplayName
+msgctxt ",4A3301D24742602F3DC403B42B4D3547"
+msgid "Decompressed Fuel"
+msgstr "Kitömörített Üzemanyag"
+
+#. Key:	0FBC0FB849E10150DD69B9B6D0314D89
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_DepressurizedFuel.Default__Recipe_DepressurizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_DepressurizedFuel.Default__Recipe_DepressurizedFuel_C.mDisplayName
+msgctxt ",0FBC0FB849E10150DD69B9B6D0314D89"
+msgid "Depressurized Fuel"
+msgstr "Nyomáscsökkentett Üzemanyag"
+
+#. Key:	E0089CAD4D524B78837C94A62E9234C1
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_QuickCompressedFuel.Default__Recipe_QuickCompressedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_QuickCompressedFuel.Default__Recipe_QuickCompressedFuel_C.mDisplayName
+msgctxt ",E0089CAD4D524B78837C94A62E9234C1"
+msgid "Quick Compressed Fuel"
+msgstr "Gyors Tömörített Üzemanyag"
+
+#. Key:	91D9D2E245012D22008D179E0F0579DE
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_QuickDecompressedFuel.Default__Recipe_QuickDecompressedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Fuel/Recipes/Recipe_QuickDecompressedFuel.Default__Recipe_QuickDecompressedFuel_C.mDisplayName
+msgctxt ",91D9D2E245012D22008D179E0F0579DE"
+msgid "Quick Decompressed Fuel"
+msgstr "Gyors Kitömörített Üzemanyag"
+
+#. Key:	Compressed Heavy Oil Residue
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Heavy Oil Residue"
+msgid "▼HOR"
+msgstr "▼HOR"
+
+#. Key:	EE243C594C5A31D18E35BB9E4989B0E7
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mDescription
+msgctxt ",EE243C594C5A31D18E35BB9E4989B0E7"
+msgid "It's compressed heavy oil residue. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített nehézolaj maradvány. Szállítás nem igényel szivattyúkat az extrém nyomásnak köszönhetően."
+
+#. Key:	DA71A4694C4950DBEC3B2F9482FC09E8
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_CompressedHeavyOilResidue.Default__Desc_CompressedHeavyOilResidue_C.mDisplayName
+msgctxt ",DA71A4694C4950DBEC3B2F9482FC09E8"
+msgid "Compressed Heavy Oil Residue"
+msgstr "Tömörített Nehézolaj maradvány"
+
+#. Key:	Pressurized Heavy Oil Residue
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Heavy Oil Residue"
+msgid "▽HOR"
+msgstr "▽HOR"
+
+#. Key:	F0E4DB4A405CF0913F01CF841C7E5AC8
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mDescription
+msgctxt ",F0E4DB4A405CF0913F01CF841C7E5AC8"
+msgid "It's pressurized heavy oil residue."
+msgstr "Magasnyomású nehézolaj maradvány."
+
+#. Key:	2272C6DA4BC1D14AADD81E9755AC0C43
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Desc_PressurizedHeavyOilResidue.Default__Desc_PressurizedHeavyOilResidue_C.mDisplayName
+msgctxt ",2272C6DA4BC1D14AADD81E9755AC0C43"
+msgid "Pressurized Heavy Oil Residue"
+msgstr "Magasnyomású Nehézolaj Maradvány"
+
+#. Key:	15A85E024B361BF2D159DCBE9C0A8D17
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_DecompressedHeavyOilResidue.Default__Recipe_DecompressedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_DecompressedHeavyOilResidue.Default__Recipe_DecompressedHeavyOilResidue_C.mDisplayName
+msgctxt ",15A85E024B361BF2D159DCBE9C0A8D17"
+msgid "Decompressed Heavy Oil Residue"
+msgstr "Kitömörített Nehézolaj Maradvány"
+
+#. Key:	EEFB08064D16D1BC475DB981ADE37D77
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_DepressurizedHeavyOilResidue.Default__Recipe_DepressurizedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_DepressurizedHeavyOilResidue.Default__Recipe_DepressurizedHeavyOilResidue_C.mDisplayName
+msgctxt ",EEFB08064D16D1BC475DB981ADE37D77"
+msgid "Depressurized Heavy Oil Residue"
+msgstr "Nyomáscsökkentett Nehézolaj Maradvány"
+
+#. Key:	227038C84742DEDE46B933B6CBDC61F7
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_QuickCompressedHeavyOilResidue.Default__Recipe_QuickCompressedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_QuickCompressedHeavyOilResidue.Default__Recipe_QuickCompressedHeavyOilResidue_C.mDisplayName
+msgctxt ",227038C84742DEDE46B933B6CBDC61F7"
+msgid "Quick Compressed Heavy Oil Residue"
+msgstr "Gyors Tömörített Nehézolaj Maradvány"
+
+#. Key:	8D7E81A14D099607C68696A023CF8F23
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_QuickDecompressedHeavyOilResidue.Default__Recipe_QuickDecompressedHeavyOilResidue_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/HeavyOilResidue/Recipes/Recipe_QuickDecompressedHeavyOilResidue.Default__Recipe_QuickDecompressedHeavyOilResidue_C.mDisplayName
+msgctxt ",8D7E81A14D099607C68696A023CF8F23"
+msgid "Quick Decompressed Heavy Oil Residue"
+msgstr "Gyors Kitömörített Nehézolaj Maradvány"
+
+#. Key:	Compressed Ionized Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Ionized Fuel"
+msgid "▼Ion"
+msgstr "▼Ion"
+
+#. Key:	39C57DFB46ABB9661AD95FB07C7A2F83
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mDescription
+msgctxt ",39C57DFB46ABB9661AD95FB07C7A2F83"
+msgid "It's compressed ionized fuel."
+msgstr "Tömörített ionizált üzemanyag"
+
+#. Key:	743EC9D8453D0AEF89DEED8DB555227F
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_CompressedIonizedFuel.Default__Desc_CompressedIonizedFuel_C.mDisplayName
+msgctxt ",743EC9D8453D0AEF89DEED8DB555227F"
+msgid "Compressed Ionized Fuel"
+msgstr "Tömörített Ionizált Üzemanyag"
+
+#. Key:	Pressurized Ionized Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Ionized Fuel"
+msgid "▽Ion"
+msgstr "▽Ion"
+
+#. Key:	47F627DA47F10D52EA9B6BA5D5467C2A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mDescription
+msgctxt ",47F627DA47F10D52EA9B6BA5D5467C2A"
+msgid "It's pressurized ionized fuel."
+msgstr "Magasnyomású ionizált üzemanyag."
+
+#. Key:	40799FD14EDB5C807A6475B038277EA0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Desc_PressurizedIonizedFuel.Default__Desc_PressurizedIonizedFuel_C.mDisplayName
+msgctxt ",40799FD14EDB5C807A6475B038277EA0"
+msgid "Pressurized Ionized Fuel"
+msgstr "Magasnyomású Ionizált Üzemanyag"
+
+#. Key:	E6AA1C8A4A05A596F2C757A9855BF503
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_DecompressedIonizedFuel.Default__Recipe_DecompressedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_DecompressedIonizedFuel.Default__Recipe_DecompressedIonizedFuel_C.mDisplayName
+msgctxt ",E6AA1C8A4A05A596F2C757A9855BF503"
+msgid "Decompressed Ionized Fuel"
+msgstr "Kitömörített Ionizált Üzemanyag"
+
+#. Key:	2B49925F4F6B7167B0CB59AB559F0F13
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_DepressurizedIonizedFuel.Default__Recipe_DepressurizedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_DepressurizedIonizedFuel.Default__Recipe_DepressurizedIonizedFuel_C.mDisplayName
+msgctxt ",2B49925F4F6B7167B0CB59AB559F0F13"
+msgid "Depressurized Ionized Fuel"
+msgstr "Nyomáscsökkentett Ionizált Üzemanyag"
+
+#. Key:	5363FBE84C1D0CBF097C598A541A2AF4
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_QuickCompressedIonizedFuel.Default__Recipe_QuickCompressedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_QuickCompressedIonizedFuel.Default__Recipe_QuickCompressedIonizedFuel_C.mDisplayName
+msgctxt ",5363FBE84C1D0CBF097C598A541A2AF4"
+msgid "Quick Compressed Ionized Fuel"
+msgstr "Gyors Tömörített Ionizált Üzemanyag"
+
+#. Key:	7FFE001A4484DE2A780F0F8D55322243
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_QuickDecompressedIonizedFuel.Default__Recipe_QuickDecompressedIonizedFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/IonizedFuel/Recipes/Recipe_QuickDecompressedIonizedFuel.Default__Recipe_QuickDecompressedIonizedFuel_C.mDisplayName
+msgctxt ",7FFE001A4484DE2A780F0F8D55322243"
+msgid "Quick Decompressed Ionized Fuel"
+msgstr "Gyors Kitömörített Ionizált Üzemanyag"
+
+#. Key:	Compressed Liquid Biofuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Liquid Biofuel"
+msgid "▼Bio"
+msgstr "▼Bio"
+
+#. Key:	693E681F4B81E78B4FD95CAA34E7E20D
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mDescription
+msgctxt ",693E681F4B81E78B4FD95CAA34E7E20D"
+msgid "It's compressed liquid biofuel. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített folyékony bioüzemanyag. Szállítás nem igényel szivattyúkat az extrém nyomásnak köszönhetően."
+
+#. Key:	238DDE074AD4A7B7F7ECC58B4A2BBD0E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_CompressedLiquidBiofuel.Default__Desc_CompressedLiquidBiofuel_C.mDisplayName
+msgctxt ",238DDE074AD4A7B7F7ECC58B4A2BBD0E"
+msgid "Compressed Liquid Biofuel"
+msgstr "Tömörített Folyékony Bioüzemanyag"
+
+#. Key:	Pressurized Liquid Biofuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Liquid Biofuel"
+msgid "▽Bio"
+msgstr "▽Bio"
+
+#. Key:	BC84A0CC4D04C6C15E84479F66B29870
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mDescription
+msgctxt ",BC84A0CC4D04C6C15E84479F66B29870"
+msgid "It's pressurized liquid biofuel."
+msgstr "Magasnyomású folyékony bioüzemanyag."
+
+#. Key:	1B9C43CB435629CFE64BE0B374499362
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Desc_PressurizedLiquidBiofuel.Default__Desc_PressurizedLiquidBiofuel_C.mDisplayName
+msgctxt ",1B9C43CB435629CFE64BE0B374499362"
+msgid "Pressurized Liquid Biofuel"
+msgstr "Magasnyomású Folyékony Bioüzemanyag"
+
+#. Key:	DA55C0E943F1EEDE86031796B2A811CA
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_DecompressedLiquidBiofuel.Default__Recipe_DecompressedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_DecompressedLiquidBiofuel.Default__Recipe_DecompressedLiquidBiofuel_C.mDisplayName
+msgctxt ",DA55C0E943F1EEDE86031796B2A811CA"
+msgid "Decompressed Liquid Biofuel"
+msgstr "Kitömörített Folyékony Bioüzemanyag"
+
+#. Key:	60ECEBFE44A2E62B7EF8579867415DC5
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_DepressurizedLiquidBiofuel.Default__Recipe_DepressurizedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_DepressurizedLiquidBiofuel.Default__Recipe_DepressurizedLiquidBiofuel_C.mDisplayName
+msgctxt ",60ECEBFE44A2E62B7EF8579867415DC5"
+msgid "Depressurized Liquid Biofuel"
+msgstr "Nyomáscsökkentett Folyékony Bioüzemanyag"
+
+#. Key:	50543ECF43E687398FA5559194B0A960
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_QuickCompressedLiquidBiofuel.Default__Recipe_QuickCompressedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_QuickCompressedLiquidBiofuel.Default__Recipe_QuickCompressedLiquidBiofuel_C.mDisplayName
+msgctxt ",50543ECF43E687398FA5559194B0A960"
+msgid "Quick Compressed Liquid Biofuel"
+msgstr "Gyors Tömörített Folyékony Bioüzemanyag"
+
+#. Key:	A2B0D4614A8BC84EFA6E3597D102A1A6
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_QuickDecompressedLiquidBiofuel.Default__Recipe_QuickDecompressedLiquidBiofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/LiquidBiofuel/Recipes/Recipe_QuickDecompressedLiquidBiofuel.Default__Recipe_QuickDecompressedLiquidBiofuel_C.mDisplayName
+msgctxt ",A2B0D4614A8BC84EFA6E3597D102A1A6"
+msgid "Quick Decompressed Liquid Biofuel"
+msgstr "Gyors Kitömörített Folyékony Bioüzemanyag"
+
+#. Key:	Compressed Nitric Acid
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Nitric Acid"
+msgid "▼NA"
+msgstr "▼NA"
+
+#. Key:	0FBF596944DB5CCE28E6D6AB416EF9A7
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mDescription
+msgctxt ",0FBF596944DB5CCE28E6D6AB416EF9A7"
+msgid "It's compressed nitric acid. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített salétromsav. Szállítás nem igényel szivattyúkat az extrém nyomásnak köszönhetően."
+
+#. Key:	BC9D5AF040AEAA56048820B9A97CAF58
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_CompressedNitricAcid.Default__Desc_CompressedNitricAcid_C.mDisplayName
+msgctxt ",BC9D5AF040AEAA56048820B9A97CAF58"
+msgid "Compressed Nitric Acid"
+msgstr "Tömörített Salétromsav"
+
+#. Key:	Pressurized Nitric Acid
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Nitric Acid"
+msgid "▽NA"
+msgstr "▽NA"
+
+#. Key:	07087BEF486292D4C8912B8036F1627A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mDescription
+msgctxt ",07087BEF486292D4C8912B8036F1627A"
+msgid "It's pressurized nitric acid."
+msgstr "Magasnyomású salétromsav."
+
+#. Key:	66C7753D4CA678524D6ACEB2A65C4403
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Desc_PressurizedNitricAcid.Default__Desc_PressurizedNitricAcid_C.mDisplayName
+msgctxt ",66C7753D4CA678524D6ACEB2A65C4403"
+msgid "Pressurized Nitric Acid"
+msgstr "Magasnyomású Salétromsav"
+
+#. Key:	0A95479C4C6A265C5E331EBC7B4299EC
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_DecompressedNitricAcid.Default__Recipe_DecompressedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_DecompressedNitricAcid.Default__Recipe_DecompressedNitricAcid_C.mDisplayName
+msgctxt ",0A95479C4C6A265C5E331EBC7B4299EC"
+msgid "Decompressed Nitric Acid"
+msgstr "Kitömörített Salétromsav"
+
+#. Key:	007606DD4B46DBB090E19ABAA8841D9E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_DepressurizedNitricAcid.Default__Recipe_DepressurizedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_DepressurizedNitricAcid.Default__Recipe_DepressurizedNitricAcid_C.mDisplayName
+msgctxt ",007606DD4B46DBB090E19ABAA8841D9E"
+msgid "Depressurized Nitric Acid"
+msgstr "Nyomáscsökkentett Salétromsav"
+
+#. Key:	73C1283A44448EDF0D8DB88FAE12D844
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_QuickCompressedNitricAcid.Default__Recipe_QuickCompressedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_QuickCompressedNitricAcid.Default__Recipe_QuickCompressedNitricAcid_C.mDisplayName
+msgctxt ",73C1283A44448EDF0D8DB88FAE12D844"
+msgid "Quick Compressed Nitric Acid"
+msgstr "Gyors Tömörített Salétromsav"
+
+#. Key:	45F8CB684C310F979CDF00802329F66D
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_QuickDecompressedNitricAcid.Default__Recipe_QuickDecompressedNitricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitricAcid/Recipes/Recipe_QuickDecompressedNitricAcid.Default__Recipe_QuickDecompressedNitricAcid_C.mDisplayName
+msgctxt ",45F8CB684C310F979CDF00802329F66D"
+msgid "Quick Decompressed Nitric Acid"
+msgstr "Gyors Kitömörített Salétromsav"
+
+#. Key:	Compressed Nitrogen Gas
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Nitrogen Gas"
+msgid "▼N"
+msgstr "▼N"
+
+#. Key:	2944E7F846B1EF34005F14B1D03D589A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mDescription
+msgctxt ",2944E7F846B1EF34005F14B1D03D589A"
+msgid "It's compressed nitrogen gas."
+msgstr "Tömörített nitrogén gáz."
+
+#. Key:	AC49061D483B4B0AA4BD44AB34A54F89
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_CompressedNitrogenGas.Default__Desc_CompressedNitrogenGas_C.mDisplayName
+msgctxt ",AC49061D483B4B0AA4BD44AB34A54F89"
+msgid "Compressed Nitrogen Gas"
+msgstr "Tömörített Nitrogén Gáz"
+
+#. Key:	Pressurized Nitrogen Gas
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Nitrogen Gas"
+msgid "▽N"
+msgstr "▽N"
+
+#. Key:	3ECB87E14A6B0B1C20001DA72BE82CC0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mDescription
+msgctxt ",3ECB87E14A6B0B1C20001DA72BE82CC0"
+msgid "It's pressurized nitrogen gas."
+msgstr "Magasnyomású nitrogén gáz."
+
+#. Key:	BAAF28664D4E01FA1EE46AA21D1BD1B5
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Desc_PressurizedNitrogenGas.Default__Desc_PressurizedNitrogenGas_C.mDisplayName
+msgctxt ",BAAF28664D4E01FA1EE46AA21D1BD1B5"
+msgid "Pressurized Nitrogen Gas"
+msgstr "Magasnyomású Nitrogén Gáz"
+
+#. Key:	10AD3D8E40BC56160FC5D29374932A49
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_DecompressedNitrogenGas.Default__Recipe_DecompressedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_DecompressedNitrogenGas.Default__Recipe_DecompressedNitrogenGas_C.mDisplayName
+msgctxt ",10AD3D8E40BC56160FC5D29374932A49"
+msgid "Decompressed Nitrogen Gas"
+msgstr "Kitömörített Nitrogén Gáz"
+
+#. Key:	D853098F4797BB1CB3DB06B0AE32FBA9
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_DepressurizedNitrogenGas.Default__Recipe_DepressurizedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_DepressurizedNitrogenGas.Default__Recipe_DepressurizedNitrogenGas_C.mDisplayName
+msgctxt ",D853098F4797BB1CB3DB06B0AE32FBA9"
+msgid "Depressurized Nitrogen Gas"
+msgstr "Nyomáscsökkentett Nitrogén Gáz"
+
+#. Key:	6201C06148377EB361D90EBA5B79F97C
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_QuickCompressedNitrogenGas.Default__Recipe_QuickCompressedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_QuickCompressedNitrogenGas.Default__Recipe_QuickCompressedNitrogenGas_C.mDisplayName
+msgctxt ",6201C06148377EB361D90EBA5B79F97C"
+msgid "Quick Compressed Nitrogen Gas"
+msgstr "Gyors Tömörített Nitrogén Gáz"
+
+#. Key:	E7F68F234A7D18884C34A391D11E5F06
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_QuickDecompressedNitrogenGas.Default__Recipe_QuickDecompressedNitrogenGas_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/NitrogenGas/Recipes/Recipe_QuickDecompressedNitrogenGas.Default__Recipe_QuickDecompressedNitrogenGas_C.mDisplayName
+msgctxt ",E7F68F234A7D18884C34A391D11E5F06"
+msgid "Quick Decompressed Nitrogen Gas"
+msgstr "Gyors Kitömörített Nitrogén Gáz"
+
+#. Key:	Compressed Rocket Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Rocket Fuel"
+msgid "▼Rocket"
+msgstr "▼Rakéta"
+
+#. Key:	7B79D17842261FFCA9460B8E5587BB72
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mDescription
+msgctxt ",7B79D17842261FFCA9460B8E5587BB72"
+msgid "It's compressed rocket fuel."
+msgstr "Tömörített rakéta üzemanyag."
+
+#. Key:	C013601B49724687F9C3CCA19A460575
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_CompressedRocketFuel.Default__Desc_CompressedRocketFuel_C.mDisplayName
+msgctxt ",C013601B49724687F9C3CCA19A460575"
+msgid "Compressed Rocket Fuel"
+msgstr "Tömörített Rakéta Üzemanyag"
+
+#. Key:	Pressurized Rocket Fuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Rocket Fuel"
+msgid "▽Rocket"
+msgstr "▽Rakéta"
+
+#. Key:	7F0F954946F9DBB8098C3E9382EB91C8
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mDescription
+msgctxt ",7F0F954946F9DBB8098C3E9382EB91C8"
+msgid "It's pressurized rocket fuel."
+msgstr "Magasnyomású rakéta üzemanyag."
+
+#. Key:	2B2F6C0E48F9504C6E82D5B312448983
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Desc_PressurizedRocketFuel.Default__Desc_PressurizedRocketFuel_C.mDisplayName
+msgctxt ",2B2F6C0E48F9504C6E82D5B312448983"
+msgid "Pressurized Rocket Fuel"
+msgstr "Magasnyomású Rakéta Üzemanyag"
+
+#. Key:	2BE27D2544F4AAB83B30D8968F8901E4
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_DecompressedRocketFuel.Default__Recipe_DecompressedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_DecompressedRocketFuel.Default__Recipe_DecompressedRocketFuel_C.mDisplayName
+msgctxt ",2BE27D2544F4AAB83B30D8968F8901E4"
+msgid "Decompressed Rocket Fuel"
+msgstr "Kitömörített Rakéta Üzemanyag"
+
+#. Key:	8AA280F6416F1E9AAA6BA1B62E9C84B1
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_DepressurizedRocketFuel.Default__Recipe_DepressurizedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_DepressurizedRocketFuel.Default__Recipe_DepressurizedRocketFuel_C.mDisplayName
+msgctxt ",8AA280F6416F1E9AAA6BA1B62E9C84B1"
+msgid "Depressurized Rocket Fuel"
+msgstr "Nyomáscsökkentett Rakéta Üzemanyag"
+
+#. Key:	A6B64E5E4BB13701AEE8288CEDB9C744
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_QuickCompressedRocketFuel.Default__Recipe_QuickCompressedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_QuickCompressedRocketFuel.Default__Recipe_QuickCompressedRocketFuel_C.mDisplayName
+msgctxt ",A6B64E5E4BB13701AEE8288CEDB9C744"
+msgid "Quick Compressed Rocket Fuel"
+msgstr "Gyors Tömörített Rakéta Üzemanyag"
+
+#. Key:	17C4F0C5438CB8ED21EB388F7F86BF23
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_QuickDecompressedRocketFuel.Default__Recipe_QuickDecompressedRocketFuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/RocketFuel/Recipes/Recipe_QuickDecompressedRocketFuel.Default__Recipe_QuickDecompressedRocketFuel_C.mDisplayName
+msgctxt ",17C4F0C5438CB8ED21EB388F7F86BF23"
+msgid "Quick Decompressed Rocket Fuel"
+msgstr "Gyors Kitömörített Rakéta Üzemanyag"
+
+#. Key:	Compressed Sulfuric Acid
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Sulfuric Acid"
+msgid "▼SA"
+msgstr "▼SA"
+
+#. Key:	E38B90B742C106C338C739BB929A8415
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mDescription
+msgctxt ",E38B90B742C106C338C739BB929A8415"
+msgid "It's compressed sulfuric acid. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített kénsav. Szállítás nem igényel szivattyúkat az extrém nyomásnak köszönhetően."
+
+#. Key:	909847A946C0BDCFF7A3A6B174135352
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_CompressedSulfuricAcid.Default__Desc_CompressedSulfuricAcid_C.mDisplayName
+msgctxt ",909847A946C0BDCFF7A3A6B174135352"
+msgid "Compressed Sulfuric Acid"
+msgstr "Tömörített Kénsav"
+
+#. Key:	Pressurized Sulfuric Acid
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Sulfuric Acid"
+msgid "▽SA"
+msgstr "▽SA"
+
+#. Key:	8C635D8A40286D40BD8D5B90C0D4E330
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mDescription
+msgctxt ",8C635D8A40286D40BD8D5B90C0D4E330"
+msgid "It's pressurized sulfuric acid."
+msgstr "Magasnyomású Kénsav."
+
+#. Key:	AF7CBCB14E87A286791832AD1BE42976
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Desc_PressurizedSulfuricAcid.Default__Desc_PressurizedSulfuricAcid_C.mDisplayName
+msgctxt ",AF7CBCB14E87A286791832AD1BE42976"
+msgid "Pressurized Sulfuric Acid"
+msgstr "Magasnyomású Kénsav"
+
+#. Key:	54FFF70945C54795FB93A489D0479260
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_DecompressedSulfuricAcid.Default__Recipe_DecompressedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_DecompressedSulfuricAcid.Default__Recipe_DecompressedSulfuricAcid_C.mDisplayName
+msgctxt ",54FFF70945C54795FB93A489D0479260"
+msgid "Decompressed Sulfuric Acid"
+msgstr "Kitömörített Kénsav"
+
+#. Key:	560B75164A42E5DF139FCDA815CA1ED2
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_DepressurizedSulfuricAcid.Default__Recipe_DepressurizedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_DepressurizedSulfuricAcid.Default__Recipe_DepressurizedSulfuricAcid_C.mDisplayName
+msgctxt ",560B75164A42E5DF139FCDA815CA1ED2"
+msgid "Depressurized Sulfuric Acid"
+msgstr "Nyomáscsökkentett Kénsav"
+
+#. Key:	AB0A5F53464514CCC3B877924D50EBFD
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_QuickCompressedSulfuricAcid.Default__Recipe_QuickCompressedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_QuickCompressedSulfuricAcid.Default__Recipe_QuickCompressedSulfuricAcid_C.mDisplayName
+msgctxt ",AB0A5F53464514CCC3B877924D50EBFD"
+msgid "Quick Compressed Sulfuric Acid"
+msgstr "Gyors Tömörített Kénsav"
+
+#. Key:	E181B9B941135D8B876181A767291F06
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_QuickDecompressedSulfuricAcid.Default__Recipe_QuickDecompressedSulfuricAcid_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/SulfuricAcid/Recipes/Recipe_QuickDecompressedSulfuricAcid.Default__Recipe_QuickDecompressedSulfuricAcid_C.mDisplayName
+msgctxt ",E181B9B941135D8B876181A767291F06"
+msgid "Quick Decompressed Sulfuric Acid"
+msgstr "Gyors Kitömörített Kénsav"
+
+#. Key:	Compressed Turbofuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Turbofuel"
+msgid "▼Turbo"
+msgstr "▼Turbo"
+
+#. Key:	C5627DB3443E15ED731924A9337DEED0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mDescription
+msgctxt ",C5627DB3443E15ED731924A9337DEED0"
+msgid "It's compressed turbofuel. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített turbóüzemanyag. Szállítás nem igényel szivattyúkat az extrém nyomásnak köszönhetően."
+
+#. Key:	743B6B664418DA15CCCAE8B1BF7A5A19
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_CompressedTurbofuel.Default__Desc_CompressedTurbofuel_C.mDisplayName
+msgctxt ",743B6B664418DA15CCCAE8B1BF7A5A19"
+msgid "Compressed Turbofuel"
+msgstr "Tömörített Turbóüzemanyag"
+
+#. Key:	Pressurized Turbofuel
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Turbofuel"
+msgid "▽Turbo"
+msgstr "▽Turbo"
+
+#. Key:	BB3E2B4B4B33F2A05FAF49BB527897B7
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mDescription
+msgctxt ",BB3E2B4B4B33F2A05FAF49BB527897B7"
+msgid "It's pressurized turbofuel."
+msgstr "Magasnyomású turbóüzemanyag."
+
+#. Key:	2FC541FD48E087B469E6F8BD80EE25C3
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Desc_PressurizedTurbofuel.Default__Desc_PressurizedTurbofuel_C.mDisplayName
+msgctxt ",2FC541FD48E087B469E6F8BD80EE25C3"
+msgid "Pressurized Turbofuel"
+msgstr "Magasnyomású Turbóüzemanyag"
+
+#. Key:	B4A95ACE403149228124B1BC9E7C7DAE
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_DecompressedTurbofuel.Default__Recipe_DecompressedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_DecompressedTurbofuel.Default__Recipe_DecompressedTurbofuel_C.mDisplayName
+msgctxt ",B4A95ACE403149228124B1BC9E7C7DAE"
+msgid "Decompressed Turbofuel"
+msgstr "Kitömörített Turbóüzemanyag"
+
+#. Key:	BB7D7F9042D58226F51930B7F3B2C17E
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_DepressurizedTurbofuel.Default__Recipe_DepressurizedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_DepressurizedTurbofuel.Default__Recipe_DepressurizedTurbofuel_C.mDisplayName
+msgctxt ",BB7D7F9042D58226F51930B7F3B2C17E"
+msgid "Depressurized Turbofuel"
+msgstr "Nyomáscsökkentett Turbóüzemanyag"
+
+#. Key:	F30DADD04210AB4271A0A79721B8C3A0
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_QuickCompressedTurbofuel.Default__Recipe_QuickCompressedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_QuickCompressedTurbofuel.Default__Recipe_QuickCompressedTurbofuel_C.mDisplayName
+msgctxt ",F30DADD04210AB4271A0A79721B8C3A0"
+msgid "Quick Compressed Turbofuel"
+msgstr "Gyors Tömörített Turbóüzemanyag"
+
+#. Key:	419B1C1A4A18BB0A89B5D7AB5F748677
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_QuickDecompressedTurbofuel.Default__Recipe_QuickDecompressedTurbofuel_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Turbofuel/Recipes/Recipe_QuickDecompressedTurbofuel.Default__Recipe_QuickDecompressedTurbofuel_C.mDisplayName
+msgctxt ",419B1C1A4A18BB0A89B5D7AB5F748677"
+msgid "Quick Decompressed Turbofuel"
+msgstr "Gyors Kitömörített Turbóüzemanyag"
+
+#. Key:	Compressed Water
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Compressed Water"
+msgid "▼H₂O"
+msgstr "▼H₂O"
+
+#. Key:	39E940A44228870B12CDC28187E8A62A
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mDescription
+msgctxt ",39E940A44228870B12CDC28187E8A62A"
+msgid "It's compressed water. Transporting does not require pumps due to extreme pressure."
+msgstr "Tömörített víz. Szállítás nem igényel szivattyúkat az extrém nyomásnak köszönhetően."
+
+#. Key:	980AF7EE43D916D23FF859A9B0CC0575
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_CompressedWater.Default__Desc_CompressedWater_C.mDisplayName
+msgctxt ",980AF7EE43D916D23FF859A9B0CC0575"
+msgid "Compressed Water"
+msgstr "Tömörített Víz"
+
+#. Key:	Pressurized Water
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mAbbreviatedDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mAbbreviatedDisplayName
+msgctxt "AbbreviatedDisplayName,Pressurized Water"
+msgid "▽H₂O"
+msgstr "▽H₂O"
+
+#. Key:	9CC2D945439021AC828D85BA115FAF9F
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mDescription
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mDescription
+msgctxt ",9CC2D945439021AC828D85BA115FAF9F"
+msgid "It's pressurized water."
+msgstr "Magasnyomású víz."
+
+#. Key:	E13EBB1E4CE4086C0A6DB798FC5DC9AC
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Desc_PressurizedWater.Default__Desc_PressurizedWater_C.mDisplayName
+msgctxt ",E13EBB1E4CE4086C0A6DB798FC5DC9AC"
+msgid "Pressurized Water"
+msgstr "Magasnyomású Víz"
+
+#. Key:	535D9E3C4624691D9214DD843CF90FA1
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_DecompressedWater.Default__Recipe_DecompressedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_DecompressedWater.Default__Recipe_DecompressedWater_C.mDisplayName
+msgctxt ",535D9E3C4624691D9214DD843CF90FA1"
+msgid "Decompressed Water"
+msgstr "Kitömörített Víz"
+
+#. Key:	39877C5144B46D6992DFB6B512A5F512
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_DepressurizedWater.Default__Recipe_DepressurizedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_DepressurizedWater.Default__Recipe_DepressurizedWater_C.mDisplayName
+msgctxt ",39877C5144B46D6992DFB6B512A5F512"
+msgid "Depressurized Water"
+msgstr "Nyomáscsökkentett Víz"
+
+#. Key:	401258134EAA731F35CF95A592C786A3
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_QuickCompressedWater.Default__Recipe_QuickCompressedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_QuickCompressedWater.Default__Recipe_QuickCompressedWater_C.mDisplayName
+msgctxt ",401258134EAA731F35CF95A592C786A3"
+msgid "Quick Compressed Water"
+msgstr "Gyors Tömörített Víz"
+
+#. Key:	8D44F71F4FAFF59CE19F9A92FF0CF82B
+#. SourceLocation:	/ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_QuickDecompressedWater.Default__Recipe_QuickDecompressedWater_C.mDisplayName
+#: /ArgualFluidPressurizer/PressurizedFluids/Water/Recipes/Recipe_QuickDecompressedWater.Default__Recipe_QuickDecompressedWater_C.mDisplayName
+msgctxt ",8D44F71F4FAFF59CE19F9A92FF0CF82B"
+msgid "Quick Decompressed Water"
+msgstr "Gyors Kitömörített Víz"
+

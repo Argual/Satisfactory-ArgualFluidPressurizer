@@ -1,0 +1,1322 @@
+﻿[
+  {
+    "Key": ",1AFA28D641ABDF9B793FDE94865C28EB",
+    "Value": "Pressurizes and depressurizes fluids.\\r\\nHead Lift: 10\u202Fm\\r\\n(Allows fluids to be transported 10\u00A0meters upwards.)",
+    "Id": "Pressurizes and depressurizes fluids.\\r\\nHead Lift: 10\u202Fm\\r\\n(Allows fluids to be transported 10\u00A0meters upwards.)"
+  },
+  {
+    "Key": ",D633856C4E3D3E8D816E97BC8AB5EAF9",
+    "Value": "Pressure Modulator",
+    "Id": "Pressure Modulator"
+  },
+  {
+    "Key": ",FD02771A409403E21A4974AB63C75E48",
+    "Value": "Compressing",
+    "Id": "Compressing"
+  },
+  {
+    "Key": ",7A3A58904A4986F111EB45BE0E9A24D1",
+    "Value": "Decompressing",
+    "Id": "Decompressing"
+  },
+  {
+    "Key": ",D293FD874191C05DCE788B8CE4A1E504",
+    "Value": "Depressurizing",
+    "Id": "Depressurizing"
+  },
+  {
+    "Key": ",F6D68AC44C906A7138833C9F2257F8FA",
+    "Value": "Pressurizing",
+    "Id": "Pressurizing"
+  },
+  {
+    "Key": ",0FA046A04292FF7CBACFEA81D7CB4691",
+    "Value": "Quick Compressing",
+    "Id": "Quick Compressing"
+  },
+  {
+    "Key": ",33AFBE3C4AD9769DE5786CB9486FEC56",
+    "Value": "Quick Decompressing",
+    "Id": "Quick Decompressing"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Fertilizer",
+    "Value": "▼Fert",
+    "Id": "▼Fert"
+  },
+  {
+    "Key": "FicsitFarming,CompressedFertilizerDescription",
+    "Value": "It's compressed fertilizer. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed fertilizer. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": "FicsitFarming,CompressedFertilizerName",
+    "Value": "Compressed Fertilizer",
+    "Id": "Compressed Fertilizer"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Fertilizer",
+    "Value": "▽Fert",
+    "Id": "▽Fert"
+  },
+  {
+    "Key": ",1D0EFF3743FB86EEE2154AA460A483D1",
+    "Value": "It's pressurized fertilizer.",
+    "Id": "It's pressurized fertilizer."
+  },
+  {
+    "Key": "FicsitFarming,PressurizedFertilizer",
+    "Value": "Pressurized Fertilizer",
+    "Id": "Pressurized Fertilizer"
+  },
+  {
+    "Key": "FicsitFarming,DecompressedFertilizerName",
+    "Value": "Decompressed Fertilizer",
+    "Id": "Decompressed Fertilizer"
+  },
+  {
+    "Key": "FicsitFarming,DepressurizedFertilizerName",
+    "Value": "Depressurized Fertilizer",
+    "Id": "Depressurized Fertilizer"
+  },
+  {
+    "Key": "FicsitFarming,QuickCompressedFertilizerName",
+    "Value": "Quick Compressed Fertilizer",
+    "Id": "Quick Compressed Fertilizer"
+  },
+  {
+    "Key": "FicsitFarming,QuickDecompressedFertilizerName",
+    "Value": "Quick Decompressed Fertilizer",
+    "Id": "Quick Decompressed Fertilizer"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Cloudy Coolant",
+    "Value": "▼CC",
+    "Id": "▼CC"
+  },
+  {
+    "Key": ",248D0A084FF00BD89B6E6BB18E3531BD",
+    "Value": "It's compressed cloudy coolant. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed cloudy coolant. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",0DDCF05046DC4E76F2F4909E3BE408A0",
+    "Value": "Compressed Cloudy Coolant",
+    "Id": "Compressed Cloudy Coolant"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Cloudy Coolant",
+    "Value": "▽CC",
+    "Id": "▽CC"
+  },
+  {
+    "Key": ",89B264A547E323599F37BF9BF5ED4723",
+    "Value": "It's pressurized cloudy coolant.",
+    "Id": "It's pressurized cloudy coolant."
+  },
+  {
+    "Key": ",1B0ABBFD4FC1550D46697894F05880C7",
+    "Value": "Pressurized Cloudy Coolant",
+    "Id": "Pressurized Cloudy Coolant"
+  },
+  {
+    "Key": ",DE9243DB4BC7F8B9CCD237AAB99FB798",
+    "Value": "Decompressed Cloudy Coolant",
+    "Id": "Decompressed Cloudy Coolant"
+  },
+  {
+    "Key": ",409BD3AC41CDC8A323AFEA978C825D15",
+    "Value": "Depressurized Cloudy Coolant",
+    "Id": "Depressurized Cloudy Coolant"
+  },
+  {
+    "Key": ",49244CAB4B0DEEF1F79A6892EEDCD3AB",
+    "Value": "Quick Compressed Cloudy Coolant",
+    "Id": "Quick Compressed Cloudy Coolant"
+  },
+  {
+    "Key": ",6876EE08451106B6EA299AAFDD98DA63",
+    "Value": "Quick Decompressed Cloudy Coolant",
+    "Id": "Quick Decompressed Cloudy Coolant"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed CO₂",
+    "Value": "▼CO₂",
+    "Id": "▼CO₂"
+  },
+  {
+    "Key": ",CBE6C9A64FB301DC7B48BDB3282571C5",
+    "Value": "It's compressed carbon dioxide gas.",
+    "Id": "It's compressed carbon dioxide gas."
+  },
+  {
+    "Key": ",2974EAD148D9EBB293BEDC9AECF76817",
+    "Value": "Compressed CO₂",
+    "Id": "Compressed CO₂"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized CO₂",
+    "Value": "▽CO₂",
+    "Id": "▽CO₂"
+  },
+  {
+    "Key": ",D00CC47D41C729BFC5C70B8B037DB4EE",
+    "Value": "It's pressurized carbon dioxide gas.",
+    "Id": "It's pressurized carbon dioxide gas."
+  },
+  {
+    "Key": ",CEA0DFF24BE3FD83D7CC37B3DD8319AD",
+    "Value": "Pressurized CO₂",
+    "Id": "Pressurized CO₂"
+  },
+  {
+    "Key": ",0738DB93490DA29DE0B05398DDCF4AC6",
+    "Value": "Decompressed CO₂",
+    "Id": "Decompressed CO₂"
+  },
+  {
+    "Key": ",6D5B67E34BE22C4F4A106CACCF07B395",
+    "Value": "Depressurized CO₂",
+    "Id": "Depressurized CO₂"
+  },
+  {
+    "Key": ",360E7D1A4110D28D92F48395D1A66592",
+    "Value": "Quick Compressed CO₂",
+    "Id": "Quick Compressed CO₂"
+  },
+  {
+    "Key": ",0285857748C4DBDC26E235A83854FC15",
+    "Value": "Quick Decompressed CO₂",
+    "Id": "Quick Decompressed CO₂"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Concentrated Deanium",
+    "Value": "▼",
+    "Id": "▼"
+  },
+  {
+    "Key": ",6AB9664A40AA86DD2462C1889C1B525A",
+    "Value": "It's compressed concentrated deanium. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed concentrated deanium. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",7BE65D5A42F4203BE6B1DDA243CBD0C5",
+    "Value": "Compressed Concentrated Deanium",
+    "Id": "Compressed Concentrated Deanium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Concentrated Deanium",
+    "Value": "▽",
+    "Id": "▽"
+  },
+  {
+    "Key": ",5E15EFD547F3F27C8B0C1E874490C976",
+    "Value": "It's pressurized concentrated deanium.",
+    "Id": "It's pressurized concentrated deanium."
+  },
+  {
+    "Key": ",F8370A1C4C3637AE0B2549A56EE7035D",
+    "Value": "Pressurized Concentrated Deanium",
+    "Id": "Pressurized Concentrated Deanium"
+  },
+  {
+    "Key": ",BABA1B7845D998B3A6FE0F8A0AF3C00C",
+    "Value": "Decompressed Concentrated Deanium",
+    "Id": "Decompressed Concentrated Deanium"
+  },
+  {
+    "Key": ",8749A69D42C0159139FADAB88A5D478F",
+    "Value": "Depressurized Concentrated Deanium",
+    "Id": "Depressurized Concentrated Deanium"
+  },
+  {
+    "Key": ",C285D1404E194ED0B51A27A3F467D539",
+    "Value": "Quick Compressed Concentrated Deanium",
+    "Id": "Quick Compressed Concentrated Deanium"
+  },
+  {
+    "Key": ",D96779EA47A098CA0BEAEBA8E4577DFB",
+    "Value": "Quick Decompressed Concentrated Deanium",
+    "Id": "Quick Decompressed Concentrated Deanium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Deanium",
+    "Value": "▼",
+    "Id": "▼"
+  },
+  {
+    "Key": ",CCC2478240497DCF329430B9A6940046",
+    "Value": "It's compressed deanium. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed deanium. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",780BEB7E40EE837FF91E829504B71D72",
+    "Value": "Compressed Deanium",
+    "Id": "Compressed Deanium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Deanium",
+    "Value": "▽",
+    "Id": "▽"
+  },
+  {
+    "Key": ",41316FE641A3B99F3021ED888A6FDF91",
+    "Value": "It's pressurized deanium.",
+    "Id": "It's pressurized deanium."
+  },
+  {
+    "Key": ",243119A04FAC4860D39A128CCFFCA93F",
+    "Value": "Pressurized Deanium",
+    "Id": "Pressurized Deanium"
+  },
+  {
+    "Key": ",9C7FB9DE48546B6EE2CA65A5B89F1B46",
+    "Value": "Decompressed Deanium",
+    "Id": "Decompressed Deanium"
+  },
+  {
+    "Key": ",64BE9F744D679644EE5C1F8E3079CD3A",
+    "Value": "Depressurized Deanium",
+    "Id": "Depressurized Deanium"
+  },
+  {
+    "Key": ",B9871C734BAB3B5CBAD212A2A8CA24AD",
+    "Value": "Quick Compressed Deanium",
+    "Id": "Quick Compressed Deanium"
+  },
+  {
+    "Key": ",208B67794DB3B67991791CA900C6AD42",
+    "Value": "Quick Decompressed Deanium",
+    "Id": "Quick Decompressed Deanium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Deanorium",
+    "Value": "▼",
+    "Id": "▼"
+  },
+  {
+    "Key": ",A22DAD6742CFBCA8524E2E9BD5F28110",
+    "Value": "It's compressed deanorium. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed deanorium. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",8DA215AD49247C869F51BCB2D197C1D3",
+    "Value": "Compressed Deanorium",
+    "Id": "Compressed Deanorium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Deanorium",
+    "Value": "▽",
+    "Id": "▽"
+  },
+  {
+    "Key": ",EC61D57647CE706CB5302AB6537203C2",
+    "Value": "It's pressurized deanorium.",
+    "Id": "It's pressurized deanorium."
+  },
+  {
+    "Key": ",396AB03B465FC6C73DB09883CF1A9D92",
+    "Value": "Pressurized Deanorium",
+    "Id": "Pressurized Deanorium"
+  },
+  {
+    "Key": ",D141145649DF6C24174683A669483460",
+    "Value": "Decompressed Deanorium",
+    "Id": "Decompressed Deanorium"
+  },
+  {
+    "Key": ",D528E68A440620745106519BF49CC6B5",
+    "Value": "Depressurized Deanorium",
+    "Id": "Depressurized Deanorium"
+  },
+  {
+    "Key": ",D4CEF7D64B7F0DC522EC6980107F0E86",
+    "Value": "Quick Compressed Deanorium",
+    "Id": "Quick Compressed Deanorium"
+  },
+  {
+    "Key": ",200AA0CB4F314E7162ADDD86BA42060C",
+    "Value": "Quick Decompressed Deanorium",
+    "Id": "Quick Decompressed Deanorium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed D-T Blend",
+    "Value": "▼D-T",
+    "Id": "▼D-T"
+  },
+  {
+    "Key": ",BD41283A4F1C74B86CA948A167292267",
+    "Value": "It's compressed deuterium tritium blend. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed deuterium tritium blend. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",C5527DF947B1DE91A7D68D999A88BFBD",
+    "Value": "Compressed D-T Blend",
+    "Id": "Compressed D-T Blend"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized D-T Blend",
+    "Value": "▽D-T",
+    "Id": "▽D-T"
+  },
+  {
+    "Key": ",67FF4BAD4897FB734E447B9816CCCB92",
+    "Value": "It's pressurized deuterium tritium blend.",
+    "Id": "It's pressurized deuterium tritium blend."
+  },
+  {
+    "Key": ",894BBCDD4F5A9E32BCACF99C02D03B29",
+    "Value": "Pressurized D-T Blend",
+    "Id": "Pressurized D-T Blend"
+  },
+  {
+    "Key": ",92550FFD4751EF09F7F6D39B0E5B8139",
+    "Value": "Decompressed D-T Blend",
+    "Id": "Decompressed D-T Blend"
+  },
+  {
+    "Key": ",C21FB80C409A9D882E1B5E8EED37BB26",
+    "Value": "Depressurized D-T Blend",
+    "Id": "Depressurized D-T Blend"
+  },
+  {
+    "Key": ",C8A31CC845C58176AE0202A0B52080B7",
+    "Value": "Quick Compressed D-T Blend",
+    "Id": "Quick Compressed D-T Blend"
+  },
+  {
+    "Key": ",235137424B10466D987C8DB0514BDDB5",
+    "Value": "Quick Decompressed D-T Blend",
+    "Id": "Quick Decompressed D-T Blend"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed High Pressure Steam",
+    "Value": "▼Steam",
+    "Id": "▼Steam"
+  },
+  {
+    "Key": ",D40AEAE447E3CCD3C7F89CA710D64219",
+    "Value": "It's hot steam, pressurized for maximum transport pressure.",
+    "Id": "It's hot steam, pressurized for maximum transport pressure."
+  },
+  {
+    "Key": ",E8A6FE79462F0A4C1BE4FBA6076E4D74",
+    "Value": "Compressed HP-Steam",
+    "Id": "Compressed HP-Steam"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized High Pressure Steam",
+    "Value": "▽Steam",
+    "Id": "▽Steam"
+  },
+  {
+    "Key": ",A3BD2C2246E219DD5C516A9A5D336C81",
+    "Value": "It's hot steam, pressurized for optimal transport pressure.",
+    "Id": "It's hot steam, pressurized for optimal transport pressure."
+  },
+  {
+    "Key": ",A837F8BB41003E4F4B0C8E9D6622EA2C",
+    "Value": "Pressurized HP-Steam",
+    "Id": "Pressurized HP-Steam"
+  },
+  {
+    "Key": ",0B7ACDFC43622E0B40EBD4ADA2AEC4E0",
+    "Value": "Decompressed HP-Steam",
+    "Id": "Decompressed HP-Steam"
+  },
+  {
+    "Key": ",2D42AC58453FE3DF6B5B71964F7C9940",
+    "Value": "Depressurized HP-Steam",
+    "Id": "Depressurized HP-Steam"
+  },
+  {
+    "Key": ",FFB50DD84C88163C6D9740803D77971E",
+    "Value": "Quick Compressed HP-Steam",
+    "Id": "Quick Compressed HP-Steam"
+  },
+  {
+    "Key": ",033682CF466FFD2ED48EC69E6D786CC6",
+    "Value": "Quick Decompressed HP-Steam",
+    "Id": "Quick Decompressed HP-Steam"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Liquid Deuterium",
+    "Value": "▼",
+    "Id": "▼"
+  },
+  {
+    "Key": ",82A40DCF4C2EE94AEDC9EBA715D35748",
+    "Value": "It's compressed liquid deuterium. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed liquid deuterium. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",195A36B148D652FD0AAE43A9498CAB2A",
+    "Value": "Compressed Liquid Deuterium",
+    "Id": "Compressed Liquid Deuterium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Liquid Deuterium",
+    "Value": "▽",
+    "Id": "▽"
+  },
+  {
+    "Key": ",86D277BD4368C8ADB2CF85AB9B99F8BD",
+    "Value": "It's pressurized liquid deuterium.",
+    "Id": "It's pressurized liquid deuterium."
+  },
+  {
+    "Key": ",BAB7B99D4F016C15217927ACE271A17A",
+    "Value": "Pressurized Liquid Deuterium",
+    "Id": "Pressurized Liquid Deuterium"
+  },
+  {
+    "Key": ",EA45D5F54958FDAE36BF00BFA26CFE7B",
+    "Value": "Decompressed Liquid Deuterium",
+    "Id": "Decompressed Liquid Deuterium"
+  },
+  {
+    "Key": ",26201205452296C5475C299E3F561725",
+    "Value": "Depressurized Liquid Deuterium",
+    "Id": "Depressurized Liquid Deuterium"
+  },
+  {
+    "Key": ",B35587ED4303184990BE0BB673BF4F86",
+    "Value": "Quick Compressed Liquid Deuterium",
+    "Id": "Quick Compressed Liquid Deuterium"
+  },
+  {
+    "Key": ",767AC3A34495ABA3A09E53AAC62A1365",
+    "Value": "Quick Decompressed Liquid Deuterium",
+    "Id": "Quick Decompressed Liquid Deuterium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Unfiltered Deuterium",
+    "Value": "▼",
+    "Id": "▼"
+  },
+  {
+    "Key": ",71AD7AB54B539DB540C3469F144CFDF5",
+    "Value": "It's compressed unfiltered deuterium. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed unfiltered deuterium. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",3F4E2D1143F2AE2DA1719EAD51AD616F",
+    "Value": "Compressed Unfiltered Deuterium",
+    "Id": "Compressed Unfiltered Deuterium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Unfiltered Deuterium",
+    "Value": "▽",
+    "Id": "▽"
+  },
+  {
+    "Key": ",ECB9642A43627665F22542BB9AE47F08",
+    "Value": "It's pressurized unfiltered deuterium.",
+    "Id": "It's pressurized unfiltered deuterium."
+  },
+  {
+    "Key": ",07CD34D642F2C498B38AB4B332FD0A6B",
+    "Value": "Pressurized Unfiltered Deuterium",
+    "Id": "Pressurized Unfiltered Deuterium"
+  },
+  {
+    "Key": ",2463798340D09EA62FC1D28FB39E66EA",
+    "Value": "Decompressed Unfiltered Deuterium",
+    "Id": "Decompressed Unfiltered Deuterium"
+  },
+  {
+    "Key": ",6963F7C34CD72CCA9EEF84BC3A7A213A",
+    "Value": "Depressurized Unfiltered Deuterium",
+    "Id": "Depressurized Unfiltered Deuterium"
+  },
+  {
+    "Key": ",A5B9BB524F562D802902D68C830EB21D",
+    "Value": "Quick Compressed Unfiltered Deuterium",
+    "Id": "Quick Compressed Unfiltered Deuterium"
+  },
+  {
+    "Key": ",533EB7BB4460F11C0CD5C9A93EDC80D2",
+    "Value": "Quick Decompressed Unfiltered Deuterium",
+    "Id": "Quick Decompressed Unfiltered Deuterium"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Methane Gas",
+    "Value": "▼CH₄",
+    "Id": "▼CH₄"
+  },
+  {
+    "Key": ",D65DA3E4423C6F02D04D839FA6A22295",
+    "Value": "It's compressed methane gas.",
+    "Id": "It's compressed methane gas."
+  },
+  {
+    "Key": ",9078BAF5451B22701DC4E69BC67A97A5",
+    "Value": "Compressed Methane Gas",
+    "Id": "Compressed Methane Gas"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Methane Gas",
+    "Value": "▽CH₄",
+    "Id": "▽CH₄"
+  },
+  {
+    "Key": ",756C4E684D9E120CC33971B68A87FC4B",
+    "Value": "It's pressurized methane gas.",
+    "Id": "It's pressurized methane gas."
+  },
+  {
+    "Key": ",4F94C3D54497FE9D4A8EFC9D7C9512E2",
+    "Value": "Pressurized Methane Gas",
+    "Id": "Pressurized Methane Gas"
+  },
+  {
+    "Key": ",2CF2047148454613A3732EAC14864052",
+    "Value": "Decompressed Methane Gas",
+    "Id": "Decompressed Methane Gas"
+  },
+  {
+    "Key": ",9DD0A89E4CDD8F61C2C4FDA5A22F4B4E",
+    "Value": "Depressurized Methane Gas",
+    "Id": "Depressurized Methane Gas"
+  },
+  {
+    "Key": ",8173BFDC4D0D760D72E91C8A00D3B0E3",
+    "Value": "Quick Compressed Methane Gas",
+    "Id": "Quick Compressed Methane Gas"
+  },
+  {
+    "Key": ",DD8E22404FD02A3478BF13A2B1530EE1",
+    "Value": "Quick Decompressed Methane Gas",
+    "Id": "Quick Decompressed Methane Gas"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Reactor Coolant",
+    "Value": "▼",
+    "Id": "▼"
+  },
+  {
+    "Key": ",A6D5661C47DA89B0879CE58C129F4F5B",
+    "Value": "It's compressed reactor coolant. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed reactor coolant. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",C06DEE534606645BE136F1BD0D94C3AC",
+    "Value": "Compressed Reactor Coolant",
+    "Id": "Compressed Reactor Coolant"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Reactor Coolant",
+    "Value": "▽",
+    "Id": "▽"
+  },
+  {
+    "Key": ",E47A8B9F4232D372EBEEC590C247C4D4",
+    "Value": "It's pressurized reactor coolant.",
+    "Id": "It's pressurized reactor coolant."
+  },
+  {
+    "Key": ",51FBBDC449D84F8EC9D334B902506B99",
+    "Value": "Pressurized Reactor Coolant",
+    "Id": "Pressurized Reactor Coolant"
+  },
+  {
+    "Key": ",D51AD90647319491A0D4DABB56C7C793",
+    "Value": "Decompressed Reactor Coolant",
+    "Id": "Decompressed Reactor Coolant"
+  },
+  {
+    "Key": ",D08A792B43EAD53EFD82B29D5C033E30",
+    "Value": "Depressurized Reactor Coolant",
+    "Id": "Depressurized Reactor Coolant"
+  },
+  {
+    "Key": ",17172EBF4540BE13BFD621BD91D7C0C2",
+    "Value": "Quick Compressed Reactor Coolant",
+    "Id": "Quick Compressed Reactor Coolant"
+  },
+  {
+    "Key": ",9BD7D4474CF1B91BED5E4AB029B2A114",
+    "Value": "Quick Decompressed Reactor Coolant",
+    "Id": "Quick Decompressed Reactor Coolant"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Toxic Gas",
+    "Value": "▼",
+    "Id": "▼"
+  },
+  {
+    "Key": ",7EAD5DD44DD920C1909171805359A387",
+    "Value": "It's compressed toxic gas.",
+    "Id": "It's compressed toxic gas."
+  },
+  {
+    "Key": ",9E99B9BA49E5AFD58653DE92EE6AFD82",
+    "Value": "Compressed Toxic Gas",
+    "Id": "Compressed Toxic Gas"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Toxic Gas",
+    "Value": "▽",
+    "Id": "▽"
+  },
+  {
+    "Key": ",9CDD786749EF97CE30B49884C3B60C14",
+    "Value": "It's pressurized toxic gas.",
+    "Id": "It's pressurized toxic gas."
+  },
+  {
+    "Key": ",5C9032FD4B8B2B621E1A3CB75E7B24F0",
+    "Value": "Pressurized Toxic Gas",
+    "Id": "Pressurized Toxic Gas"
+  },
+  {
+    "Key": ",78AF90D144EB068B1AE531B1E157B05E",
+    "Value": "Decompressed Toxic Gas",
+    "Id": "Decompressed Toxic Gas"
+  },
+  {
+    "Key": ",052A1C454F37DAF553B167AD026E1007",
+    "Value": "Depressurized Toxic Gas",
+    "Id": "Depressurized Toxic Gas"
+  },
+  {
+    "Key": ",F19595464C23FFD40452748ECAF7CA06",
+    "Value": "Quick Compressed Toxic Gas",
+    "Id": "Quick Compressed Toxic Gas"
+  },
+  {
+    "Key": ",1E5BA3E24EC4D01E8EB1ABAF337445E1",
+    "Value": "Quick Decompressed Toxic Gas",
+    "Id": "Quick Decompressed Toxic Gas"
+  },
+  {
+    "Key": ",8AC113D34B39D6CE1798A484EEB9C13E",
+    "Value": "Milestone reached. Pressure modulator unlocked.\\r\\n\\r\\nFluids can now be pressurized for streamlined long-distance transport.\\r\\n\\r\\nNote: Although extreme pressure can eliminate the need for pumps, most machines are incompatible with pressurized fluids.\\r\\n\\r\\nEnsure proper depressurization before processing to avoid damage to fixit property.",
+    "Id": "Milestone reached. Pressure modulator unlocked.\\r\\n\\r\\nFluids can now be pressurized for streamlined long-distance transport.\\r\\n\\r\\nNote: Although extreme pressure can eliminate the need for pumps, most machines are incompatible with pressurized fluids.\\r\\n\\r\\nEnsure proper depressurization before processing to avoid damage to fixit property."
+  },
+  {
+    "Key": ",AFB5E10E4EF0229EC85F2C84B33ADC33",
+    "Value": "Milestone reached. Pressure modulator unlocked.",
+    "Id": "Milestone reached. Pressure modulator unlocked."
+  },
+  {
+    "Key": ",B0B922AD4CA6050FAB8E79A0FEA2B1DE",
+    "Value": "Fluids can now be pressurized for streamlined long-distance transport.",
+    "Id": "Fluids can now be pressurized for streamlined long-distance transport."
+  },
+  {
+    "Key": ",CDE7DF3345DB15ACF51E77825A398F7A",
+    "Value": "Note: Although extreme pressure can eliminate the need for pumps, most machines are incompatible with pressurized fluids.",
+    "Id": "Note: Although extreme pressure can eliminate the need for pumps, most machines are incompatible with pressurized fluids."
+  },
+  {
+    "Key": ",795CF15C4D2426B69ED2A8B2CD3A3A5C",
+    "Value": "Ensure proper depressurization before processing to avoid damage to FICSIT property.",
+    "Id": "Ensure proper depressurization before processing to avoid damage to FICSIT property."
+  },
+  {
+    "Key": ",C3DA03ED4DCE37154926098BF5330694",
+    "Value": "Pressure Modulation",
+    "Id": "Pressure Modulation"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Alumina Solution",
+    "Value": "▼DMR",
+    "Id": "▼DMR"
+  },
+  {
+    "Key": ",AC475D9E42E665E84FB78595B7502AF2",
+    "Value": "It's compressed alumina solution. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed alumina solution. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",A84162F843A14E7C88D647A504D44F99",
+    "Value": "Compressed Alumina Solution",
+    "Id": "Compressed Alumina Solution"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Alumina Solution",
+    "Value": "▽DMR",
+    "Id": "▽DMR"
+  },
+  {
+    "Key": ",5D14156948DF196D327C22A4E3EC733E",
+    "Value": "It's pressurized alumina solution.",
+    "Id": "It's pressurized alumina solution."
+  },
+  {
+    "Key": ",3C05BCB2479D6141ACBC61B41C2A820E",
+    "Value": "Pressurized Alumina Solution",
+    "Id": "Pressurized Alumina Solution"
+  },
+  {
+    "Key": ",EE3E03974B37C9E3DB9A6DAC0FCF8702",
+    "Value": "Decompressed Alumina Solution",
+    "Id": "Decompressed Alumina Solution"
+  },
+  {
+    "Key": ",4937C63942A2865F7EB8548892AD28F0",
+    "Value": "Depressurized Alumina Solution",
+    "Id": "Depressurized Alumina Solution"
+  },
+  {
+    "Key": ",6C5EF6534AB8CB57A143BEB728C25630",
+    "Value": "Quick Compressed Alumina Solution",
+    "Id": "Quick Compressed Alumina Solution"
+  },
+  {
+    "Key": ",21D612684C0236A7C17CD485898C434C",
+    "Value": "Quick Decompressed Alumina Solution",
+    "Id": "Quick Decompressed Alumina Solution"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Crude Oil",
+    "Value": "▼Oil",
+    "Id": "▼Oil"
+  },
+  {
+    "Key": ",02530A344A21941E31DB81836C4A7CE9",
+    "Value": "It's compressed crude oil. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed crude oil. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",0457EE0A45248B32DAF3F29CA03E8EE2",
+    "Value": "Compressed Crude Oil",
+    "Id": "Compressed Crude Oil"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Crude Oil",
+    "Value": "▽Oil",
+    "Id": "▽Oil"
+  },
+  {
+    "Key": ",B7241FAF4B3C9CE36BE3B7856B48977A",
+    "Value": "It's pressurized crude oil.",
+    "Id": "It's pressurized crude oil."
+  },
+  {
+    "Key": ",1684B320466CEE76517A49BDD9D3C65B",
+    "Value": "Pressurized Crude Oil",
+    "Id": "Pressurized Crude Oil"
+  },
+  {
+    "Key": ",F1B614204551443480CF4AB3BA33A122",
+    "Value": "Decompressed Crude Oil",
+    "Id": "Decompressed Crude Oil"
+  },
+  {
+    "Key": ",619C1B004E83153FF7453B81483A6BE2",
+    "Value": "Depressurized Crude Oil",
+    "Id": "Depressurized Crude Oil"
+  },
+  {
+    "Key": ",3B6B965549433777BF7745B2B507630D",
+    "Value": "Quick Compressed Crude Oil",
+    "Id": "Quick Compressed Crude Oil"
+  },
+  {
+    "Key": ",F31781DC481EB0FBB80E1298FDD6522D",
+    "Value": "Quick Decompressed Crude Oil",
+    "Id": "Quick Decompressed Crude Oil"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Fuel",
+    "Value": "▼Fuel",
+    "Id": "▼Fuel"
+  },
+  {
+    "Key": ",F17CB30B425B32024672EF9D48529295",
+    "Value": "It's compressed fuel. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed fuel. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",6355C16742E43B25DE08819A8251CB52",
+    "Value": "Compressed Fuel",
+    "Id": "Compressed Fuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Fuel",
+    "Value": "▽Fuel",
+    "Id": "▽Fuel"
+  },
+  {
+    "Key": ",94E7C6044039F87D83D35DA9ACA9927E",
+    "Value": "It's pressurized fuel.",
+    "Id": "It's pressurized fuel."
+  },
+  {
+    "Key": ",A29A0FE440A6BBEAEB09DBB9064EA58C",
+    "Value": "Pressurized Fuel",
+    "Id": "Pressurized Fuel"
+  },
+  {
+    "Key": ",4A3301D24742602F3DC403B42B4D3547",
+    "Value": "Decompressed Fuel",
+    "Id": "Decompressed Fuel"
+  },
+  {
+    "Key": ",0FBC0FB849E10150DD69B9B6D0314D89",
+    "Value": "Depressurized Fuel",
+    "Id": "Depressurized Fuel"
+  },
+  {
+    "Key": ",E0089CAD4D524B78837C94A62E9234C1",
+    "Value": "Quick Compressed Fuel",
+    "Id": "Quick Compressed Fuel"
+  },
+  {
+    "Key": ",91D9D2E245012D22008D179E0F0579DE",
+    "Value": "Quick Decompressed Fuel",
+    "Id": "Quick Decompressed Fuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Heavy Oil Residue",
+    "Value": "▼HOR",
+    "Id": "▼HOR"
+  },
+  {
+    "Key": ",EE243C594C5A31D18E35BB9E4989B0E7",
+    "Value": "It's compressed heavy oil residue. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed heavy oil residue. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",DA71A4694C4950DBEC3B2F9482FC09E8",
+    "Value": "Compressed Heavy Oil Residue",
+    "Id": "Compressed Heavy Oil Residue"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Heavy Oil Residue",
+    "Value": "▽HOR",
+    "Id": "▽HOR"
+  },
+  {
+    "Key": ",F0E4DB4A405CF0913F01CF841C7E5AC8",
+    "Value": "It's pressurized heavy oil residue.",
+    "Id": "It's pressurized heavy oil residue."
+  },
+  {
+    "Key": ",2272C6DA4BC1D14AADD81E9755AC0C43",
+    "Value": "Pressurized Heavy Oil Residue",
+    "Id": "Pressurized Heavy Oil Residue"
+  },
+  {
+    "Key": ",15A85E024B361BF2D159DCBE9C0A8D17",
+    "Value": "Decompressed Heavy Oil Residue",
+    "Id": "Decompressed Heavy Oil Residue"
+  },
+  {
+    "Key": ",EEFB08064D16D1BC475DB981ADE37D77",
+    "Value": "Depressurized Heavy Oil Residue",
+    "Id": "Depressurized Heavy Oil Residue"
+  },
+  {
+    "Key": ",227038C84742DEDE46B933B6CBDC61F7",
+    "Value": "Quick Compressed Heavy Oil Residue",
+    "Id": "Quick Compressed Heavy Oil Residue"
+  },
+  {
+    "Key": ",8D7E81A14D099607C68696A023CF8F23",
+    "Value": "Quick Decompressed Heavy Oil Residue",
+    "Id": "Quick Decompressed Heavy Oil Residue"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Ionized Fuel",
+    "Value": "▼Ion",
+    "Id": "▼Ion"
+  },
+  {
+    "Key": ",39C57DFB46ABB9661AD95FB07C7A2F83",
+    "Value": "It's compressed ionized fuel.",
+    "Id": "It's compressed ionized fuel."
+  },
+  {
+    "Key": ",743EC9D8453D0AEF89DEED8DB555227F",
+    "Value": "Compressed Ionized Fuel",
+    "Id": "Compressed Ionized Fuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Ionized Fuel",
+    "Value": "▽Ion",
+    "Id": "▽Ion"
+  },
+  {
+    "Key": ",47F627DA47F10D52EA9B6BA5D5467C2A",
+    "Value": "It's pressurized ionized fuel.",
+    "Id": "It's pressurized ionized fuel."
+  },
+  {
+    "Key": ",40799FD14EDB5C807A6475B038277EA0",
+    "Value": "Pressurized Ionized Fuel",
+    "Id": "Pressurized Ionized Fuel"
+  },
+  {
+    "Key": ",E6AA1C8A4A05A596F2C757A9855BF503",
+    "Value": "Decompressed Ionized Fuel",
+    "Id": "Decompressed Ionized Fuel"
+  },
+  {
+    "Key": ",2B49925F4F6B7167B0CB59AB559F0F13",
+    "Value": "Depressurized Ionized Fuel",
+    "Id": "Depressurized Ionized Fuel"
+  },
+  {
+    "Key": ",5363FBE84C1D0CBF097C598A541A2AF4",
+    "Value": "Quick Compressed Ionized Fuel",
+    "Id": "Quick Compressed Ionized Fuel"
+  },
+  {
+    "Key": ",7FFE001A4484DE2A780F0F8D55322243",
+    "Value": "Quick Decompressed Ionized Fuel",
+    "Id": "Quick Decompressed Ionized Fuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Liquid Biofuel",
+    "Value": "▼Bio",
+    "Id": "▼Bio"
+  },
+  {
+    "Key": ",693E681F4B81E78B4FD95CAA34E7E20D",
+    "Value": "It's compressed liquid biofuel. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed liquid biofuel. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",238DDE074AD4A7B7F7ECC58B4A2BBD0E",
+    "Value": "Compressed Liquid Biofuel",
+    "Id": "Compressed Liquid Biofuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Liquid Biofuel",
+    "Value": "▽Bio",
+    "Id": "▽Bio"
+  },
+  {
+    "Key": ",BC84A0CC4D04C6C15E84479F66B29870",
+    "Value": "It's pressurized liquid biofuel.",
+    "Id": "It's pressurized liquid biofuel."
+  },
+  {
+    "Key": ",1B9C43CB435629CFE64BE0B374499362",
+    "Value": "Pressurized Liquid Biofuel",
+    "Id": "Pressurized Liquid Biofuel"
+  },
+  {
+    "Key": ",DA55C0E943F1EEDE86031796B2A811CA",
+    "Value": "Decompressed Liquid Biofuel",
+    "Id": "Decompressed Liquid Biofuel"
+  },
+  {
+    "Key": ",60ECEBFE44A2E62B7EF8579867415DC5",
+    "Value": "Depressurized Liquid Biofuel",
+    "Id": "Depressurized Liquid Biofuel"
+  },
+  {
+    "Key": ",50543ECF43E687398FA5559194B0A960",
+    "Value": "Quick Compressed Liquid Biofuel",
+    "Id": "Quick Compressed Liquid Biofuel"
+  },
+  {
+    "Key": ",A2B0D4614A8BC84EFA6E3597D102A1A6",
+    "Value": "Quick Decompressed Liquid Biofuel",
+    "Id": "Quick Decompressed Liquid Biofuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Nitric Acid",
+    "Value": "▼NA",
+    "Id": "▼NA"
+  },
+  {
+    "Key": ",0FBF596944DB5CCE28E6D6AB416EF9A7",
+    "Value": "It's compressed nitric acid. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed nitric acid. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",BC9D5AF040AEAA56048820B9A97CAF58",
+    "Value": "Compressed Nitric Acid",
+    "Id": "Compressed Nitric Acid"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Nitric Acid",
+    "Value": "▽NA",
+    "Id": "▽NA"
+  },
+  {
+    "Key": ",07087BEF486292D4C8912B8036F1627A",
+    "Value": "It's pressurized nitric acid.",
+    "Id": "It's pressurized nitric acid."
+  },
+  {
+    "Key": ",66C7753D4CA678524D6ACEB2A65C4403",
+    "Value": "Pressurized Nitric Acid",
+    "Id": "Pressurized Nitric Acid"
+  },
+  {
+    "Key": ",0A95479C4C6A265C5E331EBC7B4299EC",
+    "Value": "Decompressed Nitric Acid",
+    "Id": "Decompressed Nitric Acid"
+  },
+  {
+    "Key": ",007606DD4B46DBB090E19ABAA8841D9E",
+    "Value": "Depressurized Nitric Acid",
+    "Id": "Depressurized Nitric Acid"
+  },
+  {
+    "Key": ",73C1283A44448EDF0D8DB88FAE12D844",
+    "Value": "Quick Compressed Nitric Acid",
+    "Id": "Quick Compressed Nitric Acid"
+  },
+  {
+    "Key": ",45F8CB684C310F979CDF00802329F66D",
+    "Value": "Quick Decompressed Nitric Acid",
+    "Id": "Quick Decompressed Nitric Acid"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Nitrogen Gas",
+    "Value": "▼N",
+    "Id": "▼N"
+  },
+  {
+    "Key": ",2944E7F846B1EF34005F14B1D03D589A",
+    "Value": "It's compressed nitrogen gas.",
+    "Id": "It's compressed nitrogen gas."
+  },
+  {
+    "Key": ",AC49061D483B4B0AA4BD44AB34A54F89",
+    "Value": "Compressed Nitrogen Gas",
+    "Id": "Compressed Nitrogen Gas"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Nitrogen Gas",
+    "Value": "▽N",
+    "Id": "▽N"
+  },
+  {
+    "Key": ",3ECB87E14A6B0B1C20001DA72BE82CC0",
+    "Value": "It's pressurized nitrogen gas.",
+    "Id": "It's pressurized nitrogen gas."
+  },
+  {
+    "Key": ",BAAF28664D4E01FA1EE46AA21D1BD1B5",
+    "Value": "Pressurized Nitrogen Gas",
+    "Id": "Pressurized Nitrogen Gas"
+  },
+  {
+    "Key": ",10AD3D8E40BC56160FC5D29374932A49",
+    "Value": "Decompressed Nitrogen Gas",
+    "Id": "Decompressed Nitrogen Gas"
+  },
+  {
+    "Key": ",D853098F4797BB1CB3DB06B0AE32FBA9",
+    "Value": "Depressurized Nitrogen Gas",
+    "Id": "Depressurized Nitrogen Gas"
+  },
+  {
+    "Key": ",6201C06148377EB361D90EBA5B79F97C",
+    "Value": "Quick Compressed Nitrogen Gas",
+    "Id": "Quick Compressed Nitrogen Gas"
+  },
+  {
+    "Key": ",E7F68F234A7D18884C34A391D11E5F06",
+    "Value": "Quick Decompressed Nitrogen Gas",
+    "Id": "Quick Decompressed Nitrogen Gas"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Rocket Fuel",
+    "Value": "▼Rocket",
+    "Id": "▼Rocket"
+  },
+  {
+    "Key": ",7B79D17842261FFCA9460B8E5587BB72",
+    "Value": "It's compressed rocket fuel.",
+    "Id": "It's compressed rocket fuel."
+  },
+  {
+    "Key": ",C013601B49724687F9C3CCA19A460575",
+    "Value": "Compressed Rocket Fuel",
+    "Id": "Compressed Rocket Fuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Rocket Fuel",
+    "Value": "▽Rocket",
+    "Id": "▽Rocket"
+  },
+  {
+    "Key": ",7F0F954946F9DBB8098C3E9382EB91C8",
+    "Value": "It's pressurized rocket fuel.",
+    "Id": "It's pressurized rocket fuel."
+  },
+  {
+    "Key": ",2B2F6C0E48F9504C6E82D5B312448983",
+    "Value": "Pressurized Rocket Fuel",
+    "Id": "Pressurized Rocket Fuel"
+  },
+  {
+    "Key": ",2BE27D2544F4AAB83B30D8968F8901E4",
+    "Value": "Decompressed Rocket Fuel",
+    "Id": "Decompressed Rocket Fuel"
+  },
+  {
+    "Key": ",8AA280F6416F1E9AAA6BA1B62E9C84B1",
+    "Value": "Depressurized Rocket Fuel",
+    "Id": "Depressurized Rocket Fuel"
+  },
+  {
+    "Key": ",A6B64E5E4BB13701AEE8288CEDB9C744",
+    "Value": "Quick Compressed Rocket Fuel",
+    "Id": "Quick Compressed Rocket Fuel"
+  },
+  {
+    "Key": ",17C4F0C5438CB8ED21EB388F7F86BF23",
+    "Value": "Quick Decompressed Rocket Fuel",
+    "Id": "Quick Decompressed Rocket Fuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Sulfuric Acid",
+    "Value": "▼SA",
+    "Id": "▼SA"
+  },
+  {
+    "Key": ",E38B90B742C106C338C739BB929A8415",
+    "Value": "It's compressed sulfuric acid. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed sulfuric acid. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",909847A946C0BDCFF7A3A6B174135352",
+    "Value": "Compressed Sulfuric Acid",
+    "Id": "Compressed Sulfuric Acid"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Sulfuric Acid",
+    "Value": "▽SA",
+    "Id": "▽SA"
+  },
+  {
+    "Key": ",8C635D8A40286D40BD8D5B90C0D4E330",
+    "Value": "It's pressurized sulfuric acid.",
+    "Id": "It's pressurized sulfuric acid."
+  },
+  {
+    "Key": ",AF7CBCB14E87A286791832AD1BE42976",
+    "Value": "Pressurized Sulfuric Acid",
+    "Id": "Pressurized Sulfuric Acid"
+  },
+  {
+    "Key": ",54FFF70945C54795FB93A489D0479260",
+    "Value": "Decompressed Sulfuric Acid",
+    "Id": "Decompressed Sulfuric Acid"
+  },
+  {
+    "Key": ",560B75164A42E5DF139FCDA815CA1ED2",
+    "Value": "Depressurized Sulfuric Acid",
+    "Id": "Depressurized Sulfuric Acid"
+  },
+  {
+    "Key": ",AB0A5F53464514CCC3B877924D50EBFD",
+    "Value": "Quick Compressed Sulfuric Acid",
+    "Id": "Quick Compressed Sulfuric Acid"
+  },
+  {
+    "Key": ",E181B9B941135D8B876181A767291F06",
+    "Value": "Quick Decompressed Sulfuric Acid",
+    "Id": "Quick Decompressed Sulfuric Acid"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Turbofuel",
+    "Value": "▼Turbo",
+    "Id": "▼Turbo"
+  },
+  {
+    "Key": ",C5627DB3443E15ED731924A9337DEED0",
+    "Value": "It's compressed turbofuel. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed turbofuel. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",743B6B664418DA15CCCAE8B1BF7A5A19",
+    "Value": "Compressed Turbofuel",
+    "Id": "Compressed Turbofuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Turbofuel",
+    "Value": "▽Turbo",
+    "Id": "▽Turbo"
+  },
+  {
+    "Key": ",BB3E2B4B4B33F2A05FAF49BB527897B7",
+    "Value": "It's pressurized turbofuel.",
+    "Id": "It's pressurized turbofuel."
+  },
+  {
+    "Key": ",2FC541FD48E087B469E6F8BD80EE25C3",
+    "Value": "Pressurized Turbofuel",
+    "Id": "Pressurized Turbofuel"
+  },
+  {
+    "Key": ",B4A95ACE403149228124B1BC9E7C7DAE",
+    "Value": "Decompressed Turbofuel",
+    "Id": "Decompressed Turbofuel"
+  },
+  {
+    "Key": ",BB7D7F9042D58226F51930B7F3B2C17E",
+    "Value": "Depressurized Turbofuel",
+    "Id": "Depressurized Turbofuel"
+  },
+  {
+    "Key": ",F30DADD04210AB4271A0A79721B8C3A0",
+    "Value": "Quick Compressed Turbofuel",
+    "Id": "Quick Compressed Turbofuel"
+  },
+  {
+    "Key": ",419B1C1A4A18BB0A89B5D7AB5F748677",
+    "Value": "Quick Decompressed Turbofuel",
+    "Id": "Quick Decompressed Turbofuel"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Compressed Water",
+    "Value": "▼H₂O",
+    "Id": "▼H₂O"
+  },
+  {
+    "Key": ",39E940A44228870B12CDC28187E8A62A",
+    "Value": "It's compressed water. Transporting does not require pumps due to extreme pressure.",
+    "Id": "It's compressed water. Transporting does not require pumps due to extreme pressure."
+  },
+  {
+    "Key": ",980AF7EE43D916D23FF859A9B0CC0575",
+    "Value": "Compressed Water",
+    "Id": "Compressed Water"
+  },
+  {
+    "Key": "AbbreviatedDisplayName,Pressurized Water",
+    "Value": "▽H₂O",
+    "Id": "▽H₂O"
+  },
+  {
+    "Key": ",9CC2D945439021AC828D85BA115FAF9F",
+    "Value": "It's pressurized water.",
+    "Id": "It's pressurized water."
+  },
+  {
+    "Key": ",E13EBB1E4CE4086C0A6DB798FC5DC9AC",
+    "Value": "Pressurized Water",
+    "Id": "Pressurized Water"
+  },
+  {
+    "Key": ",535D9E3C4624691D9214DD843CF90FA1",
+    "Value": "Decompressed Water",
+    "Id": "Decompressed Water"
+  },
+  {
+    "Key": ",39877C5144B46D6992DFB6B512A5F512",
+    "Value": "Depressurized Water",
+    "Id": "Depressurized Water"
+  },
+  {
+    "Key": ",401258134EAA731F35CF95A592C786A3",
+    "Value": "Quick Compressed Water",
+    "Id": "Quick Compressed Water"
+  },
+  {
+    "Key": ",8D44F71F4FAFF59CE19F9A92FF0CF82B",
+    "Value": "Quick Decompressed Water",
+    "Id": "Quick Decompressed Water"
+  }
+]
